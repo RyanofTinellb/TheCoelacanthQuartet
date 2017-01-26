@@ -75,7 +75,7 @@ The market was clearly closing, so Toresh and her father went back to the hotel,
 Toresh came around the next morning to take her to breakfast, and thence to her first day in the Lusov markets.
 As she had hoped, Corla got enough impressions from the swirling thoughts around her to be able to predict which customers could be persuaded to part with more currency, and which would be happier to barter. Even Piado was impressed, although only his daughter could tell; he did not let it show in his voice. Slowly through the day, their stores diminished as they were bought or traded for. The market went on for a couple of days yet, but Piado figured that tomorrow would see them finished. He was glad; he didn&rsquo;t mind the flatlanders on occasion, but it was very easy to become tired of them. He always needed to concentrate more, trying to communicate in words. <em>Still,</em> he reflected, <em>Corla seems to be doing what she promised. That does make it slightly easier.</em>
 [1]Tinellbian
-<h2><high-lulani>.dzNKFcN / qsw / S;nIwq / raNq / iK;Ns.</high-lulani></h2>
+<h2><high-lulani>.dZNKFcN / qsw / S;nIwq / raNq / iK;Ns.</high-lulani></h2>
 This and subsequent pages are in Tinellbian script, beginning with the <a href="../h/high lulani.html">High Lulani</a> language. If you have trouble reading this, you may choose one another of the options to the left.
 [2]<high-lulani>.ZCnG / yl.</high-lulani>
 [3]<high-lulani>.DS;nUk.</high-lulani>
@@ -111,7 +111,7 @@ This and subsequent pages are in Tinellbian script, beginning with the <a href="
 <high-lulani>.PaE / cN / kWmt;NwJa / j;NTqX / Lq . NF&gt;iti / j;Ngt / kI / mN , ikV . N&gt;nQ / ru , mq / cN / y;SG / EzNDS / A , cV;zwDS.</high-lulani>
 <high-lulani>.cN / &gt;r / FpcN / dwVbq / WzFru / OFw&gt; / Hv / u;sp;k / MV . L / &gt;Mej / za / MVt / j;N / P;D / lO / kWusdjB;WNGwq / cohq / Hv / pD;z . cN / X&gt; / Eiiuj / &lt;P / ru / AU / NMX / NJfDq / j / us . AU / ru / Yi / X&gt; / NDFQx / gi / Yi / IBeavR / n / zIF . PaE / Qx / iqc / A , &gt;Rl / i / daw / vN , mD / Dh / leHw / t . cbDS / miKkW&lt;;RzW;&gt; / j;NaD.</high-lulani>
 [1]Transliteration
-<h2>Dasunikificani Qasaru Sinnanuruqa Ra&rsquo;aniqa &#x294;ikinnisa</h2>
+<h2>Daxunikificani Qasaru Sinnanuruqa Ra&rsquo;aniqa &#x294;ikinnisa</h2>
 This set of pages uses Latin letters to give an idea of the sounds of the Tinellbian languages.
 [2]Xucinagi Cula
 [3]Disinnamuka
@@ -147,7 +147,7 @@ Pi&rsquo;adu &rsquo;irippa. &ldquo;&#x294;usu qilu pali filli &rsquo;isaqala 
 Pi&rsquo;adu cani kalumatanniruji&rsquo;a jannitiqaxi liqa. Nifiku&rsquo;ita&rsquo;i jannigata kanu mani, &rsquo;ikahu. Nikunaqi ra&rsquo;u, maqa cani cussigi dusunidisi qu, cahussurudisi.
 Cani kura fipacani daruhubaqa Lusufira&rsquo;u bufiruku hifu &rsquo;ussapakka mihu. Li kumituja su&rsquo;a mihuta janni piddi labu kalu&rsquo;usadajabillunigiruqa capuhaqa hifu padissu. Cani xiku du&rsquo;i&rsquo;i&rsquo;uja gupi ra&rsquo;u qumu nimixi nijifadiqa ja &rsquo;usa. Qumu ra&rsquo;u ju&rsquo;i xiku nidifiqixa ga&rsquo;i ju&rsquo;i nubitu&rsquo;afuri na sunufi. Pi&rsquo;adu qixa &rsquo;iqaca qu, Kurila &rsquo;i da&rsquo;aru funi, madi diha latuhiru ta. Cabadisi ma&rsquo;ikikalugurrisulukku janni&rsquo;adi.
 [1]Interlinear
-[t]<h2>Ryan Eakins&rsquo;s <em>Coelacanth Quartet</em></h2> | [r][t]<em>Dasuni-</em> | <em>kifi-</em> | <em>cani</em> | [r]Tail- | three- | having | [/t] | [t]<em>Qasa-</em> | <em>ru</em> | [r]Fish- | named | [/t] | [t]<em>Sinna-</em> | <em>nuru-</em> | qa | [r]Story- | four- | <small-caps>gen</small-caps> | [/t] | [t]Ra&rsquo;ani- | qa | [r]Ryan- | <small-caps>gen</small-caps> | [/t] | [t]&#x294;ikinnisa. | [r]Eakins. | [/t] | [/t]
+[t]<h2>Ryan Eakins&rsquo;s <em>Coelacanth Quartet</em></h2> | [r][t]<em>Daxuni-</em> | <em>kifi-</em> | <em>cani</em> | [r]Tail- | three- | having | [/t] | [t]<em>Qasa-</em> | <em>ru</em> | [r]Fish- | named | [/t] | [t]<em>Sinna-</em> | <em>nuru-</em> | qa | [r]Story- | four- | <small-caps>gen</small-caps> | [/t] | [t]Ra&rsquo;ani- | qa | [r]Ryan- | <small-caps>gen</small-caps> | [/t] | [t]&#x294;ikinnisa. | [r]Eakins. | [/t] | [/t]
 And so it begins&hellip;
 [2]Story
 [t]<h2>The Crackled Egg</h2> | [r][t]Xuci- | nagi | [r]feather- | becoming | [/t] | [t]Cula. | [r]Egg. | [/t] | [/t]
