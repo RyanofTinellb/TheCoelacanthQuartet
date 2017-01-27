@@ -1,2897 +1,1275 @@
- 'a 
- 'a- 
- 'adda 
- 'adi 
- 'adi. 
- 'agu- 
- 'ala. 
- 'alla- 
- 'assa 
- 'assa 
- 'assa 
- 'assa- 
- 'i'uja 
- 'ilu- 
- 'issa- 
- 'ita'i 
- 'ita'i 
- 'ita'i 
- 'ita'i 
- 'ita'i- 
- 'ita'i- 
- 'u'ili- 
- 'umi 
- 'usa- 
- 'usa- 
- 'usa. 
- 'usu 
- 'usu 
- 'usu 
- 1[k]int[/k] 
- 1[k]int[/k] 
- 2[k]gen[/k] 
- 2[k]gen[/k] 
- 2[k]gen[/k]. 
- 2[k]int[/k] 
- 3[k]ani;gen[/k] 
- 3[k]ani;gen[/k] 
- 3[k]ani;gen[/k] 
- 3[k]ani;gen[/k]. 
- 3[k]ina;int[/k] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t] 
- [/t]<span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>[t]market week! toresh's heart sang within her. that glorious time to take goods down to the flatlands, trading olives and goat cheese for wheat flour and papyrus. a chance to meet exotic people and get away from the hillfolk for a time. a chance to exchange the familiar smells of goat and heath for the scent of the silty river. 
- [/t]<span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>[t]within only a few hours in this world, corla had found herself firmly ensconced between the two farmers. the rest of the day was spent travelling. she dozed in her seat, letting their conversation pass through her. 
- [/t][1]gloss<h2>three-tail-having fish-called story-four-[k]gen[/k] ryan-[k]gen[/k] eakins.</h2>a '"threetail-having fish" is a coelacanth, referring to the three lobes on the tail of members of this species. a '"feather-becoming egg" is a rough translation of [i]crackled egg[/i], and refers to a hatchling emerging into the world.[2]feather-becoming egg.[3]up-story-[k]nmn[/k]k_ola [k]prs;dyn[/k] think-surroundings again slowly, heat rough-[k]nmn[/k]-and-[k]gen[/k] in-sit-[k]pst;sta[/k] sand think-realisation. [k]prs;dyn[/k] move-up-legs care-[k]qal[/k]. leg [k]prs;sta[/k] [k]abl[/k]-[k]com[/k] in-time_passes-[k]psv[/k]-[k]ger[/k] sit-enlightenment [k]pst;sta[/k] hurt. 
- [/t][t]'"a telepath? what am i thinking right now, then?" 
- [/t][t]'"corla." 
- [/t][t]'"i'm sorry for yelling at you, but what are you doing out here by yourself? are you lost?" 
- [/t][t]'"it took me some time to learn your language. i'm not an empath the way your people are, i'm a telepath." 
- [/t][t]'"my abilities only seem to work properly on my own people," corla replied. '"i can pick up enough to tell me where population centres are, and apparently to pick up your language, but that is it." 
- [/t][t]'"our people? where are you from?" 
- [/t][t]'"piado, i wanted to thank you for everything you've done for me." 
- [/t][t]'"this may be a little difficult to explain. do you know anything about your history? your ultimate history, perhaps?" 
- [/t][t][i]a road perhaps. at least, i hope so.[/i] the sun could be felt over her left shoulder. [i]is it sunrise or sunset? am i facing east or west?[/i] 
- [/t][t][i]three down, one to go, almost home,[/i] she thought to herself. [i]by the six gods of tinellb, i'll be glad to finish this and have some peace.[/i] she allowed herself to feel grief for a moment, grief at being continually separated from her beloved. 
- [/t][t]as night fell, piado chose a place beside the road to rest. dinner was a spiced lentil stew, prepared by toresh. piado gave his tent up to the stranger, and slept in the wagon covered with the tarp. 
- [/t][t]as the wagon came around a corner, piado checked the draughtsbeast's movement just in time to avoid a short figure. he started yelling at her to move, but stopped when she raised sightless eyes to him. 
- [/t][t]he led her to a two-storey stone building on the main street of lusov. a quick scan of the building's manifest told him where he was going. in a room at the end of the corridor, they found a woman sitting behind a desk. she was wearing the officious robes that the flatlanders wore for formal occasions. piado explained his side of the story, but before corla had a chance to speak, the bureaucrat rang a small bell. her assistant appeared from a side door. 
- [/t][t]piado felt his daughter's excitement from across the compound. he reached out with his own heart, sending the pride he felt for her. he farewelled the village elder, and his own wife, and walked across to join toresh and the wagon. 
- [/t][t]piado led the woman over to the wagon and introduced her to toresh. he motioned to his daughter to move across to allow corla to ascend. 
- [/t][t]piado let out a startled exclamation. '"i thought you couldn't speak! why didn't you say something before?" 
- [/t][t]piado rolled his eyes in disbelief. he swung his legs out over the side of the cart, grunting as his did so. once he was on the ground, he grasped corla's hand and helped her off. 
- [/t][t]realising that activity was the surest way to finding him again, she stood up to take stock of her situation. underneath the thin layer of sand, she could feel paving stones. only natural sounds could be heard, and the sense of human life was far distant. 
- [/t][t]she finished helping her parents fill the wagon. she had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years. 
- [/t][t]she unfolded her walking stick and carefully began inventing time-travel. 
- [/t][t]the ground was chill the next morning, but the bright sun soon evaporated the frost and warmed the air. 
- [/t][t]the strongest sense of life was opposite the sun. she couldn't tell how far, but she realised that nothing was going to be solved by sitting still. 
- [/t][t]the wagon reached the market town of lusov early in the afternoon. piado stayed with corla and the wagon as toresh sought out the market authorities to reserve her place in the bazaar. 
- [/t][t]there was no one on the road. the only sounds were those made by the wagon and the draughtsbeast. 
- [/t][t]with a slight touch of the reins to the back of the draughtsbeast, the wagon started moving. piado was driving for the first leg of the journey, following the river gorge down the hills. the river could be seen far below, little more than a trickle at this time of year. toresh's initial excitement faded as she was lulled into sleep by the gently rocking wagon. piado encouraged her sleepiness because he knew he would need her awake if they were to best the flatlanders. 
- [/t][t]words in an alien language were his only reply. handing the reins to his suddenly very alert daughter, he got out of the wagon. he had assumed her to be a flatlander since he couldn't sense her emotions, but realised otherwise when he noticed the paleness of her skin. he reached out for her hand, placed it on his chest, and said his own name. moving her hand back to her, he learned her name. 
- [/t]and so it begins...[2]story[t]<h2>the crackled egg</h2> 
- [/t]and so it goes...[3]prologue[t]corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind. she gingerly stood up. her legs ached from holding the meditative pose for so long. 
- [i]'ahati[/i] 
- [i]'usi[/i]- 
- [i]bas[/i]- 
- [i]bas[/i]- 
- [i]bas[/i]- 
- [i]cani[/i] 
- [i]dattu[/i]- 
- [i]di[/i]- 
- [i]di[/i]- 
- [i]illu,[/i] 
- [i]illu,[/i] 
- [i]illu[/i]- 
- [i]kalu[/i] 
- [i]karu[/i] 
- [i]kifi-[/i] 
- [i]mari[/i] 
- [i]mici[/i] 
- [i]ni[/i]- 
- [i]nuru-[/i] 
- [i]qa[/i] 
- [i]qa[/i] 
- [i]qa[/i] 
- [i]ru,[/i] 
- [i]ru[/i] 
- [i]sa[/i]- 
- [i]sija[/i] 
- [i]tihu,[/i] 
- [i]tuja[/i]- 
- [k]1int[/k] 
- [k]3ani;gen[/k] 
- [k]3ani;gen[/k] 
- [k]3ani;gen[/k] 
- [k]3ani;gen[/k] 
- [k]3ani;gen[/k] 
- [k]3gen[/k] 
- [k]abl[/k]- 
- [k]abl[/k]- 
- [k]abl[/k]- 
- [k]abl[/k]- 
- [k]abp[/k] 
- [k]abp[/k] 
- [k]abp[/k] 
- [k]abp[/k] 
- [k]abp[/k] 
- [k]abp[/k], 
- [k]abv[/k] 
- [k]abv[/k] 
- [k]abv[/k] 
- [k]abv[/k] 
- [k]adv[/k]. 
- [k]aug[/k] 
- [k]aug[/k] 
- [k]aug[/k]- 
- [k]aug[/k]- 
- [k]aug[/k]- 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]com[/k] 
- [k]dat[/k]- 
- [k]dat[/k]- 
- [k]dat[/k]- 
- [k]dim[/k] 
- [k]dim[/k] 
- [k]drv[/k], 
- [k]drv[/k]. 
- [k]dtv, 
- [k]dtv[/k] 
- [k]dtv[/k] 
- [k]dtv[/k]- 
- [k]dtv[/k]. 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]gen[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k] 
- [k]ger[/k], 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]ger[/k]- 
- [k]inc[/k] 
- [k]inc[/k] 
- [k]inc[/k] 
- [k]inc[/k], 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k] 
- [k]nmn[/k], 
- [k]nmn[/k]- 
- [k]nmn[/k]- 
- [k]nmn[/k]- 
- [k]nmn[/k]- 
- [k]nmn[/k]- 
- [k]nmn[/k]- 
- [k]prs;gno[/k] 
- [k]prs;gno[/k] 
- [k]prs;gno[/k] 
- [k]prs;gno[/k] 
- [k]prs;itr[/k] 
- [k]prs;neg[/k] 
- [k]prs;sta[/k] 
- [k]pst;sta[/k] 
- [k]psv[/k] 
- [k]psv[/k] 
- [k]psv[/k], 
- [k]psv[/k], 
- [k]psv[/k]- 
- [k]psv[/k]- 
- [k]psv[/k]- 
- [k]psv[/k]- 
- [k]psv[/k]- 
- [k]psv[/k]. 
- [k]psv[/k]. 
- [k]qal[/k] 
- [k]qal[/k]. 
- [k]qal[/k]. 
- [k]rel[/k] 
- [k]rel[/k] 
- [k]trm[/k] 
- [k]trm[/k] 
- [k]trm[/k] 
- [r]'"1[k]int[/k] 
- [r]'"1[k]int[/k] 
- [r]'"1[k]int[/k] 
- [r]'"[k]1int[/k] 
- [r]'"[k]com[/k] 
- [r]'"[k]rel[/k] 
- [r]'"equalative- 
- [r]'"k_ola." 
- [r]'"listen- 
- [r]'"piad$u, 
- [r]1[k]abl[/k] 
- [r]1[k]int[/k] 
- [r]1[k]int[/k] 
- [r]1[k]int[/k] 
- [r]2[k]int[/k] 
- [r]2[k]int[/k] 
- [r]3[k]ani;dat[/k] 
- [r]3[k]ani;int[/k] 
- [r]3[k]ani;int[/k]- 
- [r]3[k]ani;int[/k]. 
- [r]3[k]ani;tra[/k] 
- [r]3[k]ina;int[/k] 
- [r]<div ===>'"[corla]"</div> 
- [r]<div ===>'"[corla]"</div>[k]dat[/k]-car follow-[k]abp[/k] [k]3ani;int[/k] and, [k]3ani;dat[/k] meet-[k]abp[/k] t,rsh. [k]dat[/k]-daughter speak-finger [k]com[/k] move-across-[k]ger[/k]-[k]3ani;gen[/k] rise k_ola allow [k]fut;dyn[/k]. 
- [r]<div ===>'"[piado], you have repeatedly done many things for me. thank-you."</div> 
- [r]<div ===>'"[piado], you have repeatedly done many things for me. thank-you."</div>piad$u speak-shock. '"1[k]int[/k] [k]pst;neg[/k] think-[k]com[/k] [k]2int[/k] speak-word [k]prs;neg[/k]! what before speak-[k]abv[/k] nothing [k]pst;neg[/k]?" 
- [r]<div ===>'"i feel sadness because (i) loudly demanded (something) of you and what made you be far away from anything with nothing? have (you) been experiencing loss until now?"</div> 
- [r]<div ===>'"i feel sadness because (i) loudly demanded (something) of you and what made you be far away from anything with nothing? have (you) been experiencing loss until now?"</div>word-[k]gen[/k] familiarity-giving language-not [k]prs;dyn[/k] say-[k]dtv[/k]-[k]ger[/k]-only-[k]gen[/k] self. [k]prs;dyn[/k] [k]dat[/k]-[k]rel[/k] experience-alertness-[k]aug[/k] suddenly [k]prs;sta[/k] offspring give reins and_then, [k]fut;dyn[/k] down-[k]abl[/k]-wagon move. [k]pst;sta[/k] [k]com[/k] [k]3int[/k] plain-[k]nmn[/k] assume [k]prs;gno[/k] [k]abl[/k]-[k]com[/k] [k]dat[/k]-heart-[k]3gen[/k] thought_speak [k]prs;neg[/k] think and, [k]fut;neg[/k]-[k]trm[/k] think this_manner that_is, [k]dat[/k]-white-sort_of-[k]ger[/k]-[k]gen[/k] skin-[k]3ani;gen[/k] think-see. touch-hold hand-[k]3ani;gen[/k] and_then, on-chest put-3[k]ina;int[/k] and, name-[k]gen[/k] self say. [k]abl[/k]-[k]com[/k] 3[k]ani;dat[/k] move-undo hand-[k]3ani;gen[/k] [k]prs;dyn[/k] think-new [k]com[/k] name-[k]3ani;gen[/k] something [k]prs;gno.[/k] 
- [r]<div ===>'"i learn your language over time. i am not an empath the same as you, i listen towards the mental plane."</div> 
- [r]<div ===>'"i learn your language over time. i am not an empath the same as you, i listen towards the mental plane."</div>'"equalative-1[k]int[/k] person? what-coming_from 2[k]int[/k] [k]prs;gno[/k]?" 
- [r]<div ===>'"me making this topic seem clear might be difficult. do you know anything about your history? (do you know) even your distant history?"</div> 
- [r]<div ===>'"me making this topic seem clear might be difficult. do you know anything about your history? (do you know) even your distant history?"</div>'"listen-mental_plane-[k]nmn[/k] [k]prs;gno[/k]? 1[k]int[/k] now think-what [k]prs;sta[/k]?" 
- [r]<div ===>'"person the same as me? from what do you come?"</div> 
- [r]<div ===>'"person the same as me? from what do you come?"</div>'"[k]com[/k] 1[k]int[/k] [k]dat[/k]-clarity appear-[k]abv[/k] topic [k]fut;sta[/k] difficult maybe. 2[k]int[/k] about-history-[k]nmn[/k]-2[k]gen[/k] anything think-hold [k]prs;gno[/k]? history-[k]nmn[/k]-far_away even [k]prs;gno[/k]?" 
- [r]<div ===>'"the ability that is done by me only speaks subtly to one of the race like me," [corla] spoke in answer. '"i hear to a certain extent in order to realise where places of high population density are and apparently learn your language, but this is everything."</div> 
- [r]<div ===>'"the ability that is done by me only speaks subtly to one of the race like me," [corla] spoke in answer. '"i hear to a certain extent in order to realise where places of high population density are and apparently learn your language, but this is everything."</div>piad$u [k]prs;dyn[/k] [k]abl[/k]-think-believe-[k]ger[/k]-not move-tilt head. beside-[k]dat[/k]-car move-swing legs when-at, speak-grunt. at-ground [k]prs;sta[/k], when-down [k]prs;dyn[/k] touch-hold hand-3[k]ani;gen[/k] and, help-drop-[k]ger[/k]-3[k]ani;gen[/k]. 
- [r]<div ===>(he) made her follow (him) to the building made of stone and having two storeys, on the main street of [lusov]. from a quick reading of the directory of the building, he learned where himself and she will go for a purpose. in a room at the end of a corridor, (they) see a woman who is sitting on the other side of a table. the woman is linked to a sacred cloak that the plains people wear at occasions that do formality. [piado] gave his perspective, and before [corla] will speak, the official did a small bell. her helper moved near from across the wall-door.</div> 
- [r]<div ===>(he) makes her follow to the car, and makes [toresh] meet her. (he) finger-speaks to the daughter that her movement across will allow [corla] to rise.</div> 
- [r]<div ===>(he) makes her follow to the car, and makes [toresh] meet her. (he) finger-speaks to the daughter that her movement across will allow [corla] to rise.</div><span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>k_ola in-reality-that over-hours-several-only [k]pst;sta[/k], when-down between-two farm-[k]nmn[/k] sit safety-[k]adv[/k]. at-day-rest move-journey. [k]fut;sta[/k] at-seat sleep-[k]dim[/k] and, [k]fut;neg[/k] towards-conversation-near listen-half_do. 
- [r]<div ===>(it is) a telepath? i am thinking what now?"</div> 
- [r]<div ===>(it is) a telepath? i am thinking what now?"</div>'"[k]rel[/k] 1[k]abl[/k] do-[k]psv[/k]-[k]prs;itr[/k] ability as-[k]dat[/k]-1[k]int[/k] race-one speak-subtle_bodies only," k_ola speak-answer. '"1[k]int[/k] to-[k]com[/k] think-ascent [k]com[/k] population-[k]gen[/k] density-[k]aug[/k]-place anywhere [k]prs;gno[/k] and, think-new language-2[k]gen[/k] apparently [k]pst;dyn[/k] telepath extent and, this [k]prs;gno[/k] everything." 
- [r]<div ===>(she) unfolds her own guide stick, and with care starts the time-travel.</div> 
- [r]<div ===>(she) unfolds her own guide stick, and with care starts the time-travel.</div><span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>buy-[k]ger[/k]-doing day-chain! heart-[k]gen[/k] t,rsh seem-light. glory-having [k]rel[/k] for-[k]com[/k] down [k]dat[/k]-land-plain carry-goods [k]fut;dyn[/k] [k]prs;sta[/k] time, that_is fruit-black cheese-[k]gen[/k] goat-and for-flour-[k]gen[/k] wheat paper-reed-and change-buy. [k]com[/k] join-conversation appear-exoticism-[k]prs;gno[/k] person-many and [k]dat[/k]-person-hill for-while separate [k]fut;sta[/k] opportunity. [k]com[/k] appear-familiarity-[k]prs;gno[/k] goat grass-hill-and-[k]gen[/k] scent change-circumstance sand-water-having river-[k]gen[/k] scent [k]fut;dyn[/k]-[k]nmn[/k] opportunity. 
- [r]<div ===>[corla] is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting. (she) stands up carefully. (her) legs are hurting because of sitting enlightened while time passed.</div> 
- [r]<div ===>[corla] is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting. (she) stands up carefully. (her) legs are hurting because of sitting enlightened while time passed.</div>three-[k]nmn[/k] [k]pst;dyn[/k] put-up-cover-[k]psv[/k], one-[k]nmn[/k] [k]fut;dyn[/k] put-up-cover-[k]psv[/k], near-at-place-abide, [k]prs;dyn[/k] self think. with-divine_force-[k]nmn[/k]-six-[k]gen[/k] tinellb, [k]1int[/k] [k]fut;sta[/k] feel-happy when, do-this [k]prs;dyn[/k]-[k]trm[/k] and_thus, feel-peace [k]prs;sta[/k]. [k]prs;sta[/k] interval-moment feel grief allow_oneself; [k]abl[/k]-[k]com[/k] [k]dat[/k]-love-[k]nmn[/k] separate must [k]prs;itr[/k] grief. 
- [r]<div ===>[i]it seems to probably be a road. it is not this condition, (i) hope it is.[/i] sunheat is felt from over (her) left shoulder. [i]the covering over of the sun, or is it the showing? am i pointing my body to the east or to the west?[/i]</div> 
- [r]<div ===>[i]it seems to probably be a road. it is not this condition, (i) hope it is.[/i] sunheat is felt from over (her) left shoulder. [i]the covering over of the sun, or is it the showing? am i pointing my body to the east or to the west?[/i]</div>most strong-[k]prs;sta[/k] sense_image-[k]gen[/k] life opposite-[k]abl[/k]-sun. [k]prs;neg[/k] [k]com[/k] interval-some [k]prs;gno[/k] sense_image-[k]drv[/k], and [k]com[/k] nothing [k]abl[/k]-sit-stop-[k]ger[/k] fix-situation-[k]psv[/k] [k]prs;neg[/k] think-realisation. 
- [r]<div ===>[i]three of them have been covered over, one of them will be covered over, (i'm) near the living place,[/i] (she) thought to herself. [i]with the six gods of tinellb, i will be happy when (i) have done and finished this, and thus i am feeling peace.[/i] (she) allowed herself to feel grief for a moment; grief from (the fact that she) must repeatedly be separated from (her) lover.</div> 
- [r]<div ===>[i]three of them have been covered over, one of them will be covered over, (i'm) near the living place,[/i] (she) thought to herself. [i]with the six gods of tinellb, i will be happy when (i) have done and finished this, and thus i am feeling peace.[/i] (she) allowed herself to feel grief for a moment; grief from (the fact that she) must repeatedly be separated from (her) lover.</div>[k]dat[/k]-[k]com[/k] do-[k]nmn[/k] most strong [k]rel[/k] hang-[k]dtv[/k] [k]3ani;int[/k]-[k]gen[/k] see-collection-[k]psv[/k]-[k]ger[/k] [k]fut;dyn[/k] rope [k]prs;gno[/k] think-realisation [k]pst;dyn[/k], because up move-legs, [k]prs;dyn[/k] think-absorption surroundings. stone-[k]gen[/k] road [k]prs;sta[/k] down-number-without with-sand covering sit-dirt evidentially-touch. only hear-[k]nmn[/k] [k]prs;neg[/k] from-people and, sense_image-[k]gen[/k] people [k]prs;sta[/k] far_away feel-[k]psv[/k]. 
- [r]<div ===>[piado] sensed the great joy of the offspring from the other side of the village-field. (he) spread out his own emotional body, and empathically sent pride to [toresh]. (he) said goodbye to the elder-ruler of the town, and also his own wife, and walked across to the (he is) near [toresh] and the goods-car.</div> 
- [r]<div ===>[piado] sensed the great joy of the offspring from the other side of the village-field. (he) spread out his own emotional body, and empathically sent pride to [toresh]. (he) said goodbye to the elder-ruler of the town, and also his own wife, and walked across to the (he is) near [toresh] and the goods-car.</div>rein [k]prs;dyn[/k] [k]dat[/k]-horse-[k]gen[/k] back contact and_then, car-goods [k]prs;sta[/k]-[k]inc[/k] move. piad$u over-first section-[k]gen[/k] journey move-car-[k]abp[/k], along-gorge-[k]gen[/k] river down-hill move. river down far see-[k]dtv[/k], 3[k]ina;int[/k] [k]prs;sta[/k] at-present-[k]gen[/k] year more-flow-[k]dim[/k] big-half_do. down-beginning joy-[k]aug[/k]-[k]gen[/k] t,rsh small [k]prs;dyn[/k], as [k]fut;dyn[/k] [k]abl[/k]-car-[k]gen[/k] move-vibration-[k]ger[/k] sleep. piad$u experience-want-sleep-[k]abp[/k] 3[k]ani;tra[/k] try because, [k]com[/k] at-future [k]abl[/k]-think-surroundings-[k]ger[/k]-3[k]ani;gen[/k] fight-contest-succeed land-plain-[k]nmn[/k] experience [k]fut;dyn[/k] think-hold. 
- [r]<div ===>[piado] speaks in shock. '"i didn't think that you didn't speak. because of what did (you) not say nothing before?"</div> 
- [r]<div ===>[piado] speaks in shock. '"i didn't think that you didn't speak. because of what did (you) not say nothing before?"</div>'"1[k]int[/k] for-time-[k]nmn[/k] think-new language-2[k]gen[/k]. 1[k]int[/k] [k]prs;neg[/k] equalative-2[k]int[/k] hear-emotional_plane-[k]nmn[/k], [k]1int[/k] [k]prs;gno[/k] towards-mental_plane hear." 
- [r]<div ===>[piado] tilts his head because of not believing. (he) swung his legs to beside the car, when (he) grunts. after (he) is on the ground, (he) holds her hand, and helps her drop.</div> 
- [r]<div ===>[piado] tilts his head because of not believing. (he) swung his legs to beside the car, when (he) grunts. after (he) is on the ground, (he) holds her hand, and helps her drop.</div>[k]prs;dyn[/k] [k]dat[/k]-two storey-having street-importance-[k]gen[/k] l_usob-being_in stone-made_of building follow-[k]abv[/k] 3[k]ani;int[/k]. [k]com[/k] [k]dat[/k]-somewhere self 3[k]ani;int[/k]-and move purpose [k]fut;dyn[/k] [k]abl[/k]-see-reading-[k]psv[/k]-quickly-[k]ger[/k]-[k]gen[/k] directory-[k]gen[/k] building think-new. [k]prs;dyn[/k] [k]rel[/k] opposite-table sit [k]prs;sta[/k] woman in-room at-corridor-[k]gen[/k] end see. woman [k]prs;sta[/k] link [k]rel[/k] at-formality-doing time link land-plains-[k]nmn[/k] [k]prs;itr[/k] cloak-sacred. piad$u [k]pst;dyn[/k] speak-point_of_view and, k_ola speak experience [k]fut;neg[/k], when-before bureaucrat do-small-[k]prs;gno[/k] bell. help-[k]nmn[/k]-3[k]ani;gen[/k] across-[k]abl[/k]-door-wall move-near. 
- [r]<div ===>because (she) realises (the fact that) doing something is the strongest rope to hang his finding on, (she) stands up, (she) assesses her surroundings. a road of stone seems to be sitting on the ground under the covering with numberless sand. the only things which are heard are not from people, and the sense of people felt far away.</div> 
- [r]<div ===>because (she) realises (the fact that) doing something is the strongest rope to hang his finding on, (she) stands up, (she) assesses her surroundings. a road of stone seems to be sitting on the ground under the covering with numberless sand. the only things which are heard are not from people, and the sense of people felt far away.</div>road probably evidentially. [k]prs;neg[/k] condition, hope [k]prs;gno[/k]. heat-sun [k]prs;sta[/k] [k]abl[/k]-shoulder-left feel-[k]dtv[/k]. sun put-covering-[k]psv[/k]-[k]ger[/k], or show-[k]ger[/k] [k]prs;sta[/k]? [k]1int[/k] east west-or point-body [k]prs;sta[/k]? 
- [r]<div ===>chain of days for the buying! the emotional body of [toresh] projects light. a glory-having time for the carrying down of goods down to the plain-lands, that is, trade blackfruit and the cheese of goats for wheat of flour and reedpaper. an opportunity for conversing with many exotic-seeming people and separate from the hillpeople for a while. an opportunity to change the circumstances from scents of familiar-seeming goats and hillgrass to those of watersand having rivers.</div> 
- [r]<div ===>chain of days for the buying! the emotional body of [toresh] projects light. a glory-having time for the carrying down of goods down to the plain-lands, that is, trade blackfruit and the cheese of goats for wheat of flour and reedpaper. an opportunity for conversing with many exotic-seeming people and separate from the hillpeople for a while. an opportunity to change the circumstances from scents of familiar-seeming goats and hillgrass to those of watersand having rivers.</div>[k]3ani;tra[/k] of-[k]com[/k] fill car-goods [k]prs;dyn[/k]-[k]trm[/k] help-parent-two. [k]pst;itr[/k] at-pen-[k]gen[/k] goat from-[k]com[/k] think-new walk-[k]ger[/k] [k]pst;dyn[/k] help, and_then over-[k]rel[/k] near at-past [k]prs;gno[/k] year-several-only from-[k]com[/k] down-[k]dat[/k]-hill move-travel [k]prs;itr[/k] share-permission-[k]psv[/k]. 
- [r]<div ===>nothing is not at the road. the only noise is it that is broadcast by the car and horse.</div> 
- [r]<div ===>nothing is not at the road. the only noise is it that is broadcast by the car and horse.</div>car turn-corner move [k]prs;sta[/k], where-at piad$u stop-move-[k]ger[/k]-[k]gen[/k] horse to, contact small-[k]prs;gno[/k] body-[k]gen[/k] person time-[k]qal[/k] half_do [k]prs;neg.[/k] [k]3ani;dat[/k] say-scream-[k]inc[/k] [k]com[/k] [k]3ani;int[/k] move [k]fut;dyn[/k] and, [k]dat[/k]-self stop when, 3[k]ani;int[/k] towards-self with-see-[k]prs;neg[/k] eye see [k]fut;sta[/k]. 
- [r]<div ===>she's finishing helping (her) two parents with filling the goods-car. (she) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</div> 
- [r]<div ===>she's finishing helping (her) two parents with filling the goods-car. (she) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</div>piad$u [k]prs;dyn[/k] opposite-[k]abl[/k]-field-village [k]dat[/k]-joy-[k]aug[/k]-[k]gen[/k] offspring sense_image-[k]drv[/k]. big-spreading-[k]abp[/k] heart-self, and [k]dat[/k]-t,rsh speak-emotional_plane pride. [k]dat[/k]-town-[k]gen[/k] rule-[k]nmn[/k]-elder say-goodbye, [k]dat[/k]-wife-self also, and across [k]dat[/k]-[k]com[/k] near-t,rsh car-goods-and [k]prs;dyn[/k] move-walk. 
- [r]<div ===>since [corla] was in that reality for only several hours, (she) sits in safety between two farm people. (they) journey in the remainder of the day. (she) will be napping in the seat, and won't be half-listening to nearby conversation.</div> 
- [r]<div ===>since [corla] was in that reality for only several hours, (she) sits in safety between two farm people. (they) journey in the remainder of the day. (she) will be napping in the seat, and won't be half-listening to nearby conversation.</div>night_sky [k]prs;sta[/k]-[k]inc[/k], when-at piad$u for-sleep-[k]ger[/k] choose next_to-road place. meal-last [k]prs;sta[/k] [k]rel[/k] t,rsh make [k]pst;dyn[/k] spice-having lentil-made_of soup. piad$u [k]prs;neg[/k] at-tent sleep for-new-[k]nmn[/k] and, [k]prs;sta[/k] in-down-tarpaulin car do-instead. 
- [r]<div ===>the car moves to the town called [lusov] which is for buying, in the first afternoon. [piado] did remain with [corla] and the wagon, while [toresh] seeks out the administrator for the buying-place in order to book the stall.</div> 
- [r]<div ===>the car moves to the town called [lusov] which is for buying, in the first afternoon. [piado] did remain with [corla] and the wagon, while [toresh] seeks out the administrator for the buying-place in order to book the stall.</div>'"piad$u, [k]2tra[/k] [k]pst;itr[/k] for-[k]1int[/k] do-intensely. thank_you." 
- [r]<div ===>the earth feels cold in the morning, and the sunlight changes the ground-ice nearby into vapour and puts heat in the air.</div> 
- [r]<div ===>the earth feels cold in the morning, and the sunlight changes the ground-ice nearby into vapour and puts heat in the air.</div>car at-first-afternoon [k]dat[/k]-l_usob-called for-buy-[k]ger[/k] town move. piad$u with-k_ola wagon-and sit-wall [k]pst;sta[/k] when-at, t,rsh buy-place-for administer-[k]nmn[/k] for-[k]com[/k] stall ready-box [k]fut;dyn[/k] see-join. 
- [r]<div ===>the reins were put in contact with the back of the horse, and then the goods-car started moving. [piado] drove over the first part of the journey,  (he) moved along the gorge of the river down the hill. the river could be seen far down, it is kind of bigger than a small flow at the present part of the year. as the big joy of [toresh] from since the beginning became small, (she) will sleep because of the vibration of the car. [piado] tries to make her experience a want for sleep, because (he) knows that in the future her being conscious of her surroundings will have (them) succeed in contest with the people of the plains.</div> 
- [r]<div ===>the reins were put in contact with the back of the horse, and then the goods-car started moving. [piado] drove over the first part of the journey,  (he) moved along the gorge of the river down the hill. the river could be seen far down, it is kind of bigger than a small flow at the present part of the year. as the big joy of [toresh] from since the beginning became small, (she) will sleep because of the vibration of the car. [piado] tries to make her experience a want for sleep, because (he) knows that in the future her being conscious of her surroundings will have (them) succeed in contest with the people of the plains.</div>nothing [k]prs;neg[/k] at-road. sound-only [k]prs;sta[/k] [k]rel[/k] [k]abl[/k]-wagon horse-and broadcast-[k]psv[/k] [k]prs;sta[/k] [k]3ina;int.[/k] 
- [r]<div ===>the strongest sense of life (is) from the other side of the sun. (she) doesn't sense over what distance it is, and realises that nothing isn't fixed from sitting still.</div> 
- [r]<div ===>the strongest sense of life (is) from the other side of the sun. (she) doesn't sense over what distance it is, and realises that nothing isn't fixed from sitting still.</div>small-folding_paper-undo guide-as_a stick-self, and [k]prs;dyn[/k]-[k]inc[/k] move-time-[k]ger[/k] care-[k]qal[/k]. 
- [r]<div ===>when the car is moving around the corner, [piado] stopped the movement of the horse in order to not touch a small body of a person in a mostly timely manner. (he) started yelling at her for her to move, and stopped himself when she will be looking towards himself with eyes that aren't seeing.</div> 
- [r]<div ===>when the car is moving around the corner, [piado] stopped the movement of the horse in order to not touch a small body of a person in a mostly timely manner. (he) started yelling at her for her to move, and stopped himself when she will be looking towards himself with eyes that aren't seeing.</div>'"[k]1int[/k] [k]abl[/k]-[k]com[/k] [k]2dat[/k] say-demand-[k]aug[/k] [k]pst;dyn[/k] feel sorrow and, what far_away-anything with-nothing be-[k]abp[/k] [k]2tra[/k] [k]prs;sta?[/k] experience-loss [k]pst;gno[/k]?" 
- [r]<div ===>when the night sky is starting to exist, [piado] chooses a place next to the road for sleep. the final meal is a soup with spice made from lentils made by [toresh]. [piado] does not sleep in the tent for the new person, and is doing so in the car under the tarpaulin instead.</div> 
- [r]<div ===>when the night sky is starting to exist, [piado] chooses a place next to the road for sleep. the final meal is a soup with spice made from lentils made by [toresh]. [piado] does not sleep in the tent for the new person, and is doing so in the car under the tarpaulin instead.</div>soil at-morning touch-cold-[k]dtv[/k] and, heat-sun near [k]dat[/k]-gas change-[k]abv[/k] ice-ground and, [k]dat[/k]-air put-heat. 
- [r]<div ===>words of a familiar non-language are the only things that were said to him. (he) gives the reins to the offspring who is suddenly experiencing great alertness, and then (he) will move down from the car. (he) is assuming that she is a plains-person from the fact that (he) doesn't though-speak her emotional body, and (he) will stop not thinking this way, that is, (he) noticed the sort-of whiteness of her skin. (he) grabs her hand, and then put it on (his) chest, and says his own name. (he) learned what her name is from un-moving her hand to her.</div> 
- [r]<div ===>words of a familiar non-language are the only things that were said to him. (he) gives the reins to the offspring who is suddenly experiencing great alertness, and then (he) will move down from the car. (he) is assuming that she is a plains-person from the fact that (he) doesn't though-speak her emotional body, and (he) will stop not thinking this way, that is, (he) noticed the sort-of whiteness of her skin. (he) grabs her hand, and then put it on (his) chest, and says his own name. (he) learned what her name is from un-moving her hand to her.</div>'"k_ola." 
- [r][k]1int[/k] 
- [r][k]1int[/k] 
- [r][k]1int[/k] 
- [r][k]2dat[/k] 
- [r][k]2int[/k] 
- [r][k]2tra[/k] 
- [r][k]2tra[/k] 
- [r][k]3ani;dat[/k] 
- [r][k]3ani;dat[/k] 
- [r][k]3ani;int[/k] 
- [r][k]3ani;int[/k] 
- [r][k]3ani;int[/k]- 
- [r][k]3ani;tra[/k] 
- [r][k]3ina;int.[/k] 
- [r][k]3int[/k] 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]abl[/k]- 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]com[/k] 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]dat[/k]- 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k] 
- [r][k]fut;dyn[/k]- 
- [r][k]fut;dyn[/k]. 
- [r][k]fut;neg[/k] 
- [r][k]fut;neg[/k], 
- [r][k]fut;neg[/k]- 
- [r][k]fut;sta[/k] 
- [r][k]fut;sta[/k] 
- [r][k]fut;sta[/k] 
- [r][k]fut;sta[/k] 
- [r][k]fut;sta[/k]. 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k] 
- [r][k]prs;dyn[/k], 
- [r][k]prs;dyn[/k]- 
- [r][k]prs;dyn[/k]- 
- [r][k]prs;dyn[/k]- 
- [r][k]prs;gno.[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k] 
- [r][k]prs;gno[/k]. 
- [r][k]prs;gno[/k]? 
- [r][k]prs;gno[/k]? 
- [r][k]prs;gno[/k]?" 
- [r][k]prs;gno[/k]?" 
- [r][k]prs;itr[/k] 
- [r][k]prs;itr[/k] 
- [r][k]prs;itr[/k] 
- [r][k]prs;neg.[k][/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k] 
- [r][k]prs;neg[/k]! 
- [r][k]prs;sta?[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k] 
- [r][k]prs;sta[/k], 
- [r][k]prs;sta[/k], 
- [r][k]prs;sta[/k]- 
- [r][k]prs;sta[/k]- 
- [r][k]prs;sta[/k]. 
- [r][k]prs;sta[/k]? 
- [r][k]prs;sta[/k]? 
- [r][k]prs;sta[/k]?" 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k] 
- [r][k]pst;dyn[/k], 
- [r][k]pst;gno[/k]?" 
- [r][k]pst;itr[/k] 
- [r][k]pst;itr[/k] 
- [r][k]pst;neg[/k] 
- [r][k]pst;neg[/k]?" 
- [r][k]pst;sta[/k] 
- [r][k]pst;sta[/k] 
- [r][k]pst;sta[/k] 
- [r][k]pst;sta[/k], 
- [r][k]rel[/k] 
- [r][k]rel[/k] 
- [r][k]rel[/k] 
- [r][k]rel[/k] 
- [r][k]rel[/k] 
- [r][k]rel[/k] 
- [r][t]'"''usu 
- [r][t]'"''usu 
- [r][t]'"cikki- 
- [r][t]'"ka- 
- [r][t]'"kurila." 
- [r][t]'"li 
- [r][t]'"pi'adu, 
- [r][t]'"xiku 
- [r][t]''ita'i 
- [r][t]''ita'i 
- [r][t][i]daru[/i] 
- [r][t][i]daxuni-[/i] 
- [r][t][i]kifi[/i]- 
- [r][t]cani 
- [r][t]cu'i 
- [r][t]kassu- 
- [r][t]ku- 
- [r][t]ku- 
- [r][t]kunaqi 
- [r][t]kurila 
- [r][t]kurila 
- [r][t]pi'adu 
- [r][t]pi'adu 
- [r][t]pi'adu 
- [r][t]piba 
- [r][t]quhu 
- [r][t]salilu 
- [r][t]saqala- 
- [r][t]sara 
- [r][t]tuhi- 
- [r][t]xuci- 
- [r]ability 
- [r]about- 
- [r]across 
- [r]across- 
- [r]administer- 
- [r]again 
- [r]allow 
- [r]allow_oneself; 
- [r]along- 
- [r]also, 
- [r]and 
- [r]and 
- [r]and 
- [r]and 
- [r]and 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and, 
- [r]and_then 
- [r]and_then, 
- [r]and_then, 
- [r]and_then, 
- [r]and_thus, 
- [r]anything 
- [r]anywhere 
- [r]apparently 
- [r]appear- 
- [r]appear- 
- [r]appear- 
- [r]as 
- [r]as- 
- [r]assume 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]at- 
- [r]back 
- [r]be- 
- [r]because 
- [r]because, 
- [r]before 
- [r]bell. 
- [r]beside- 
- [r]between- 
- [r]big- 
- [r]big- 
- [r]body- 
- [r]broadcast- 
- [r]building 
- [r]building 
- [r]bureaucrat 
- [r]buy- 
- [r]buy- 
- [r]car 
- [r]car 
- [r]car 
- [r]car- 
- [r]car- 
- [r]car- 
- [r]care- 
- [r]care- 
- [r]carry- 
- [r]change- 
- [r]change- 
- [r]change- 
- [r]cheese- 
- [r]choose 
- [r]cloak- 
- [r]condition, 
- [r]contact 
- [r]contact 
- [r]covering 
- [r]day- 
- [r]density- 
- [r]difficult 
- [r]directory- 
- [r]do- 
- [r]do- 
- [r]do- 
- [r]do- 
- [r]do- 
- [r]do- 
- [r]down 
- [r]down 
- [r]down- 
- [r]down- 
- [r]down- 
- [r]down- 
- [r]down- 
- [r]eakins. 
- [r]east 
- [r]egg. 
- [r]end 
- [r]equalative- 
- [r]even 
- [r]everything." 
- [r]evidentially- 
- [r]evidentially. 
- [r]experience 
- [r]experience 
- [r]experience- 
- [r]experience- 
- [r]experience- 
- [r]extent 
- [r]eye 
- [r]familiarity- 
- [r]far 
- [r]far_away 
- [r]far_away- 
- [r]farm- 
- [r]feather- 
- [r]feel 
- [r]feel 
- [r]feel- 
- [r]feel- 
- [r]feel- 
- [r]feel- 
- [r]fight- 
- [r]fill 
- [r]fish- 
- [r]fix- 
- [r]follow- 
- [r]follow- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]for- 
- [r]from- 
- [r]from- 
- [r]from- 
- [r]fruit- 
- [r]give 
- [r]glory- 
- [r]goat 
- [r]goat 
- [r]goat- 
- [r]grass- 
- [r]grief 
- [r]grief. 
- [r]guide- 
- [r]half_do 
- [r]hand- 
- [r]hand- 
- [r]hand- 
- [r]hang- 
- [r]head. 
- [r]hear- 
- [r]hear- 
- [r]hear." 
- [r]heart- 
- [r]heart- 
- [r]heat 
- [r]heat- 
- [r]heat- 
- [r]help, 
- [r]help- 
- [r]help- 
- [r]help- 
- [r]history- 
- [r]hope 
- [r]horse 
- [r]horse- 
- [r]hurt. 
- [r]ice- 
- [r]in- 
- [r]in- 
- [r]in- 
- [r]in- 
- [r]in- 
- [r]interval- 
- [r]interval- 
- [r]join- 
- [r]journey 
- [r]joy- 
- [r]k_ola 
- [r]k_ola 
- [r]k_ola 
- [r]k_ola 
- [r]k_ola 
- [r]l_usob- 
- [r]land- 
- [r]land- 
- [r]language- 
- [r]language- 
- [r]language- 
- [r]leg 
- [r]legs 
- [r]lentil- 
- [r]life 
- [r]link 
- [r]link 
- [r]listen- 
- [r]make 
- [r]maybe. 
- [r]meal- 
- [r]meet- 
- [r]more- 
- [r]most 
- [r]most 
- [r]move 
- [r]move 
- [r]move 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move- 
- [r]move. 
- [r]move. 
- [r]move. 
- [r]move. 
- [r]must 
- [r]name- 
- [r]name- 
- [r]near 
- [r]near 
- [r]near- 
- [r]near- 
- [r]next_to- 
- [r]night_sky 
- [r]nothing 
- [r]nothing 
- [r]nothing 
- [r]now 
- [r]of- 
- [r]offspring 
- [r]offspring 
- [r]on- 
- [r]one- 
- [r]only 
- [r]only," 
- [r]opportunity. 
- [r]opportunity. 
- [r]opposite- 
- [r]opposite- 
- [r]opposite- 
- [r]or 
- [r]over- 
- [r]over- 
- [r]over- 
- [r]paper- 
- [r]people 
- [r]person 
- [r]person- 
- [r]person? 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]piad$u 
- [r]place. 
- [r]plain- 
- [r]point- 
- [r]population- 
- [r]pride. 
- [r]probably 
- [r]purpose 
- [r]put- 
- [r]put- 
- [r]put- 
- [r]put- 
- [r]put- 
- [r]race- 
- [r]ready- 
- [r]rein 
- [r]reins 
- [r]rise 
- [r]river 
- [r]river 
- [r]river- 
- [r]road 
- [r]road 
- [r]rope 
- [r]rough- 
- [r]rule- 
- [r]ryan- 
- [r]safety- 
- [r]sand 
- [r]sand- 
- [r]say- 
- [r]say- 
- [r]say- 
- [r]say- 
- [r]say. 
- [r]scent 
- [r]scent 
- [r]section- 
- [r]see 
- [r]see- 
- [r]see- 
- [r]see- 
- [r]see. 
- [r]seem- 
- [r]self 
- [r]self 
- [r]self 
- [r]self. 
- [r]sense_image- 
- [r]sense_image- 
- [r]sense_image- 
- [r]sense_image- 
- [r]separate 
- [r]separate 
- [r]share- 
- [r]show- 
- [r]sit 
- [r]sit 
- [r]sit- 
- [r]sit- 
- [r]sit- 
- [r]skin- 
- [r]sleep 
- [r]sleep- 
- [r]sleep. 
- [r]slowly, 
- [r]small 
- [r]small- 
- [r]small- 
- [r]soil 
- [r]something 
- [r]sorrow 
- [r]sound- 
- [r]soup. 
- [r]speak 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]speak- 
- [r]spice- 
- [r]stall 
- [r]stick- 
- [r]stone- 
- [r]stone- 
- [r]stop 
- [r]stop- 
- [r]storey- 
- [r]story- 
- [r]street- 
- [r]strong 
- [r]strong- 
- [r]suddenly 
- [r]sun 
- [r]surroundings. 
- [r]t,rsh 
- [r]t,rsh 
- [r]t,rsh 
- [r]t,rsh 
- [r]t,rsh. 
- [r]tail- 
- [r]telepath 
- [r]thank_you." 
- [r]that_is 
- [r]that_is, 
- [r]think 
- [r]think 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think- 
- [r]think. 
- [r]this 
- [r]this_manner 
- [r]thought_speak 
- [r]three- 
- [r]time 
- [r]time, 
- [r]time- 
- [r]tinellb, 
- [r]to, 
- [r]to- 
- [r]topic 
- [r]touch- 
- [r]touch- 
- [r]touch- 
- [r]towards- 
- [r]towards- 
- [r]towards- 
- [r]town 
- [r]try 
- [r]turn- 
- [r]up 
- [r]wagon- 
- [r]walk- 
- [r]west- 
- [r]what 
- [r]what 
- [r]what- 
- [r]wheat 
- [r]when, 
- [r]when, 
- [r]when- 
- [r]when- 
- [r]when- 
- [r]when- 
- [r]when- 
- [r]when- 
- [r]where- 
- [r]with- 
- [r]with- 
- [r]with- 
- [r]with- 
- [r]with- 
- [r]woman 
- [r]woman 
- [r]word- 
- [r]year 
- [r]year- 
- [t]'"''usu 
- [t]'"''usu 
- [t]''ala- 
- [t]''ikinnisa. 
- [t]''ilu- 
- [t]''usu 
- [t]''usu 
- [t]'aba." 
- [t]'adi 
- [t]'adi 
- [t]'adi- 
- [t]'ala 
- [t]'ala- 
- [t]'alla- 
- [t]'i 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i- 
- [t]'i. 
- [t]'idu 
- [t]'ilu- 
- [t]'isili 
- [t]'ita'i 
- [t]'ita'i- 
- [t]'ita'i- 
- [t]'ita'i- 
- [t]'ita'i- 
- [t]'ixxa'i. 
- [t]'umi 
- [t]'umi 
- [t]'usa 
- [t]'usa- 
- [t]'usa- 
- [t]'usa. 
- [t]'usi- 
- [t]'ussa- 
- [t]'ussa- 
- [t]'usu 
- [t]'usu 
- [t][i]''usu[/i] 
- [t][i]'adi[/i]- 
- [t][i]'usu[/i] 
- [t][i]ca[/i]- 
- [t][i]cani[/i] 
- [t][i]dissu[/i]- 
- [t][i]dissu[/i]- 
- [t][i]ga[/i]- 
- [t][i]ga[/i]- 
- [t][i]ga[/i]- 
- [t][i]gibi[/i] 
- [t][i]haru[/i]- 
- [t][i]jami.[/i] 
- [t][i]ji[/i] 
- [t][i]la[/i]- 
- [t][i]labu[/i] 
- [t][i]migaru[/i] 
- [t][i]musa[/i] 
- [t][i]na[/i]- 
- [t][i]nagi[/i] 
- [t][i]nufira[/i] 
- [t][i]nuki[/i] 
- [t][i]pa.[/i] 
- [t][i]qasa-[/i] 
- [t][i]qixa[/i] 
- [t][i]ra'u.[/i][/i] 
- [t][i]ra'u?[/i] 
- [t][i]ra'u?[/i][/i] 
- [t][i]rika,[/i] 
- [t][i]rika,[/i] 
- [t][i]ru.[/i][/i] 
- [t][i]sinna-[/i] 
- [t][i]su'a[/i] 
- [t][i]sumika[/i]- 
- [t][i]surra,[/i] 
- [t][i]tasi[/i] 
- [t][i]tinalli,[/i] 
- [t][i]xita[/i]- 
- [t]ba'u 
- [t]bata- 
- [t]bata- 
- [t]bi'u. 
- [t]bi- 
- [t]bi- 
- [t]bili 
- [t]bufi- 
- [t]bufi- 
- [t]ca, 
- [t]ca- 
- [t]ca- 
- [t]ca- 
- [t]ca- 
- [t]cahuri 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani 
- [t]cani, 
- [t]cani- 
- [t]capuha- 
- [t]ci''a 
- [t]cihafi 
- [t]cikki 
- [t]cikki 
- [t]cikki- 
- [t]cikki." 
- [t]cipati 
- [t]cu'i 
- [t]cu'i 
- [t]cula. 
- [t]curri- 
- [t]cussi- 
- [t]cussi- 
- [t]cussi- 
- [t]cussi- 
- [t]da'aru 
- [t]da'aru 
- [t]dara- 
- [t]daru 
- [t]daru'i, 
- [t]daru- 
- [t]di 
- [t]di 
- [t]diha 
- [t]diss- 
- [t]dissu 
- [t]dissu 
- [t]du'i- 
- [t]du'i- 
- [t]du'i- 
- [t]dukku 
- [t]dumi 
- [t]dusuni- 
- [t]dusuni- 
- [t]dusuni- 
- [t]fa''a- 
- [t]fa''a- 
- [t]fa''a- 
- [t]fa. 
- [t]faluki 
- [t]fiha- 
- [t]filli 
- [t]filli 
- [t]filli 
- [t]fipa- 
- [t]fu 
- [t]fu 
- [t]fu- 
- [t]fuca 
- [t]funi 
- [t]funi, 
- [t]ga'i 
- [t]ga'i- 
- [t]ga- 
- [t]gapi. 
- [t]gi'a 
- [t]gi'a 
- [t]gi'a 
- [t]gi'a, 
- [t]gi'ika, 
- [t]gi- 
- [t]gi- 
- [t]gupi 
- [t]gupi 
- [t]gupi- 
- [t]gupi- 
- [t]gupi- 
- [t]gusu 
- [t]gusu- 
- [t]gusu? 
- [t]gusuli 
- [t]ha- 
- [t]ha- 
- [t]hafa- 
- [t]hafi- 
- [t]haru 
- [t]haru- 
- [t]haru- 
- [t]haru- 
- [t]hibu; 
- [t]hifu 
- [t]hifu 
- [t]hira." 
- [t]hisu- 
- [t]hisu- 
- [t]hulu'a 
- [t]hulu- 
- [t]ja 
- [t]ja- 
- [t]jaffara- 
- [t]jagaru 
- [t]jagaru- 
- [t]jami- 
- [t]jann- 
- [t]janni 
- [t]janni 
- [t]janni 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni- 
- [t]janni. 
- [t]janni. 
- [t]janni. 
- [t]janni. 
- [t]jati 
- [t]ji 
- [t]ji 
- [t]ji 
- [t]ji 
- [t]ji 
- [t]ji 
- [t]ji 
- [t]ji! 
- [t]ji. 
- [t]ju'i 
- [t]ju'i 
- [t]ju'i- 
- [t]jusi 
- [t]jusi 
- [t]jusi 
- [t]ka- 
- [t]ka- 
- [t]kadu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kalu- 
- [t]kanu 
- [t]kanu 
- [t]karra 
- [t]kassu- 
- [t]ki- 
- [t]ki- 
- [t]kibba- 
- [t]kika- 
- [t]kika- 
- [t]kika- 
- [t]kika- 
- [t]kika- 
- [t]kika- 
- [t]kiluqu- 
- [t]kipu 
- [t]kipu- 
- [t]kissa- 
- [t]kixina 
- [t]kixina. 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]ku- 
- [t]kuffa 
- [t]kuli- 
- [t]kunubi- 
- [t]kupp- 
- [t]kuppu 
- [t]kuppu- 
- [t]kurila 
- [t]kurila 
- [t]kurila 
- [t]l- 
- [t]la- 
- [t]la- 
- [t]la- 
- [t]la- 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu 
- [t]labu- 
- [t]labu. 
- [t]laru 
- [t]laru- 
- [t]lati. 
- [t]lati. 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]li 
- [t]linata- 
- [t]liqa. 
- [t]lisa- 
- [t]lisina 
- [t]luffu 
- [t]lusufi- 
- [t]ma'iki 
- [t]ma'iki- 
- [t]ma- 
- [t]ma- 
- [t]ma- 
- [t]ma- 
- [t]ma- 
- [t]ma- 
- [t]ma- 
- [t]madi 
- [t]madusi 
- [t]mallij- 
- [t]malu- 
- [t]mari 
- [t]matta 
- [t]matta, 
- [t]mihu 
- [t]mihu 
- [t]mihu 
- [t]mihu 
- [t]mihu- 
- [t]mihu- 
- [t]mihu. 
- [t]milami. 
- [t]miru 
- [t]mituja 
- [t]musa- 
- [t]na 
- [t]na 
- [t]na 
- [t]nacca 
- [t]nagi 
- [t]nagi 
- [t]nagi 
- [t]nagi. 
- [t]nallimi- 
- [t]nar- 
- [t]nara 
- [t]nara. 
- [t]naru, 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]ni- 
- [t]nidu- 
- [t]nifi- 
- [t]nifi- 
- [t]niga- 
- [t]nina- 
- [t]nina- 
- [t]nina- 
- [t]nina- 
- [t]nina- 
- [t]nina- 
- [t]nisa 
- [t]nisa," 
- [t]nu 
- [t]nu- 
- [t]nubi- 
- [t]nubi- 
- [t]nura 
- [t]nura 
- [t]pa 
- [t]pa 
- [t]pa 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa- 
- [t]pa. 
- [t]pada 
- [t]pada, 
- [t]pada, 
- [t]pada, 
- [t]pada, 
- [t]pagi. 
- [t]paji- 
- [t]pi 
- [t]pi 
- [t]pi 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi'adu 
- [t]pi, 
- [t]piba 
- [t]piddi 
- [t]pura- 
- [t]pura- 
- [t]pura- 
- [t]puta 
- [t]puttu 
- [t]qa 
- [t]qa 
- [t]qa- 
- [t]qa- 
- [t]qa- 
- [t]qa- 
- [t]qa- 
- [t]qacca 
- [t]qapi 
- [t]qi- 
- [t]qi- 
- [t]qi- 
- [t]qilu 
- [t]qilu?" 
- [t]qira 
- [t]qira- 
- [t]qixa 
- [t]qixa 
- [t]qixa 
- [t]qixa 
- [t]qixa 
- [t]qixa, 
- [t]qu 
- [t]qu 
- [t]qu 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]qu, 
- [t]quhha 
- [t]quhha 
- [t]quhha- 
- [t]quhu 
- [t]qumu 
- [t]qumu 
- [t]ra'ani- 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u 
- [t]ra'u, 
- [t]ra'u, 
- [t]ra'u- 
- [t]ra'u- 
- [t]ra'u? 
- [t]ra'u?" 
- [t]raca- 
- [t]rafa- 
- [t]rali 
- [t]ranna- 
- [t]raqu- 
- [t]ru 
- [t]ru 
- [t]ru 
- [t]ru 
- [t]ru 
- [t]ru 
- [t]ru 
- [t]ru'iha- 
- [t]ru. 
- [t]ru? 
- [t]ru? 
- [t]ru?" 
- [t]ru?" 
- [t]ruba- 
- [t]ruba- 
- [t]ruba- 
- [t]ruba- 
- [t]rusa?" 
- [t]sa'i- 
- [t]saki- 
- [t]sama 
- [t]sama 
- [t]sama- 
- [t]saqa- 
- [t]sara 
- [t]sata- 
- [t]sata- 
- [t]si'apa- 
- [t]sikka- 
- [t]sippa, 
- [t]sisa 
- [t]sisa 
- [t]su'a 
- [t]su'a 
- [t]su'a. 
- [t]su- 
- [t]sula 
- [t]sula 
- [t]sula- 
- [t]sunu- 
- [t]surra 
- [t]surra, 
- [t]ta'i 
- [t]ta'i 
- [t]ta. 
- [t]tajihu 
- [t]taku 
- [t]taku 
- [t]ti'ici 
- [t]tiku- 
- [t]tisaka 
- [t]tu 
- [t]tu 
- [t]tu'afu- 
- [t]tuci 
- [t]tuhhi- 
- [t]tuhi 
- [t]tuhi- 
- [t]tuja. 
- [t]turassi 
- [t]turassi 
- [t]turaxxi. 
- [t]turraxi 
- [t]turraxi 
- [t]x- 
- [t]xaba- 
- [t]xaha- 
- [t]xaha- 
- [t]xi- 
- [t]xi- 
- [t]xi- 
- [t]xi- 
- [t]xidu 
- [t]xidu 
- [t]xidu- 
- [t]xiku 
- [t]xiku 
- [t]xiku 
- [t]xiku 
- [t]xiku 
- [t]xiku 
- [t]xuga 
- abide, 
- absorption 
- across- 
- afternoon 
- air 
- aku 
- aku 
- aku- 
- aku- 
- aku- 
- alertness- 
- and 
- and 
- and 
- and 
- and 
- and 
- and- 
- and- 
- answer. 
- anything 
- as_a 
- ascent 
- at 
- at 
- at, 
- at, 
- at- 
- ba 
- ba 
- ba 
- ba- 
- ba- 
- ba. 
- bass- 
- batari 
- batta- 
- becoming 
- before 
- beginning 
- being_in 
- believe- 
- bijaju 
- bijaju- 
- black 
- body 
- box 
- buy- 
- buy. 
- cadi 
- called 
- cani 
- cani 
- cani 
- cani 
- caqara- 
- car 
- car 
- car- 
- car- 
- cari 
- chain! 
- chest 
- circumstance 
- cissa 
- clarity 
- cold- 
- collection- 
- coming_from 
- contest- 
- conversation 
- conversation- 
- corner 
- corridor- 
- cover- 
- cover- 
- covering- 
- cu'i 
- cur- 
- cura- 
- cussa 
- cussi. 
- da- 
- daca 
- dajab- 
- dajju 
- danna 
- daru 
- daru. 
- daughter 
- day- 
- demand- 
- di 
- di 
- di- 
- dicci- 
- difi- 
- dirt 
- disi 
- disi 
- disi 
- disi 
- disi 
- disi 
- disi 
- disi 
- disi. 
- dissu 
- dissu 
- dissu 
- dissu 
- dissu- 
- dissu. 
- divine_force- 
- doing 
- doing 
- door- 
- down 
- down 
- down- 
- drop- 
- elder 
- emotional_plane 
- emotional_plane- 
- enlightenment 
- exoticism- 
- fa'aka- 
- fa'ida- 
- familiarity- 
- far_away 
- fasa 
- fi. 
- field- 
- filli 
- finger 
- first 
- first- 
- flour- 
- flow- 
- folding_paper- 
- for 
- formality- 
- four- 
- funi 
- future 
- ga 
- ga'i 
- gas 
- gata 
- gi 
- gi 
- gi 
- gi 
- gicirri. 
- giving 
- goodbye, 
- goods 
- goods 
- goods 
- goods- 
- gorge- 
- ground 
- ground 
- grunt. 
- gupi- 
- gupi- 
- gurrisu- 
- gusu- 
- gusuli 
- hafi- 
- half_do. 
- half_do. 
- happy 
- having 
- having 
- having 
- having 
- having 
- heart- 
- heat. 
- hill 
- hill 
- hill 
- hill- 
- hiq- 
- history- 
- hold 
- hold 
- hold 
- hold. 
- horse- 
- hours- 
- huba- 
- husabi 
- hussu- 
- illu 
- illu 
- illu- 
- illu- 
- illu- 
- illu- 
- illu. 
- illu. 
- importance- 
- ini 
- ini 
- instead. 
- intensely. 
- ja- 
- ja- 
- ja- 
- jagaru 
- jagaru 
- jana 
- janni- 
- ji 
- ji'a 
- ji'a 
- jifadi- 
- join. 
- journey. 
- joy- 
- ju'- 
- ju'i. 
- k_ola 
- ka''a 
- kahu. 
- kalu- 
- kalu- 
- kalu- 
- kalu- 
- kamiri- 
- karafi 
- karu 
- karu 
- kasi 
- kassu- 
- kassu. 
- ki''a- 
- kiluqu. 
- kipu- 
- kitisu- 
- ku- 
- ku- 
- ku- 
- kunaqi 
- kunaqi 
- kunaqi 
- kupira. 
- kurila 
- l_usob- 
- ladi- 
- lagi- 
- land- 
- language. if you have trouble reading this, you may choose one another of the options to the left.[2][hl].zcng / yl.[/hl][3][hl].ds;nuk.[/hl][hl].&gt;rl / cn / pmlm / m;t / nw , al / qratq / n&lt;pp / jgw / pmn . cn / j;ndtb / btn;q . ki / ru / kwl / nyr;ww / &lt;pkrf / p / bu.[/hl][hl].kfq / qx / gdbs;w , xtq / lo / gdbs;w , adnejtv , cn / za / p . hwd;esusq / tn;l , uz / ng / d;zaht / z;r , lmr / ckw / rk , d;zmc / ru . ru / kkfs / d;z / kxn / ho / kwl / &gt;wioa / ir / e;&gt; / n / kxn.[/hl][hl].&gt;l / ld / pb / &gt;;o / x&gt; / rcx / mvq / usyi;ww / lo / qp / w / pli / qx , z;r / d / j;ntb , cn / pjgw / mlm . ofq / dw / ru / qp;cvn / hwjgw / n;c / &lt;p&gt;nq / jmy;s . ns / vwa / j / b&lt;zl / a , wbq / &lt;zl / ru / xe / d;s;w.[/hl][hl].dw / ts / jm . j / rk , ifr / w . alus / ru / kwpakg / y;sx . us / gbs;ww , ik / mgw / ru . uz / gb / zmksj / nkw / ru.[/hl][hl].pb / &gt;;oru / wbq / c;a / eikwus . j / l / kkm / w / wbsk , ga / l / yi / kw&lt;piw / sib;s;w / j / pli.[/hl][hl].ehivw / ngt&gt; / k;bza , a / cns / j;nb;tw / btn;q.[/hl]<span class="centre">[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]</span>[hl].k;zwqx / usqp . iwq / e;rx / xsi . r;ncn / x&gt; / nnl / q / &gt;ibeav / ga;s / lo / ru / s;p , ga / pjg / n;lmq / zlt / nnxtq / k;r / lsmult / ork;z . l / yiste / xu;sw / &lt;zt;k , a / &gt;&lt;zi;l / kkgi / ir / ng / lt . l / xa;lw / zl / hfi;ltq / ti / ormlm / jgwdcn / a;hq / ti / loq / lt.[/hl][hl].av / nnl / ot / itia;s / ckw / cxnr . t&gt; / nkmrq / zl / bl / pd;z / kwaw / qx / c , pd / kkx&gt; / ad / na;d / w / lwwmns / bl / q&gt;i;l / j;nnk / n / skmc;w.[/hl][hl].pae / cn / eikwhftsk / &gt;m;lj&gt;q / e / wbsk . kldp;k / iwza , ga / &gt;e;rx / ind / i;xi . &gt;tskq / hzbjn / inr , &gt;ktzza / m;t , a / mik / &gt;l / ade;rx / itia;st / cn / j;nkwa.[/hl][hl].sr / cn / &gt;koq / rl / ss / pd , itia;s / rus / j;n . pae / kkbjy / y;rq / fwk / j;nitip;k , jfakq / a;h / qi;l / j;n . a;h / q / xe / usx , p / ru / nfidq / lw / zzdn / kec . ql;i / m;lj&gt;q / e;rx / eh / cn , hw / lo / kwitiq / j;ni;sw / nr . pae / qrznrp;k / av / em / dwi , l / nrs / kwpmlmwds / k;sa&lt;d;n / ibeavr / daw / lo / pg.[/hl][hl].yi / j / ndw . xbns / ru / x&gt; / kwiti / kot / x;w / ru / p.[/hl][hl].;iti / t&gt;n;r / j;n / ru , mn / pae / ij;nwq / ko / gik , ss / ehw / kwq / &lt;z / gin;q / ec / j . ys / ilgn / l / mv / j;n / lo / a , &gt;za / i / z;r , mv / pza / neusj / w;v / us / ng.[/hl][hl]."uz / kwl / bu / ihq&gt; / qx / d;z / isl / a , sm / xeum / hwyi / mwp;k / v / ru . qk;a / ws.[/hl][hl].sqlq / a;lp / f;aja / cn / ixwnsq / za . cn / &gt;x&gt; / qn;d&gt; / zg / ru / e / &gt;;f / sr / pd , lo / qkwiti / j;n . p / l / mv / eavr / lsn / w / kwl / &gt;iwds / c;k / j / p / pd , vkw / p / mes / ga , &gt;k;aecwq / s;kds / pus . y;sg / eznds / pd , ket;&gt;w / gp / a , xhq / za / i . kwl / ys / j;iw / eznds / cn / pd;z / l / xhq / um / w.[/hl][hl]."&gt;rl.[/hl][hl].&gt;iti / u;sp;k / mv / a , ys / &gt;lp;k / er;x . &gt;e / ivsb / l / j;njwds / md / &gt;rl / vc / lo.[/hl]<span class="centre">[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]</span>[hl].&gt;rl / nuilks / kkcqrwmns / p , mq / rar / e;hs / &lt;p / fhn;q . nuscr / j;nnk . ng / ndc / nrn / a , vn / pstead / vwec.[/hl][hl].slw / rus , mn / pae / nnnrw / q;c / nfdw / ej . sapqf / ru / x&gt; / er;s / ie / qx / j;frcn / drw&gt; / gp . pae / j / nd;y / nr / hd;zr / a , ru / nqtd / iti / lgc;r.[/hl][hl].&gt;nq / nxm / y;sd;cx / a , alus / ad / &gt;x;a / orp;k / rf&gt;nq / a , &gt;c;s / gal.[/hl][hl].;iti / nbjybtr / &gt;wzfw / nnk;zw / tsk / j;n . pae / hw&gt;rl / itit / &lt;pcd / p / mn , er;s / k;zejt&gt; / hzb / stl / cvr / sqnth / lo / usyi.[/hl][hl]."pae , v / t&gt; / huz / l&gt;pr . hr.[/hl][hl].pae / ir;p . "uz / qw / pl / f;l / isql / j . sm / d / ip;k / yi / qw.[/hl][hl]."uz / styra / pd;z / f;ab . uz / j / kf;l / c;kndoa , uz / w / pwc / c;k.[/hl][hl]."kuz / &lt;z . smws / f;l / w.[/hl][hl]."l / uz / &gt;pk / xp;k / chf / ng / qr / f . f;l / pwihjb / um / pg / w . wihjxe / cpt / w.[/hl][hl]."c;kwcoa / w . uz / mw / psm / ru.[/hl][hl]."x&gt; / o;e / l;wn / tjv / k&gt;uz / hfxt / iy;s / ns / &gt;rl / itu . "uz / nnl / pmn / l / lntq / &gt;;p&gt;ej / mej / w / a , pd;z / f;ab / jt / qx / c;k / tic / a , mr / w / ab.[/hl][hl].pae / cn / kwmt;nwja / j;ntqx / lq . nf&gt;iti / j;ngt / ki / mn , ikv . n&gt;nq / ru , mq / cn / y;sg / eznds / a , cv;zwds.[/hl][hl].cn / &gt;r / fpcn / dwvbq / wzfru / ofw&gt; / hv / u;sp;k / mv . l / &gt;mej / za / mvt / j;n / p;d / lo / kwusdjb;wngwq / cohq / hv / pd;z . cn / x&gt; / eiiuj / &lt;p / ru / au / nmx / njfdq / j / us . au / ru / yi / x&gt; / ndfqx / gi / yi / ibeavr / n / zif . pae / qx / iqc / a , &gt;rl / i / daw / vn , md / dh / lehw / t . cbds / mikkw&lt;;rzw;&gt; / j;nad.[/hl][1]transliteration<h2>daxunikificani qasaru sinnanuruqa ra'aniqa ''ikinnisa</h2>this set of pages uses latin letters to give an idea of the sounds of the tinellbian languages.[2]xucinagi cula[3]disinnamukakurila cani pamilami matta naru, 'ala qira'ataqa nigupipi jagaru pamana. cani janniditiba bataniqqi. kanu ra'u kaluli nicurilluru gupikarafi pi bi'u.[i]kifiqa qixa gadibasillu, xitaqa labu gadibasillu, 'adinitujatihu, cani su'a pa. harudattusa'usiqa tinalli, 'usu nagi dissu'ahati surra, lamari cakaru rika, dissumici ra'u.[/i] ra'u kikafasa dissu kixina hibu; kaluli kulu'ipu'a nura dukku na kixina.kuli ladi piba kuppu xiku racaxa mihuqa 'usaju'illuru labu qapi ru palinu qixa, surra di jannitiba, cani pajagaru milami. bufiqa daru ra'u qapaccafuni harujagaru nacca gupikunaqi jamicussi. nisa hulu'a ji bigusuli qu, rubaqa gusuli ra'u xidu dissillu.[i]daru tasi jami. ji rika, nufira ru.[/i] ''alamusa ra'u kalupa'akagi cussixa. [i]musa gabasilluru, nuki migaru ra'u? ''usu gibi sumikasija nakalu ra'u?[/i]piba kuppura'u rubaqa ci''a du'ikalumusa. ji li kikami ru rubasika, gi'a li cu'i kalugupinuru sa'ibassillu ji palinu.tuhinuhulu nigataku kibbasu'a, qu canisi jannibattaru bataniqqi.<span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>kassuruqixa musaqapi! ''iluqa turraxi xisa'i. rannacani xiku ninali qa kunubitu'afu gi'assa labu ra'u sippa, gi'a pajiga nallimiqa sulata ninaxatiqa karra lisami'ulata purakassu. li ju'isatadu ximussaru gusutakki, qu kugusunulli kikaga'i nura nagi lati. li xi'allaru sula hafinullitaqa ta'i puramilami jagarudacani quhhaqa ta'i labuqa lati.quhu ninali puta 'ita'i'assa cakaru caxinara. taku nikamiriqa sula bili padissu kiluquru qixa ca, pada kikaxiku 'adi ni'adda ru laruluminisa bili qakunulli janninika na sakimicillu.pi'adu cani du'ikaluhafitisaka kumallijakuqa tu rubasika. kiladipakka 'ilusu'a, gi'a kuturraxi 'inada 'ixxa'i. kutisakaqa hisubajana 'inara, kukitisusu'a matta, qu ma'iki kuli 'aditurraxi 'ita'i'assata cani jannikiluqu.sara cani kukipuqa rali sisa pada, 'ita'i'assa ra'usi janni. pi'adu kikabijaju curriqa faluki janni'ita'ipakka, jafa'akaqa quhha qanulli janni. quhha qa xidu 'usixa, pa ra'u nifa'idaqa laru suxudini kituci. qali''i mallijakuqa turraxi tuhi cani, haru labu kalu'ita'iqa janni'issaru nara. pi'adu qirisunarapakka quhu dumi daru'i, li nirasi kalupamilamirudisi kissa'agudanna nubitu'afuri da'aru labu pagi.cu'i ji nidaru. xabanisa ra'u xiku kalu'ita'i kiputa xillu ra'u pa.''ita'i tikunarra janni ra'u, mani pi'adu nujanniruqa kipu gi'ika, sisa tuhiru kaluqa gusu ga'iniqqi tuci ji. jusi 'ilagini li mihu janni labu qu, kusu'a nu surra, mihu pasu'a nidu'usaji luffu 'usa nagi.'"''usu kaluli ba'u 'ihiqaku qixa dissu 'isili qu, sama xidu'umi harucu'i malupakka fu ra'u? qika''a rusa?"saqalaqa 'allapi fa''aji'a cani 'ixarunisaqa su'a. cani kuxiku qiniddaku xuga ra'u tu kuffa sara pada, labu qakalu'ita'i janni. pi li mihu tu'afuri lisina ru kaluli ku'iludisi cikki ji pa pada, fukaru pa madusi gi'a, kuki''atuciruqa sikkadisi pa'usa. cussigi dusunidisi pada, kadutakkulu gipa qu, xahaqa su'a 'i. kaluli jusi jannulu dusunidisi cani padissu li xahaqa 'umi ru.'"kurila."ku'ita'i 'ussapakka mihu qu, jusi kulipakka turaxxi. kutu 'ihusabi li jannijarudisi madi kurila fuca labu.<span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>kurila ni'u'ilikasi kikacaqaraluminisa pi, maqa raqura tuhhisa gupi fihaniqqi. nimusacari janninika. nagi nidaca narini qu, funi pasatadu'adi hulutuci.salilu ra'usi, mani pi'adu ninanararu qacca nifidaru tuja. si'apaqafa ra'u xiku turassi 'idu qixa jaffaracani dararuku gapi. pi'adu ji nidajju nara hadissuri qu, ra'u niqatidi 'ita'i lagicirri.kunaqi nixima cussidiccixa qu, 'alamusa 'adi kuxa''a purapakka rafakunaqi qu, kucissa ga'ala.''ita'i nibijajubatari kulusufiru ninakassuru tisaka janni. pi'adu harukurila 'ita'ita gupicadi pi mani, turassi kassutujataku hisuba satali cahuri saqanatiha labu 'usaju'i.'"pi'adu, fu taku ha'usu lakupira. hira."pi'adu 'irippa. '"''usu qilu pali filli 'isaqala ji! sama di 'ipakka cu'i qilu?"'"''usu satacura'a padissu fa''aba. ''usu ji kafilli cikkinadapu'a, 'usu ru paruci cikki."'"ka'usu gusu? samarusa filli ru?"'"li 'usu kupiki xipakka cihafi nagi qira fa. filli paru'ihajaba 'umi pagi ru? ru'ihajaxidu cipati ru?"'"cikkirucipu'a ru? ''usu miru pasama ra'u?"'"xiku puttu lilluna tajihu kaku'usu hafaxita 'icussa nisa," kurila 'itamu. '"''usu ninali pamana li linataqa kuppakutuja mituja ru qu, padissu fa''aba jati qixa cikki ti'ici qu, mari ru 'aba."pi'adu cani kalumatanniruji'a jannitiqaxi liqa. nifiku'ita'i jannigata kanu mani, 'ikahu. nikunaqi ra'u, maqa cani cussigi dusunidisi qu, cahussurudisi.cani kura fipacani daruhubaqa lusufira'u bufiruku hifu 'ussapakka mihu. li kumituja su'a mihuta janni piddi labu kalu'usadajabillunigiruqa capuhaqa hifu padissu. cani xiku du'i'i'uja gupi ra'u qumu nimixi nijifadiqa ja 'usa. qumu ra'u ju'i xiku nidifiqixa ga'i ju'i nubitu'afuri na sunufi. pi'adu qixa 'iqaca qu, kurila 'i da'aru funi, madi diha latuhiru ta. cabadisi ma'ikikalugurrisulukku janni'adi.[1]interlinear[t]<h2>ryan eakins's [i]coelacanth quartet[/i]</h2> 
- last 
- left 
- legs 
- legs, 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li 
- li''i 
- light. 
- linu 
- linu. 
- loss 
- love- 
- lu'i- 
- lukku 
- lumi- 
- lumi- 
- lusufi- 
- ma- 
- made_of 
- made_of 
- mallij- 
- mana 
- mana. 
- many 
- mental_plane 
- mental_plane- 
- mi 
- mi'ula- 
- mic- 
- milami 
- milami 
- milami- 
- mituja 
- mixi 
- moment 
- morning 
- move- 
- musa 
- musa 
- musa- 
- musa. 
- mussa- 
- na 
- nada 
- nada- 
- nagi 
- named 
- nara, 
- nara- 
- nara- 
- narra 
- natiha 
- near 
- near. 
- new 
- new 
- new 
- new 
- new- 
- new. 
- ni 
- ni 
- ni 
- ni, 
- ni, 
- nidd- 
- nigi- 
- nika 
- nika. 
- niqqi 
- niqqi. 
- niqqi. 
- niqqi. 
- nisa 
- nisa 
- nisa 
- nisa- 
- not 
- not 
- nothing 
- nu- 
- nuh- 
- nulli 
- nulli 
- nulli 
- nulli- 
- number- 
- one 
- only 
- only 
- only 
- only- 
- or 
- pa 
- pa'aka- 
- pa- 
- pacca- 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka 
- pakka, 
- parent- 
- past 
- peace 
- pen- 
- people 
- permission- 
- person- 
- pi 
- pi 
- piki 
- place 
- place- 
- place- 
- plain 
- plain- 
- plains- 
- point_of_view 
- present- 
- pu'a 
- pu'a 
- pu'a, 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa 
- qa- 
- qaca 
- qafa 
- qapi! 
- qixa 
- qixa 
- quickly- 
- ra 
- ra 
- ra'u 
- ra'u 
- ra. 
- rasi 
- reading- 
- realisation 
- realisation. 
- realisation. 
- reality- 
- reed- 
- rest 
- ri 
- ri 
- ri 
- ri 
- rippa. 
- risu- 
- road 
- road. 
- room 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru 
- ru'iha- 
- ru- 
- ru- 
- ru- 
- ru- 
- ru- 
- ru- 
- ru- 
- ru- 
- ru- 
- ruci 
- ruci- 
- ruku 
- ruku 
- rusa 
- sa 
- sa'i. 
- sacred. 
- sama 
- sand 
- saqala 
- satadu 
- satadu- 
- scream- 
- seat 
- see- 
- see- 
- see. 
- self 
- self 
- self 
- self, 
- self, 
- several- 
- several- 
- shock. 
- shoulder- 
- si 
- si 
- si, 
- sika, 
- sika. 
- sit- 
- sit- 
- situation- 
- six- 
- sleep- 
- sleep- 
- small- 
- some 
- somewhere 
- sort_of- 
- spreading- 
- stop- 
- su'a 
- su'a 
- su'a 
- su'a, 
- su'a, 
- subtle_bodies 
- succeed 
- sun 
- sun 
- sun. 
- surroundings 
- surroundings- 
- swing 
- t,rsh 
- t,rsh 
- ta 
- ta 
- ta 
- ta 
- ta 
- ta 
- ta- 
- ta- 
- table 
- takki, 
- takkulu 
- taku 
- taku 
- tamu. 
- tanni- 
- tarpaulin 
- tent 
- that 
- think- 
- think- 
- this 
- three- 
- tiba 
- tiba, 
- tidi 
- tilt 
- time- 
- time- 
- time_passes- 
- tiqaxi 
- tisaka 
- tisaka- 
- touch. 
- town- 
- travel 
- tu 
- tu'afu 
- tu'afu- 
- tu'afu- 
- tuci- 
- tuci. 
- tuci. 
- tuhi- 
- tuja 
- tuja- 
- turraxi 
- turraxi 
- two 
- two 
- two. 
- ulu 
- ulu 
- undo 
- undo 
- up- 
- up- 
- up- 
- vibration- 
- village 
- wagon 
- wagon 
- walk. 
- wall 
- wall 
- want- 
- water- 
- what 
- while 
- white- 
- wife- 
- without 
- word 
- xa 
- xa 
- xa''a 
- xa, 
- xa- 
- xa. 
- xati- 
- xidu 
- xiku 
- xiku 
- xima 
- xina- 
- xita 
- xud- 
-high lulani
+'a
+'a-
+'adda
+'adi
+'adi.
+'agu-
+'ala.
+'alla-
+'assa
+'assa-
+'i'uja
+'ilu-
+'issa-
+'ita'i
+'ita'i-
+'u'ili-
+'umi
+'usa-
+'usa.
+'usu
+1[k]int[/k]
+2[k]gen[/k]
+2[k]gen[/k].
+2[k]int[/k]
+3[k]ani;gen[/k]
+3[k]ani;gen[/k].
+3[k]ina;int[/k]
+[/t]
+[/t]<spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>[t]marketweek!toresh'sheartsangwithinher.thatglorioustimetotakegoodsdowntotheflatlands,tradingolivesandgoatcheeseforwheatflourandpapyrus.achancetomeetexoticpeopleandgetawayfromthehillfolkforatime.achancetoexchangethefamiliarsmellsofgoatandheathforthescentofthesiltyriver.
+[/t]<spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>[t]withinonlyafewhoursinthisworld,corlahadfoundherselffirmlyensconcedbetweenthetwofarmers.therestofthedaywasspenttravelling.shedozedinherseat,lettingtheirconversationpassthroughher.
+[/t][1]gloss<h2>three-tail-havingfish-calledstory-four-[k]gen[/k]ryan-[k]gen[/k]eakins.</h2>a'"threetail-havingfish"isacoelacanth,referringtothethreelobesonthetailofmembersofthisspecies.a'"feather-becomingegg"isaroughtranslationof[i]crackledegg[/i],andreferstoahatchlingemergingintotheworld.[2]feather-becomingegg.[3]up-story-[k]nmn[/k]k_ola[k]prs;dyn[/k]think-surroundingsagainslowly,heatrough-[k]nmn[/k]-and-[k]gen[/k]in-sit-[k]pst;sta[/k]sandthink-realisation.[k]prs;dyn[/k]move-up-legscare-[k]qal[/k].leg[k]prs;sta[/k][k]abl[/k]-[k]com[/k]in-time_passes-[k]psv[/k]-[k]ger[/k]sit-enlightenment[k]pst;sta[/k]hurt.
+[/t][t]'"atelepath?whatamithinkingrightnow,then?"
+[/t][t]'"corla."
+[/t][t]'"i'msorryforyellingatyou,butwhatareyoudoingoutherebyyourself?areyoulost?"
+[/t][t]'"ittookmesometimetolearnyourlanguage.i'mnotanempaththewayyourpeopleare,i'matelepath."
+[/t][t]'"myabilitiesonlyseemtoworkproperlyonmyownpeople,"corlareplied.'"icanpickupenoughtotellmewherepopulationcentresare,andapparentlytopickupyourlanguage,butthatisit."
+[/t][t]'"ourpeople?whereareyoufrom?"
+[/t][t]'"piado,iwantedtothankyouforeverythingyou'vedoneforme."
+[/t][t]'"thismaybealittledifficulttoexplain.doyouknowanythingaboutyourhistory?yourultimatehistory,perhaps?"
+[/t][t][i]aroadperhaps.atleast,ihopeso.[/i]thesuncouldbefeltoverherleftshoulder.[i]isitsunriseorsunset?amifacingeastorwest?[/i]
+[/t][t][i]threedown,onetogo,almosthome,[/i]shethoughttoherself.[i]bythesixgodsoftinellb,i'llbegladtofinishthisandhavesomepeace.[/i]sheallowedherselftofeelgriefforamoment,griefatbeingcontinuallyseparatedfromherbeloved.
+[/t][t]asnightfell,piadochoseaplacebesidetheroadtorest.dinnerwasaspicedlentilstew,preparedbytoresh.piadogavehistentuptothestranger,andsleptinthewagoncoveredwiththetarp.
+[/t][t]asthewagoncamearoundacorner,piadocheckedthedraughtsbeast'smovementjustintimetoavoidashortfigure.hestartedyellingathertomove,butstoppedwhensheraisedsightlesseyestohim.
+[/t][t]heledhertoatwo-storeystonebuildingonthemainstreetoflusov.aquickscanofthebuilding'smanifesttoldhimwherehewasgoing.inaroomattheendofthecorridor,theyfoundawomansittingbehindadesk.shewaswearingtheofficiousrobesthattheflatlandersworeforformaloccasions.piadoexplainedhissideofthestory,butbeforecorlahadachancetospeak,thebureaucratrangasmallbell.herassistantappearedfromasidedoor.
+[/t][t]piadofelthisdaughter'sexcitementfromacrossthecompound.hereachedoutwithhisownheart,sendingthepridehefeltforher.hefarewelledthevillageelder,andhisownwife,andwalkedacrosstojointoreshandthewagon.
+[/t][t]piadoledthewomanovertothewagonandintroducedhertotoresh.hemotionedtohisdaughtertomoveacrosstoallowcorlatoascend.
+[/t][t]piadoletoutastartledexclamation.'"ithoughtyoucouldn'tspeak!whydidn'tyousaysomethingbefore?"
+[/t][t]piadorolledhiseyesindisbelief.heswunghislegsoutoverthesideofthecart,gruntingashisdidso.oncehewasontheground,hegraspedcorla'shandandhelpedheroff.
+[/t][t]realisingthatactivitywasthesurestwaytofindinghimagain,shestooduptotakestockofhersituation.underneaththethinlayerofsand,shecouldfeelpavingstones.onlynaturalsoundscouldbeheard,andthesenseofhumanlifewasfardistant.
+[/t][t]shefinishedhelpingherparentsfillthewagon.shehadhelpedinthegoatpenssinceshelearnedtowalk,butonlybeenallowedtotraveldownthehillswithinthelastfewyears.
+[/t][t]sheunfoldedherwalkingstickandcarefullybeganinventingtime-travel.
+[/t][t]thegroundwaschillthenextmorning,butthebrightsunsoonevaporatedthefrostandwarmedtheair.
+[/t][t]therewasnooneontheroad.theonlysoundswerethosemadebythewagonandthedraughtsbeast.
+[/t][t]thestrongestsenseoflifewasoppositethesun.shecouldn'ttellhowfar,butsherealisedthatnothingwasgoingtobesolvedbysittingstill.
+[/t][t]thewagonreachedthemarkettownoflusovearlyintheafternoon.piadostayedwithcorlaandthewagonastoreshsoughtoutthemarketauthoritiestoreserveherplaceinthebazaar.
+[/t][t]withaslighttouchofthereinstothebackofthedraughtsbeast,thewagonstartedmoving.piadowasdrivingforthefirstlegofthejourney,followingtherivergorgedownthehills.therivercouldbeseenfarbelow,littlemorethanatrickleatthistimeofyear.toresh'sinitialexcitementfadedasshewaslulledintosleepbythegentlyrockingwagon.piadoencouragedhersleepinessbecauseheknewhewouldneedherawakeiftheyweretobesttheflatlanders.
+[/t][t]wordsinanalienlanguagewerehisonlyreply.handingthereinstohissuddenlyveryalertdaughter,hegotoutofthewagon.hehadassumedhertobeaflatlandersincehecouldn'tsenseheremotions,butrealisedotherwisewhenhenoticedthepalenessofherskin.hereachedoutforherhand,placeditonhischest,andsaidhisownname.movingherhandbacktoher,helearnedhername.
+[/t]andsoitbegins...[2]story[t]<h2>thecrackledegg</h2>
+[/t]andsoitgoes...[3]prologue[t]corlacamebacktoconsciousnessslowly,theheatandthecoarsenessofthesandonwhichshesatpenetratinghermind.shegingerlystoodup.herlegsachedfromholdingthemeditativeposeforsolong.
+[i]'ahati[/i]
+[i]'usi[/i]-
+[i]bas[/i]-
+[i]cani[/i]
+[i]dattu[/i]-
+[i]di[/i]-
+[i]illu,[/i]
+[i]illu[/i]-
+[i]kalu[/i]
+[i]karu[/i]
+[i]kifi-[/i]
+[i]mari[/i]
+[i]mici[/i]
+[i]ni[/i]-
+[i]nuru-[/i]
+[i]qa[/i]
+[i]ru,[/i]
+[i]ru[/i]
+[i]sa[/i]-
+[i]sija[/i]
+[i]tihu,[/i]
+[i]tuja[/i]-
+[k]1int[/k]
+[k]3ani;gen[/k]
+[k]3gen[/k]
+[k]abl[/k]-
+[k]abp[/k]
+[k]abp[/k],
+[k]abv[/k]
+[k]adv[/k].
+[k]aug[/k]
+[k]aug[/k]-
+[k]com[/k]
+[k]dat[/k]-
+[k]dim[/k]
+[k]drv[/k].
+[k]dtv,
+[k]dtv[/k]
+[k]dtv[/k]-
+[k]dtv[/k].
+[k]gen[/k]
+[k]ger[/k]
+[k]ger[/k],
+[k]ger[/k]-
+[k]inc[/k]
+[k]inc[/k],
+[k]nmn[/k]
+[k]nmn[/k],
+[k]nmn[/k]-
+[k]prs;gno[/k]
+[k]prs;itr[/k]
+[k]prs;neg[/k]
+[k]prs;sta[/k]
+[k]pst;sta[/k]
+[k]psv[/k]
+[k]psv[/k],
+[k]psv[/k]-
+[k]psv[/k].
+[k]qal[/k]
+[k]qal[/k].
+[k]rel[/k]
+[k]trm[/k]
+[r]'"1[k]int[/k]
+[r]'"[k]1int[/k]
+[r]'"[k]com[/k]
+[r]'"[k]rel[/k]
+[r]'"equalative-
+[r]'"k_ola."
+[r]'"listen-
+[r]'"piad$u,
+[r]1[k]abl[/k]
+[r]1[k]int[/k]
+[r]2[k]int[/k]
+[r]3[k]ani;dat[/k]
+[r]3[k]ani;int[/k]
+[r]3[k]ani;int[/k]-
+[r]3[k]ani;int[/k].
+[r]3[k]ani;tra[/k]
+[r]3[k]ina;int[/k]
+[r]<div===>'"[corla]"</div>
+[r]<div===>'"[corla]"</div>[k]dat[/k]-carfollow-[k]abp[/k][k]3ani;int[/k]and,[k]3ani;dat[/k]meet-[k]abp[/k]t,rsh.[k]dat[/k]-daughterspeak-finger[k]com[/k]move-across-[k]ger[/k]-[k]3ani;gen[/k]risek_olaallow[k]fut;dyn[/k].
+[r]<div===>'"[piado],youhaverepeatedlydonemanythingsforme.thank-you."</div>
+[r]<div===>'"[piado],youhaverepeatedlydonemanythingsforme.thank-you."</div>piad$uspeak-shock.'"1[k]int[/k][k]pst;neg[/k]think-[k]com[/k][k]2int[/k]speak-word[k]prs;neg[/k]!whatbeforespeak-[k]abv[/k]nothing[k]pst;neg[/k]?"
+[r]<div===>'"ifeelsadnessbecause(i)loudlydemanded(something)ofyouandwhatmadeyoubefarawayfromanythingwithnothing?have(you)beenexperiencinglossuntilnow?"</div>
+[r]<div===>'"ifeelsadnessbecause(i)loudlydemanded(something)ofyouandwhatmadeyoubefarawayfromanythingwithnothing?have(you)beenexperiencinglossuntilnow?"</div>word-[k]gen[/k]familiarity-givinglanguage-not[k]prs;dyn[/k]say-[k]dtv[/k]-[k]ger[/k]-only-[k]gen[/k]self.[k]prs;dyn[/k][k]dat[/k]-[k]rel[/k]experience-alertness-[k]aug[/k]suddenly[k]prs;sta[/k]offspringgivereinsand_then,[k]fut;dyn[/k]down-[k]abl[/k]-wagonmove.[k]pst;sta[/k][k]com[/k][k]3int[/k]plain-[k]nmn[/k]assume[k]prs;gno[/k][k]abl[/k]-[k]com[/k][k]dat[/k]-heart-[k]3gen[/k]thought_speak[k]prs;neg[/k]thinkand,[k]fut;neg[/k]-[k]trm[/k]thinkthis_mannerthat_is,[k]dat[/k]-white-sort_of-[k]ger[/k]-[k]gen[/k]skin-[k]3ani;gen[/k]think-see.touch-holdhand-[k]3ani;gen[/k]and_then,on-chestput-3[k]ina;int[/k]and,name-[k]gen[/k]selfsay.[k]abl[/k]-[k]com[/k]3[k]ani;dat[/k]move-undohand-[k]3ani;gen[/k][k]prs;dyn[/k]think-new[k]com[/k]name-[k]3ani;gen[/k]something[k]prs;gno.[/k]
+[r]<div===>'"ilearnyourlanguageovertime.iamnotanempaththesameasyou,ilistentowardsthementalplane."</div>
+[r]<div===>'"ilearnyourlanguageovertime.iamnotanempaththesameasyou,ilistentowardsthementalplane."</div>'"equalative-1[k]int[/k]person?what-coming_from2[k]int[/k][k]prs;gno[/k]?"
+[r]<div===>'"memakingthistopicseemclearmightbedifficult.doyouknowanythingaboutyourhistory?(doyouknow)evenyourdistanthistory?"</div>
+[r]<div===>'"memakingthistopicseemclearmightbedifficult.doyouknowanythingaboutyourhistory?(doyouknow)evenyourdistanthistory?"</div>'"listen-mental_plane-[k]nmn[/k][k]prs;gno[/k]?1[k]int[/k]nowthink-what[k]prs;sta[/k]?"
+[r]<div===>'"personthesameasme?fromwhatdoyoucome?"</div>
+[r]<div===>'"personthesameasme?fromwhatdoyoucome?"</div>'"[k]com[/k]1[k]int[/k][k]dat[/k]-clarityappear-[k]abv[/k]topic[k]fut;sta[/k]difficultmaybe.2[k]int[/k]about-history-[k]nmn[/k]-2[k]gen[/k]anythingthink-hold[k]prs;gno[/k]?history-[k]nmn[/k]-far_awayeven[k]prs;gno[/k]?"
+[r]<div===>'"theabilitythatisdonebymeonlyspeakssubtlytooneoftheracelikeme,"[corla]spokeinanswer.'"iheartoacertainextentinordertorealisewhereplacesofhighpopulationdensityareandapparentlylearnyourlanguage,butthisiseverything."</div>
+[r]<div===>'"theabilitythatisdonebymeonlyspeakssubtlytooneoftheracelikeme,"[corla]spokeinanswer.'"iheartoacertainextentinordertorealisewhereplacesofhighpopulationdensityareandapparentlylearnyourlanguage,butthisiseverything."</div>piad$u[k]prs;dyn[/k][k]abl[/k]-think-believe-[k]ger[/k]-notmove-tilthead.beside-[k]dat[/k]-carmove-swinglegswhen-at,speak-grunt.at-ground[k]prs;sta[/k],when-down[k]prs;dyn[/k]touch-holdhand-3[k]ani;gen[/k]and,help-drop-[k]ger[/k]-3[k]ani;gen[/k].
+[r]<div===>(he)madeherfollow(him)tothebuildingmadeofstoneandhavingtwostoreys,onthemainstreetof[lusov].fromaquickreadingofthedirectoryofthebuilding,helearnedwherehimselfandshewillgoforapurpose.inaroomattheendofacorridor,(they)seeawomanwhoissittingontheothersideofatable.thewomanislinkedtoasacredcloakthattheplainspeoplewearatoccasionsthatdoformality.[piado]gavehisperspective,andbefore[corla]willspeak,theofficialdidasmallbell.herhelpermovednearfromacrossthewall-door.</div>
+[r]<div===>(he)makesherfollowtothecar,andmakes[toresh]meether.(he)finger-speakstothedaughterthathermovementacrosswillallow[corla]torise.</div>
+[r]<div===>(he)makesherfollowtothecar,andmakes[toresh]meether.(he)finger-speakstothedaughterthathermovementacrosswillallow[corla]torise.</div><spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>k_olain-reality-thatover-hours-several-only[k]pst;sta[/k],when-downbetween-twofarm-[k]nmn[/k]sitsafety-[k]adv[/k].at-day-restmove-journey.[k]fut;sta[/k]at-seatsleep-[k]dim[/k]and,[k]fut;neg[/k]towards-conversation-nearlisten-half_do.
+[r]<div===>(itis)atelepath?iamthinkingwhatnow?"</div>
+[r]<div===>(itis)atelepath?iamthinkingwhatnow?"</div>'"[k]rel[/k]1[k]abl[/k]do-[k]psv[/k]-[k]prs;itr[/k]abilityas-[k]dat[/k]-1[k]int[/k]race-onespeak-subtle_bodiesonly,"k_olaspeak-answer.'"1[k]int[/k]to-[k]com[/k]think-ascent[k]com[/k]population-[k]gen[/k]density-[k]aug[/k]-placeanywhere[k]prs;gno[/k]and,think-newlanguage-2[k]gen[/k]apparently[k]pst;dyn[/k]telepathextentand,this[k]prs;gno[/k]everything."
+[r]<div===>(she)unfoldsherownguidestick,andwithcarestartsthetime-travel.</div>
+[r]<div===>(she)unfoldsherownguidestick,andwithcarestartsthetime-travel.</div><spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>buy-[k]ger[/k]-doingday-chain!heart-[k]gen[/k]t,rshseem-light.glory-having[k]rel[/k]for-[k]com[/k]down[k]dat[/k]-land-plaincarry-goods[k]fut;dyn[/k][k]prs;sta[/k]time,that_isfruit-blackcheese-[k]gen[/k]goat-andfor-flour-[k]gen[/k]wheatpaper-reed-andchange-buy.[k]com[/k]join-conversationappear-exoticism-[k]prs;gno[/k]person-manyand[k]dat[/k]-person-hillfor-whileseparate[k]fut;sta[/k]opportunity.[k]com[/k]appear-familiarity-[k]prs;gno[/k]goatgrass-hill-and-[k]gen[/k]scentchange-circumstancesand-water-havingriver-[k]gen[/k]scent[k]fut;dyn[/k]-[k]nmn[/k]opportunity.
+[r]<div===>[corla]isbecomingslowlyconsciousagain,realisingtheheatandroughnessofthesandinwhich(she)issitting.(she)standsupcarefully.(her)legsarehurtingbecauseofsittingenlightenedwhiletimepassed.</div>
+[r]<div===>[corla]isbecomingslowlyconsciousagain,realisingtheheatandroughnessofthesandinwhich(she)issitting.(she)standsupcarefully.(her)legsarehurtingbecauseofsittingenlightenedwhiletimepassed.</div>three-[k]nmn[/k][k]pst;dyn[/k]put-up-cover-[k]psv[/k],one-[k]nmn[/k][k]fut;dyn[/k]put-up-cover-[k]psv[/k],near-at-place-abide,[k]prs;dyn[/k]selfthink.with-divine_force-[k]nmn[/k]-six-[k]gen[/k]tinellb,[k]1int[/k][k]fut;sta[/k]feel-happywhen,do-this[k]prs;dyn[/k]-[k]trm[/k]and_thus,feel-peace[k]prs;sta[/k].[k]prs;sta[/k]interval-momentfeelgriefallow_oneself;[k]abl[/k]-[k]com[/k][k]dat[/k]-love-[k]nmn[/k]separatemust[k]prs;itr[/k]grief.
+[r]<div===>[i]itseemstoprobablybearoad.itisnotthiscondition,(i)hopeitis.[/i]sunheatisfeltfromover(her)leftshoulder.[i]thecoveringoverofthesun,orisittheshowing?amipointingmybodytotheeastortothewest?[/i]</div>
+[r]<div===>[i]itseemstoprobablybearoad.itisnotthiscondition,(i)hopeitis.[/i]sunheatisfeltfromover(her)leftshoulder.[i]thecoveringoverofthesun,orisittheshowing?amipointingmybodytotheeastortothewest?[/i]</div>moststrong-[k]prs;sta[/k]sense_image-[k]gen[/k]lifeopposite-[k]abl[/k]-sun.[k]prs;neg[/k][k]com[/k]interval-some[k]prs;gno[/k]telepath,and[k]com[/k]nothing[k]abl[/k]-sit-stop-[k]ger[/k]fix-situation-[k]psv[/k][k]prs;neg[/k]think-realisation.
+[r]<div===>[i]threeofthemhavebeencoveredover,oneofthemwillbecoveredover,(i'm)nearthelivingplace,[/i](she)thoughttoherself.[i]withthesixgodsoftinellb,iwillbehappywhen(i)havedoneandfinishedthis,andthusiamfeelingpeace.[/i](she)allowedherselftofeelgriefforamoment;grieffrom(thefactthatshe)mustrepeatedlybeseparatedfrom(her)lover.</div>
+[r]<div===>[i]threeofthemhavebeencoveredover,oneofthemwillbecoveredover,(i'm)nearthelivingplace,[/i](she)thoughttoherself.[i]withthesixgodsoftinellb,iwillbehappywhen(i)havedoneandfinishedthis,andthusiamfeelingpeace.[/i](she)allowedherselftofeelgriefforamoment;grieffrom(thefactthatshe)mustrepeatedlybeseparatedfrom(her)lover.</div>[k]dat[/k]-[k]com[/k]do-[k]nmn[/k]moststrong[k]rel[/k]hang-[k]dtv[/k][k]3ani;int[/k]-[k]gen[/k]see-collection-[k]psv[/k]-[k]ger[/k][k]fut;dyn[/k]rope[k]prs;gno[/k]think-realisation[k]pst;dyn[/k],becauseupmove-legs,[k]prs;dyn[/k]think-absorptionsurroundings.stone-[k]gen[/k]road[k]prs;sta[/k]down-number-withoutwith-sandcoveringsit-dirtevidentially-touch.onlyhear-[k]nmn[/k][k]prs;neg[/k]from-peopleand,sense_image-[k]gen[/k]people[k]prs;sta[/k]far_awayfeel-[k]psv[/k].
+[r]<div===>[piado]sensedthegreatjoyoftheoffspringfromtheothersideofthevillage-field.(he)spreadouthisownemotionalbody,andempathicallysentprideto[toresh].(he)saidgoodbyetotheelder-rulerofthetown,andalsohisownwife,andwalkedacrosstothe(heis)near[toresh]andthegoods-car.</div>
+[r]<div===>[piado]sensedthegreatjoyoftheoffspringfromtheothersideofthevillage-field.(he)spreadouthisownemotionalbody,andempathicallysentprideto[toresh].(he)saidgoodbyetotheelder-rulerofthetown,andalsohisownwife,andwalkedacrosstothe(heis)near[toresh]andthegoods-car.</div>rein[k]prs;dyn[/k][k]dat[/k]-horse-[k]gen[/k]backcontactand_then,car-goods[k]prs;sta[/k]-[k]inc[/k]move.piad$uover-firstsection-[k]gen[/k]journeymove-car-[k]abp[/k],along-gorge-[k]gen[/k]riverdown-hillmove.riverdownfarsee-[k]dtv[/k],3[k]ina;int[/k][k]prs;sta[/k]at-present-[k]gen[/k]yearmore-flow-[k]dim[/k]big-half_do.down-beginningjoy-[k]aug[/k]-[k]gen[/k]t,rshsmall[k]prs;dyn[/k],as[k]fut;dyn[/k][k]abl[/k]-car-[k]gen[/k]move-vibration-[k]ger[/k]sleep.piad$uexperience-want-sleep-[k]abp[/k]3[k]ani;tra[/k]trybecause,[k]com[/k]at-future[k]abl[/k]-think-surroundings-[k]ger[/k]-3[k]ani;gen[/k]fight-contest-succeedland-plain-[k]nmn[/k]experience[k]fut;dyn[/k]think-hold.
+[r]<div===>[piado]speaksinshock.'"ididn'tthinkthatyoudidn'tspeak.becauseofwhatdid(you)notsaynothingbefore?"</div>
+[r]<div===>[piado]speaksinshock.'"ididn'tthinkthatyoudidn'tspeak.becauseofwhatdid(you)notsaynothingbefore?"</div>'"1[k]int[/k]for-time-[k]nmn[/k]think-newlanguage-2[k]gen[/k].1[k]int[/k][k]prs;neg[/k]equalative-2[k]int[/k]hear-emotional_plane-[k]nmn[/k],[k]1int[/k][k]prs;gno[/k]towards-mental_planehear."
+[r]<div===>[piado]tiltshisheadbecauseofnotbelieving.(he)swunghislegstobesidethecar,when(he)grunts.after(he)isontheground,(he)holdsherhand,andhelpsherdrop.</div>
+[r]<div===>[piado]tiltshisheadbecauseofnotbelieving.(he)swunghislegstobesidethecar,when(he)grunts.after(he)isontheground,(he)holdsherhand,andhelpsherdrop.</div>[k]prs;dyn[/k][k]dat[/k]-twostorey-havingstreet-importance-[k]gen[/k]l_usob-being_instone-made_ofbuildingfollow-[k]abv[/k]3[k]ani;int[/k].[k]com[/k][k]dat[/k]-somewhereself3[k]ani;int[/k]-andmovepurpose[k]fut;dyn[/k][k]abl[/k]-see-reading-[k]psv[/k]-quickly-[k]ger[/k]-[k]gen[/k]directory-[k]gen[/k]buildingthink-new.[k]prs;dyn[/k][k]rel[/k]opposite-tablesit[k]prs;sta[/k]womanin-roomat-corridor-[k]gen[/k]endsee.woman[k]prs;sta[/k]link[k]rel[/k]at-formality-doingtimelinkland-plains-[k]nmn[/k][k]prs;itr[/k]cloak-sacred.piad$u[k]pst;dyn[/k]speak-point_of_viewand,k_olaspeakexperience[k]fut;neg[/k],when-beforebureaucratdo-small-[k]prs;gno[/k]bell.help-[k]nmn[/k]-3[k]ani;gen[/k]across-[k]abl[/k]-door-wallmove-near.
+[r]<div===>because(she)realises(thefactthat)doingsomethingisthestrongestropetohanghisfindingon,(she)standsup,(she)assesseshersurroundings.aroadofstoneseemstobesittingonthegroundunderthecoveringwithnumberlesssand.theonlythingswhichareheardarenotfrompeople,andthesenseofpeoplefeltfaraway.</div>
+[r]<div===>because(she)realises(thefactthat)doingsomethingisthestrongestropetohanghisfindingon,(she)standsup,(she)assesseshersurroundings.aroadofstoneseemstobesittingonthegroundunderthecoveringwithnumberlesssand.theonlythingswhichareheardarenotfrompeople,andthesenseofpeoplefeltfaraway.</div>roadprobablyevidentially.[k]prs;neg[/k]condition,hope[k]prs;gno[/k].heat-sun[k]prs;sta[/k][k]abl[/k]-shoulder-leftfeel-[k]dtv[/k].sunput-covering-[k]psv[/k]-[k]ger[/k],orshow-[k]ger[/k][k]prs;sta[/k]?[k]1int[/k]eastwest-orpoint-body[k]prs;sta[/k]?
+[r]<div===>chainofdaysforthebuying!theemotionalbodyof[toresh]projectslight.aglory-havingtimeforthecarryingdownofgoodsdowntotheplain-lands,thatis,tradeblackfruitandthecheeseofgoatsforwheatofflourandreedpaper.anopportunityforconversingwithmanyexotic-seemingpeopleandseparatefromthehillpeopleforawhile.anopportunitytochangethecircumstancesfromscentsoffamiliar-seeminggoatsandhillgrasstothoseofwatersandhavingrivers.</div>
+[r]<div===>chainofdaysforthebuying!theemotionalbodyof[toresh]projectslight.aglory-havingtimeforthecarryingdownofgoodsdowntotheplain-lands,thatis,tradeblackfruitandthecheeseofgoatsforwheatofflourandreedpaper.anopportunityforconversingwithmanyexotic-seemingpeopleandseparatefromthehillpeopleforawhile.anopportunitytochangethecircumstancesfromscentsoffamiliar-seeminggoatsandhillgrasstothoseofwatersandhavingrivers.</div>[k]3ani;tra[/k]of-[k]com[/k]fillcar-goods[k]prs;dyn[/k]-[k]trm[/k]help-parent-two.[k]pst;itr[/k]at-pen-[k]gen[/k]goatfrom-[k]com[/k]think-newwalk-[k]ger[/k][k]pst;dyn[/k]help,and_thenover-[k]rel[/k]nearat-past[k]prs;gno[/k]year-several-onlyfrom-[k]com[/k]down-[k]dat[/k]-hillmove-travel[k]prs;itr[/k]share-permission-[k]psv[/k].
+[r]<div===>nothingisnotattheroad.theonlynoiseisitthatisbroadcastbythecarandhorse.</div>
+[r]<div===>nothingisnotattheroad.theonlynoiseisitthatisbroadcastbythecarandhorse.</div>carturn-cornermove[k]prs;sta[/k],where-atpiad$ustop-move-[k]ger[/k]-[k]gen[/k]horseto,contactsmall-[k]prs;gno[/k]body-[k]gen[/k]persontime-[k]qal[/k]half_do[k]prs;neg.[/k][k]3ani;dat[/k]say-scream-[k]inc[/k][k]com[/k][k]3ani;int[/k]move[k]fut;dyn[/k]and,[k]dat[/k]-selfstopwhen,3[k]ani;int[/k]towards-selfwith-see-[k]prs;neg[/k]eyesee[k]fut;sta[/k].
+[r]<div===>she'sfinishinghelping(her)twoparentswithfillingthegoods-car.(she)repeatedlyhelpedinthegoatpenfromthelearningtowalk,andwasgivenpermissiontorepeatedlytraveldownthehillonlyovertheseveralrecentyearsinthepast.</div>
+[r]<div===>she'sfinishinghelping(her)twoparentswithfillingthegoods-car.(she)repeatedlyhelpedinthegoatpenfromthelearningtowalk,andwasgivenpermissiontorepeatedlytraveldownthehillonlyovertheseveralrecentyearsinthepast.</div>piad$u[k]prs;dyn[/k]opposite-[k]abl[/k]-field-village[k]dat[/k]-joy-[k]aug[/k]-[k]gen[/k]offspringsense_image-[k]drv[/k].big-spreading-[k]abp[/k]heart-self,and[k]dat[/k]-t,rshspeak-emotional_planepride.[k]dat[/k]-town-[k]gen[/k]rule-[k]nmn[/k]-eldersay-goodbye,[k]dat[/k]-wife-selfalso,andacross[k]dat[/k]-[k]com[/k]near-t,rshcar-goods-and[k]prs;dyn[/k]move-walk.
+[r]<div===>since[corla]wasinthatrealityforonlyseveralhours,(she)sitsinsafetybetweentwofarmpeople.(they)journeyintheremainderoftheday.(she)willbenappingintheseat,andwon'tbehalf-listeningtonearbyconversation.</div>
+[r]<div===>since[corla]wasinthatrealityforonlyseveralhours,(she)sitsinsafetybetweentwofarmpeople.(they)journeyintheremainderoftheday.(she)willbenappingintheseat,andwon'tbehalf-listeningtonearbyconversation.</div>night_sky[k]prs;sta[/k]-[k]inc[/k],when-atpiad$ufor-sleep-[k]ger[/k]choosenext_to-roadplace.meal-last[k]prs;sta[/k][k]rel[/k]t,rshmake[k]pst;dyn[/k]spice-havinglentil-made_ofsoup.piad$u[k]prs;neg[/k]at-tentsleepfor-new-[k]nmn[/k]and,[k]prs;sta[/k]in-down-tarpaulincardo-instead.
+[r]<div===>thecarmovestothetowncalled[lusov]whichisforbuying,inthefirstafternoon.[piado]didremainwith[corla]andthewagon,while[toresh]seeksouttheadministratorforthebuying-placeinordertobookthestall.</div>
+[r]<div===>thecarmovestothetowncalled[lusov]whichisforbuying,inthefirstafternoon.[piado]didremainwith[corla]andthewagon,while[toresh]seeksouttheadministratorforthebuying-placeinordertobookthestall.</div>'"piad$u,[k]2tra[/k][k]pst;itr[/k]for-[k]1int[/k]do-intensely.thank_you."
+[r]<div===>theearthfeelscoldinthemorning,andthesunlightchangestheground-icenearbyintovapourandputsheatintheair.</div>
+[r]<div===>theearthfeelscoldinthemorning,andthesunlightchangestheground-icenearbyintovapourandputsheatintheair.</div>carat-first-afternoon[k]dat[/k]-l_usob-calledfor-buy-[k]ger[/k]townmove.piad$uwith-k_olawagon-andsit-wall[k]pst;sta[/k]when-at,t,rshbuy-place-foradminister-[k]nmn[/k]for-[k]com[/k]stallready-box[k]fut;dyn[/k]see-join.
+[r]<div===>thereinswereputincontactwiththebackofthehorse,andthenthegoods-carstartedmoving.[piado]droveoverthefirstpartofthejourney,(he)movedalongthegorgeoftheriverdownthehill.therivercouldbeseenfardown,itiskindofbiggerthanasmallflowatthepresentpartoftheyear.asthebigjoyof[toresh]fromsincethebeginningbecamesmall,(she)willsleepbecauseofthevibrationofthecar.[piado]triestomakeherexperienceawantforsleep,because(he)knowsthatinthefutureherbeingconsciousofhersurroundingswillhave(them)succeedincontestwiththepeopleoftheplains.</div>
+[r]<div===>thereinswereputincontactwiththebackofthehorse,andthenthegoods-carstartedmoving.[piado]droveoverthefirstpartofthejourney,(he)movedalongthegorgeoftheriverdownthehill.therivercouldbeseenfardown,itiskindofbiggerthanasmallflowatthepresentpartoftheyear.asthebigjoyof[toresh]fromsincethebeginningbecamesmall,(she)willsleepbecauseofthevibrationofthecar.[piado]triestomakeherexperienceawantforsleep,because(he)knowsthatinthefutureherbeingconsciousofhersurroundingswillhave(them)succeedincontestwiththepeopleoftheplains.</div>nothing[k]prs;neg[/k]at-road.sound-only[k]prs;sta[/k][k]rel[/k][k]abl[/k]-wagonhorse-andbroadcast-[k]psv[/k][k]prs;sta[/k][k]3ina;int.[/k]
+[r]<div===>thestrongestsenseoflife(is)fromtheothersideofthesun.(she)doesn'tsenseoverwhatdistanceitis,andrealisesthatnothingisn'tfixedfromsittingstill.</div>
+[r]<div===>thestrongestsenseoflife(is)fromtheothersideofthesun.(she)doesn'tsenseoverwhatdistanceitis,andrealisesthatnothingisn'tfixedfromsittingstill.</div>small-folding_paper-undoguide-as_astick-self,and[k]prs;dyn[/k]-[k]inc[/k]move-time-[k]ger[/k]care-[k]qal[/k].
+[r]<div===>whenthecarismovingaroundthecorner,[piado]stoppedthemovementofthehorseinordertonottouchasmallbodyofapersoninamostlytimelymanner.(he)startedyellingatherforhertomove,andstoppedhimselfwhenshewillbelookingtowardshimselfwitheyesthataren'tseeing.</div>
+[r]<div===>whenthecarismovingaroundthecorner,[piado]stoppedthemovementofthehorseinordertonottouchasmallbodyofapersoninamostlytimelymanner.(he)startedyellingatherforhertomove,andstoppedhimselfwhenshewillbelookingtowardshimselfwitheyesthataren'tseeing.</div>'"[k]1int[/k][k]abl[/k]-[k]com[/k][k]2dat[/k]say-demand-[k]aug[/k][k]pst;dyn[/k]feelsorrowand,whatfar_away-anythingwith-nothingbe-[k]abp[/k][k]2tra[/k][k]prs;sta?[/k]experience-loss[k]pst;gno[/k]?"
+[r]<div===>whenthenightskyisstartingtoexist,[piado]choosesaplacenexttotheroadforsleep.thefinalmealisasoupwithspicemadefromlentilsmadeby[toresh].[piado]doesnotsleepinthetentforthenewperson,andisdoingsointhecarunderthetarpaulininstead.</div>
+[r]<div===>whenthenightskyisstartingtoexist,[piado]choosesaplacenexttotheroadforsleep.thefinalmealisasoupwithspicemadefromlentilsmadeby[toresh].[piado]doesnotsleepinthetentforthenewperson,andisdoingsointhecarunderthetarpaulininstead.</div>soilat-morningtouch-cold-[k]dtv[/k]and,heat-sunnear[k]dat[/k]-gaschange-[k]abv[/k]ice-groundand,[k]dat[/k]-airput-heat.
+[r]<div===>wordsofafamiliarnon-languagearetheonlythingsthatweresaidtohim.(he)givesthereinstotheoffspringwhoissuddenlyexperiencinggreatalertness,andthen(he)willmovedownfromthecar.(he)isassumingthatsheisaplains-personfromthefactthat(he)doesn'tthough-speakheremotionalbody,and(he)willstopnotthinkingthisway,thatis,(he)noticedthesort-ofwhitenessofherskin.(he)grabsherhand,andthenputiton(his)chest,andsayshisownname.(he)learnedwhathernameisfromun-movingherhandtoher.</div>
+[r]<div===>wordsofafamiliarnon-languagearetheonlythingsthatweresaidtohim.(he)givesthereinstotheoffspringwhoissuddenlyexperiencinggreatalertness,andthen(he)willmovedownfromthecar.(he)isassumingthatsheisaplains-personfromthefactthat(he)doesn'tthough-speakheremotionalbody,and(he)willstopnotthinkingthisway,thatis,(he)noticedthesort-ofwhitenessofherskin.(he)grabsherhand,andthenputiton(his)chest,andsayshisownname.(he)learnedwhathernameisfromun-movingherhandtoher.</div>'"k_ola."
+[r][k]1int[/k]
+[r][k]2dat[/k]
+[r][k]2int[/k]
+[r][k]2tra[/k]
+[r][k]3ani;dat[/k]
+[r][k]3ani;int[/k]
+[r][k]3ani;int[/k]-
+[r][k]3ani;tra[/k]
+[r][k]3ina;int.[/k]
+[r][k]3int[/k]
+[r][k]abl[/k]-
+[r][k]com[/k]
+[r][k]dat[/k]-
+[r][k]fut;dyn[/k]
+[r][k]fut;dyn[/k]-
+[r][k]fut;dyn[/k].
+[r][k]fut;neg[/k]
+[r][k]fut;neg[/k],
+[r][k]fut;neg[/k]-
+[r][k]fut;sta[/k]
+[r][k]fut;sta[/k].
+[r][k]prs;dyn[/k]
+[r][k]prs;dyn[/k],
+[r][k]prs;dyn[/k]-
+[r][k]prs;gno.[/k]
+[r][k]prs;gno[/k]
+[r][k]prs;gno[/k].
+[r][k]prs;gno[/k]?
+[r][k]prs;gno[/k]?"
+[r][k]prs;itr[/k]
+[r][k]prs;neg.[k][/k]
+[r][k]prs;neg[/k]
+[r][k]prs;neg[/k]!
+[r][k]prs;sta?[/k]
+[r][k]prs;sta[/k]
+[r][k]prs;sta[/k],
+[r][k]prs;sta[/k]-
+[r][k]prs;sta[/k].
+[r][k]prs;sta[/k]?
+[r][k]prs;sta[/k]?"
+[r][k]pst;dyn[/k]
+[r][k]pst;dyn[/k],
+[r][k]pst;gno[/k]?"
+[r][k]pst;itr[/k]
+[r][k]pst;neg[/k]
+[r][k]pst;neg[/k]?"
+[r][k]pst;sta[/k]
+[r][k]pst;sta[/k],
+[r][k]rel[/k]
+[r][t]'"''usu
+[r][t]'"cikki-
+[r][t]'"ka-
+[r][t]'"kurila."
+[r][t]'"li
+[r][t]'"pi'adu,
+[r][t]'"xiku
+[r][t]''ita'i
+[r][t][i]daru[/i]
+[r][t][i]daxuni-[/i]
+[r][t][i]kifi[/i]-
+[r][t]cani
+[r][t]cu'i
+[r][t]kassu-
+[r][t]ku-
+[r][t]kunaqi
+[r][t]kurila
+[r][t]pi'adu
+[r][t]piba
+[r][t]quhu
+[r][t]salilu
+[r][t]saqala-
+[r][t]sara
+[r][t]tuhi-
+[r][t]xuci-
+[r]ability
+[r]about-
+[r]across
+[r]across-
+[r]administer-
+[r]again
+[r]allow
+[r]allow_oneself;
+[r]along-
+[r]also,
+[r]and
+[r]and,
+[r]and_then
+[r]and_then,
+[r]and_thus,
+[r]anything
+[r]anywhere
+[r]apparently
+[r]appear-
+[r]as
+[r]as-
+[r]assume
+[r]at-
+[r]back
+[r]be-
+[r]because
+[r]because,
+[r]before
+[r]bell.
+[r]beside-
+[r]between-
+[r]big-
+[r]body-
+[r]broadcast-
+[r]building
+[r]bureaucrat
+[r]buy-
+[r]car
+[r]car-
+[r]care-
+[r]carry-
+[r]change-
+[r]cheese-
+[r]choose
+[r]cloak-
+[r]condition,
+[r]contact
+[r]covering
+[r]day-
+[r]density-
+[r]difficult
+[r]directory-
+[r]do-
+[r]down
+[r]down-
+[r]eakins.
+[r]east
+[r]egg.
+[r]end
+[r]equalative-
+[r]even
+[r]everything."
+[r]evidentially-
+[r]evidentially.
+[r]experience
+[r]experience-
+[r]extent
+[r]eye
+[r]familiarity-
+[r]far
+[r]far_away
+[r]far_away-
+[r]farm-
+[r]feather-
+[r]feel
+[r]feel-
+[r]fight-
+[r]fill
+[r]fish-
+[r]fix-
+[r]follow-
+[r]for-
+[r]from-
+[r]fruit-
+[r]give
+[r]glory-
+[r]goat
+[r]goat-
+[r]grass-
+[r]grief
+[r]grief.
+[r]guide-
+[r]half_do
+[r]hand-
+[r]hang-
+[r]head.
+[r]hear-
+[r]hear."
+[r]heart-
+[r]heat
+[r]heat-
+[r]help,
+[r]help-
+[r]history-
+[r]hope
+[r]horse
+[r]horse-
+[r]hurt.
+[r]ice-
+[r]in-
+[r]interval-
+[r]join-
+[r]journey
+[r]joy-
+[r]k_ola
+[r]l_usob-
+[r]land-
+[r]language-
+[r]leg
+[r]legs
+[r]lentil-
+[r]life
+[r]link
+[r]listen-
+[r]make
+[r]maybe.
+[r]meal-
+[r]meet-
+[r]more-
+[r]most
+[r]move
+[r]move-
+[r]move.
+[r]must
+[r]name-
+[r]near
+[r]near-
+[r]next_to-
+[r]night_sky
+[r]nothing
+[r]now
+[r]of-
+[r]offspring
+[r]on-
+[r]one-
+[r]only
+[r]only,"
+[r]opportunity.
+[r]opposite-
+[r]or
+[r]over-
+[r]paper-
+[r]people
+[r]person
+[r]person-
+[r]person?
+[r]piad$u
+[r]place.
+[r]plain-
+[r]point-
+[r]population-
+[r]pride.
+[r]probably
+[r]purpose
+[r]put-
+[r]race-
+[r]ready-
+[r]rein
+[r]reins
+[r]rise
+[r]river
+[r]river-
+[r]road
+[r]rope
+[r]rough-
+[r]rule-
+[r]ryan-
+[r]safety-
+[r]sand
+[r]sand-
+[r]say-
+[r]say.
+[r]scent
+[r]section-
+[r]see
+[r]see-
+[r]see.
+[r]seem-
+[r]self
+[r]self.
+[r]sense_image-
+[r]separate
+[r]share-
+[r]show-
+[r]sit
+[r]sit-
+[r]skin-
+[r]sleep
+[r]sleep-
+[r]sleep.
+[r]slowly,
+[r]small
+[r]small-
+[r]soil
+[r]something
+[r]sorrow
+[r]sound-
+[r]soup.
+[r]speak
+[r]speak-
+[r]spice-
+[r]stall
+[r]stick-
+[r]stone-
+[r]stop
+[r]stop-
+[r]storey-
+[r]story-
+[r]street-
+[r]strong
+[r]strong-
+[r]suddenly
+[r]sun
+[r]surroundings.
+[r]t,rsh
+[r]t,rsh.
+[r]tail-
+[r]telepath
+[r]telepath,
+[r]thank_you."
+[r]that_is
+[r]that_is,
+[r]think
+[r]think-
+[r]think.
+[r]this
+[r]this_manner
+[r]thought_speak
+[r]three-
+[r]time
+[r]time,
+[r]time-
+[r]tinellb,
+[r]to,
+[r]to-
+[r]topic
+[r]touch-
+[r]towards-
+[r]town
+[r]try
+[r]turn-
+[r]up
+[r]wagon-
+[r]walk-
+[r]west-
+[r]what
+[r]what-
+[r]wheat
+[r]when,
+[r]when-
+[r]where-
+[r]with-
+[r]woman
+[r]word-
+[r]year
+[r]year-
+[t]'"''usu
+[t]''ala-
+[t]''ikinnisa.
+[t]''ilu-
+[t]''usu
+[t]'aba."
+[t]'adi
+[t]'adi-
+[t]'ala
+[t]'ala-
+[t]'alla-
+[t]'i
+[t]'i-
+[t]'i.
+[t]'idu
+[t]'ilu-
+[t]'isili
+[t]'ita'i
+[t]'ita'i-
+[t]'ixxa'i.
+[t]'umi
+[t]'usa
+[t]'usa-
+[t]'usa.
+[t]'usi-
+[t]'ussa-
+[t]'usu
+[t][i]''usu[/i]
+[t][i]'adi[/i]-
+[t][i]'usu[/i]
+[t][i]ca[/i]-
+[t][i]cani[/i]
+[t][i]dissu[/i]-
+[t][i]ga[/i]-
+[t][i]gibi[/i]
+[t][i]haru[/i]-
+[t][i]jami.[/i]
+[t][i]ji[/i]
+[t][i]la[/i]-
+[t][i]labu[/i]
+[t][i]migaru[/i]
+[t][i]musa[/i]
+[t][i]na[/i]-
+[t][i]nagi[/i]
+[t][i]nufira[/i]
+[t][i]nuki[/i]
+[t][i]pa.[/i]
+[t][i]qasa-[/i]
+[t][i]qixa[/i]
+[t][i]ra'u.[/i][/i]
+[t][i]ra'u?[/i]
+[t][i]ra'u?[/i][/i]
+[t][i]rika,[/i]
+[t][i]ru.[/i][/i]
+[t][i]sinna-[/i]
+[t][i]su'a[/i]
+[t][i]sumika[/i]-
+[t][i]surra,[/i]
+[t][i]tasi[/i]
+[t][i]tinalli,[/i]
+[t][i]xita[/i]-
+[t]ba'u
+[t]bata-
+[t]bi'u.
+[t]bi-
+[t]bili
+[t]bufi-
+[t]ca,
+[t]ca-
+[t]cahuri
+[t]cani
+[t]cani,
+[t]cani-
+[t]capuha-
+[t]ci''a
+[t]cihafi
+[t]cikki
+[t]cikki,
+[t]cikki-
+[t]cikki."
+[t]cipati
+[t]cu'i
+[t]cula.
+[t]curri-
+[t]cussi-
+[t]da'aru
+[t]dara-
+[t]daru
+[t]daru'i,
+[t]daru-
+[t]di
+[t]diha
+[t]diss-
+[t]dissu
+[t]du'i-
+[t]dukku
+[t]dumi
+[t]dusuni-
+[t]fa''a-
+[t]fa.
+[t]faluki
+[t]fiha-
+[t]filli
+[t]fipa-
+[t]fu
+[t]fu-
+[t]fuca
+[t]funi
+[t]funi,
+[t]ga'i
+[t]ga'i-
+[t]ga-
+[t]gapi.
+[t]gi'a
+[t]gi'a,
+[t]gi'ika,
+[t]gi-
+[t]gupi
+[t]gupi-
+[t]gusu
+[t]gusu-
+[t]gusu?
+[t]gusuli
+[t]ha-
+[t]hafa-
+[t]hafi-
+[t]haru
+[t]haru-
+[t]hibu;
+[t]hifu
+[t]hira."
+[t]hisu-
+[t]hulu'a
+[t]hulu-
+[t]ja
+[t]ja-
+[t]jaffara-
+[t]jagaru
+[t]jagaru-
+[t]jami-
+[t]jann-
+[t]janni
+[t]janni-
+[t]janni.
+[t]jati
+[t]ji
+[t]ji!
+[t]ji.
+[t]ju'i
+[t]ju'i-
+[t]jusi
+[t]ka-
+[t]kadu-
+[t]kalu-
+[t]kanu
+[t]karra
+[t]kassu-
+[t]ki-
+[t]kibba-
+[t]kika-
+[t]kiluqu-
+[t]kipu
+[t]kipu-
+[t]kissa-
+[t]kixina
+[t]kixina.
+[t]ku-
+[t]kuffa
+[t]kuli-
+[t]kunubi-
+[t]kupp-
+[t]kuppu
+[t]kuppu-
+[t]kurila
+[t]l-
+[t]la-
+[t]labu
+[t]labu-
+[t]labu.
+[t]laru
+[t]laru-
+[t]lati.
+[t]li
+[t]linata-
+[t]liqa.
+[t]lisa-
+[t]lisina
+[t]luffu
+[t]lusufi-
+[t]ma'iki
+[t]ma'iki-
+[t]ma-
+[t]madi
+[t]madusi
+[t]mallij-
+[t]malu-
+[t]mari
+[t]matta
+[t]matta,
+[t]mihu
+[t]mihu-
+[t]mihu.
+[t]milami.
+[t]miru
+[t]mituja
+[t]musa-
+[t]na
+[t]nacca
+[t]nagi
+[t]nagi.
+[t]nallimi-
+[t]nar-
+[t]nara
+[t]nara.
+[t]naru,
+[t]ni-
+[t]nidu-
+[t]nifi-
+[t]niga-
+[t]nina-
+[t]nisa
+[t]nisa,"
+[t]nu
+[t]nu-
+[t]nubi-
+[t]nura
+[t]pa
+[t]pa-
+[t]pa.
+[t]pada
+[t]pada,
+[t]pagi.
+[t]paji-
+[t]pi
+[t]pi'adu
+[t]pi,
+[t]piba
+[t]piddi
+[t]pura-
+[t]puta
+[t]puttu
+[t]qa
+[t]qa-
+[t]qacca
+[t]qapi
+[t]qi-
+[t]qilu
+[t]qilu?"
+[t]qira
+[t]qira-
+[t]qixa
+[t]qixa,
+[t]qu
+[t]qu,
+[t]quhha
+[t]quhha-
+[t]quhu
+[t]qumu
+[t]ra'ani-
+[t]ra'u
+[t]ra'u,
+[t]ra'u-
+[t]ra'u?
+[t]ra'u?"
+[t]raca-
+[t]rafa-
+[t]rali
+[t]ranna-
+[t]raqu-
+[t]ru
+[t]ru'iha-
+[t]ru.
+[t]ru?
+[t]ru?"
+[t]ruba-
+[t]rusa?"
+[t]sa'i-
+[t]saki-
+[t]sama
+[t]sama-
+[t]saqa-
+[t]sara
+[t]sata-
+[t]si'apa-
+[t]sikka-
+[t]sippa,
+[t]sisa
+[t]su'a
+[t]su'a.
+[t]su-
+[t]sula
+[t]sula-
+[t]sunu-
+[t]surra
+[t]surra,
+[t]ta'i
+[t]ta.
+[t]tajihu
+[t]taku
+[t]ti'ici
+[t]tiku-
+[t]tisaka
+[t]tu
+[t]tu'afu-
+[t]tuci
+[t]tuhhi-
+[t]tuhi
+[t]tuhi-
+[t]tuja.
+[t]turassi
+[t]turaxxi.
+[t]turraxi
+[t]x-
+[t]xaba-
+[t]xaha-
+[t]xi-
+[t]xidu
+[t]xidu-
+[t]xiku
+[t]xuga
+abide,
+absorption
+across-
+afternoon
+air
+aku
+aku-
+alertness-
+and
+and-
+answer.
+anything
+as_a
+ascent
+at
+at,
+at-
+ba
+ba-
+ba.
+bass-
+batari
+batta-
+becoming
+before
+beginning
+being_in
+believe-
+bijaju
+bijaju-
+black
+body
+box
+buy-
+buy.
+cadi
+called
+cani
+caqara-
+car
+car-
+cari
+chain!
+chest
+circumstance
+cissa
+clarity
+cold-
+collection-
+coming_from
+contest-
+conversation
+conversation-
+corner
+corridor-
+cover-
+covering-
+cu'i
+cur-
+cura-
+cussa
+cussi.
+da-
+daca
+dajab-
+dajju
+danna
+daru
+daru.
+daughter
+day-
+demand-
+di
+di-
+dicci-
+difi-
+dirt
+disi
+disi.
+dissu
+dissu-
+dissu.
+divine_force-
+doing
+door-
+down
+down-
+drop-
+elder
+emotional_plane
+emotional_plane-
+enlightenment
+exoticism-
+fa'aka-
+fa'ida-
+familiarity-
+far_away
+fasa
+fi.
+field-
+filli
+finger
+first
+first-
+flour-
+flow-
+folding_paper-
+for
+formality-
+four-
+funi
+future
+ga
+ga'i
+gas
+gata
+gi
+gicirri.
+giving
+goodbye,
+goods
+goods-
+gorge-
+ground
+grunt.
+gupi-
+gurrisu-
+gusu-
+gusuli
+hafi-
+half_do.
+happy
+having
+heart-
+heat.
+highlulani
+hill
+hill-
+hiq-
+history-
+hold
+hold.
+horse-
+hours-
+huba-
+husabi
+hussu-
+illu
+illu-
+illu.
+importance-
+ini
+instead.
+intensely.
+ja-
+jagaru
+jana
+janni-
+ji
+ji'a
+jifadi-
+join.
+journey.
+joy-
+ju'-
+ju'i.
+k_ola
+ka''a
+kahu.
+kalu-
+kamiri-
+karafi
+karu
+kasi
+kassu-
+kassu.
+ki''a-
+kiluqu.
+kipu-
+kitisu-
+ku-
+kunaqi
+kupira.
+kurila
+l_usob-
+ladi-
+lagi-
+land-
+language.ifyouhavetroublereadingthis,youmaychooseoneanotheroftheoptionstotheleft.[2][hl].zcng/yl.[/hl][3][hl].ds;nuk.[/hl][hl].&gt;rl/cn/pmlm/m;t/nw,al/qratq/n&lt;pp/jgw/pmn.cn/j;ndtb/btn;q.ki/ru/kwl/nyr;ww/&lt;pkrf/p/bu.[/hl][hl].kfq/qx/gdbs;w,xtq/lo/gdbs;w,adnejtv,cn/za/p.hwd;esusq/tn;l,uz/ng/d;zaht/z;r,lmr/ckw/rk,d;zmc/ru.ru/kkfs/d;z/kxn/ho/kwl/&gt;wioa/ir/e;&gt;/n/kxn.[/hl][hl].&gt;l/ld/pb/&gt;;o/x&gt;/rcx/mvq/usyi;ww/lo/qp/w/pli/qx,z;r/d/j;ntb,cn/pjgw/mlm.ofq/dw/ru/qp;cvn/hwjgw/n;c/&lt;p&gt;nq/jmy;s.ns/vwa/j/b&lt;zl/a,wbq/&lt;zl/ru/xe/d;s;w.[/hl][hl].dw/ts/jm.j/rk,ifr/w.alus/ru/kwpakg/y;sx.us/gbs;ww,ik/mgw/ru.uz/gb/zmksj/nkw/ru.[/hl][hl].pb/&gt;;oru/wbq/c;a/eikwus.j/l/kkm/w/c;k,ga/l/yi/kw&lt;piw/sib;s;w/j/pli.[/hl][hl].ehivw/ngt&gt;/k;bza,a/cns/j;nb;tw/btn;q.[/hl]<spanclass="centre">[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]</span>[hl].k;zwqx/usqp.iwq/e;rx/xsi.r;ncn/x&gt;/nnl/q/&gt;ibeav/ga;s/lo/ru/s;p,ga/pjg/n;lmq/zlt/nnxtq/k;r/lsmult/ork;z.l/yiste/xu;sw/&lt;zt;k,a/&gt;&lt;zi;l/kkgi/ir/ng/lt.l/xa;lw/zl/hfi;ltq/ti/ormlm/jgwdcn/a;hq/ti/loq/lt.[/hl][hl].av/nnl/ot/itia;s/ckw/cxnr.t&gt;/nkmrq/zl/bl/pd;z/kwaw/qx/c,pd/kkx&gt;/ad/na;d/w/lwwmns/bl/q&gt;i;l/j;nnk/n/skmc;w.[/hl][hl].pae/cn/eikwhftsk/&gt;m;lj&gt;q/e/wbsk.kldp;k/iwza,ga/&gt;e;rx/ind/i;xi.&gt;tskq/hzbjn/inr,&gt;ktzza/m;t,a/mik/&gt;l/ade;rx/itia;st/cn/j;nkwa.[/hl][hl].sr/cn/&gt;koq/rl/ss/pd,itia;s/rus/j;n.pae/kkbjy/y;rq/fwk/j;nitip;k,jfakq/a;h/qi;l/j;n.a;h/q/xe/usx,p/ru/nfidq/lw/zzdn/kec.ql;i/m;lj&gt;q/e;rx/eh/cn,hw/lo/kwitiq/j;ni;sw/nr.pae/qrznrp;k/av/em/dwi,l/nrs/kwpmlmwds/k;sa&lt;d;n/ibeavr/daw/lo/pg.[/hl][hl].yi/j/ndw.xbns/ru/x&gt;/kwiti/kot/x;w/ru/p.[/hl][hl].;iti/t&gt;n;r/j;n/ru,mn/pae/ij;nwq/ko/gik,ss/ehw/kwq/&lt;z/gin;q/ec/j.ys/ilgn/l/mv/j;n/lo/a,&gt;za/i/z;r,mv/pza/neusj/w;v/us/ng.[/hl][hl]."uz/kwl/bu/ihq&gt;/qx/d;z/isl/a,sm/xeum/hwyi/mwp;k/v/ru.qk;a/ws.[/hl][hl].sqlq/a;lp/f;aja/cn/ixwnsq/za.cn/&gt;x&gt;/qn;d&gt;/zg/ru/e/&gt;;f/sr/pd,lo/qkwiti/j;n.p/l/mv/eavr/lsn/w/kwl/&gt;iwds/c;k/j/p/pd,vkw/p/mes/ga,&gt;k;aecwq/s;kds/pus.y;sg/eznds/pd,ket;&gt;w/gp/a,xhq/za/i.kwl/ys/j;iw/eznds/cn/pd;z/l/xhq/um/w.[/hl][hl]."&gt;rl.[/hl][hl].&gt;iti/u;sp;k/mv/a,ys/&gt;lp;k/er;x.&gt;e/ivsb/l/j;njwds/md/&gt;rl/vc/lo.[/hl]<spanclass="centre">[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]</span>[hl].&gt;rl/nuilks/kkcqrwmns/p,mq/rar/e;hs/&lt;p/fhn;q.nuscr/j;nnk.ng/ndc/nrn/a,vn/pstead/vwec.[/hl][hl].slw/rus,mn/pae/nnnrw/q;c/nfdw/ej.sapqf/ru/x&gt;/er;s/ie/qx/j;frcn/drw&gt;/gp.pae/j/nd;y/nr/hd;zr/a,ru/nqtd/iti/lgc;r.[/hl][hl].&gt;nq/nxm/y;sd;cx/a,alus/ad/&gt;x;a/orp;k/rf&gt;nq/a,&gt;c;s/gal.[/hl][hl].;iti/nbjybtr/&gt;wzfw/nnk;zw/tsk/j;n.pae/hw&gt;rl/itit/&lt;pcd/p/mn,er;s/k;zejt&gt;/hzb/stl/cvr/sqnth/lo/usyi.[/hl][hl]."pae,v/t&gt;/huz/l&gt;pr.hr.[/hl][hl].pae/ir;p."uz/qw/pl/f;l/isql/j.sm/d/ip;k/yi/qw.[/hl][hl]."uz/styra/pd;z/f;ab.uz/j/kf;l/c;kndoa,uz/w/pwc/c;k.[/hl][hl]."kuz/&lt;z.smws/f;l/w.[/hl][hl]."l/uz/&gt;pk/xp;k/chf/ng/qr/f.f;l/pwihjb/um/pg/w.wihjxe/cpt/w.[/hl][hl]."c;kwcoa/w.uz/mw/psm/ru.[/hl][hl]."x&gt;/o;e/l;wn/tjv/k&gt;uz/hfxt/iy;s/ns/&gt;rl/itu."uz/nnl/pmn/l/lntq/&gt;;p&gt;ej/mej/w/a,pd;z/f;ab/jt/qx/c;k/tic/a,mr/w/ab.[/hl][hl].pae/cn/kwmt;nwja/j;ntqx/lq.nf&gt;iti/j;ngt/ki/mn,ikv.n&gt;nq/ru,mq/cn/y;sg/eznds/a,cv;zwds.[/hl][hl].cn/&gt;r/fpcn/dwvbq/wzfru/ofw&gt;/hv/u;sp;k/mv.l/&gt;mej/za/mvt/j;n/p;d/lo/kwusdjb;wngwq/cohq/hv/pd;z.cn/x&gt;/eiiuj/&lt;p/ru/au/nmx/njfdq/j/us.au/ru/yi/x&gt;/ndfqx/gi/yi/ibeavr/n/zif.pae/qx/iqc/a,&gt;rl/i/daw/vn,md/dh/lehw/t.cbds/mikkw&lt;;rzw;&gt;/j;nad.[/hl][1]transliteration<h2>daxunikificaniqasarusinnanuruqara'aniqa''ikinnisa</h2>thissetofpagesuseslatinletterstogiveanideaofthesoundsofthetinellbianlanguages.[2]xucinagicula[3]disinnamukakurilacanipamilamimattanaru,'alaqira'ataqanigupipijagarupamana.canijanniditibabataniqqi.kanura'ukalulinicurillurugupikarafipibi'u.[i]kifiqaqixagadibasillu,xitaqalabugadibasillu,'adinitujatihu,canisu'apa.harudattusa'usiqatinalli,'usunagidissu'ahatisurra,lamaricakarurika,dissumicira'u.[/i]ra'ukikafasadissukixinahibu;kalulikulu'ipu'anuradukkunakixina.kuliladipibakuppuxikuracaxamihuqa'usaju'illurulabuqapirupalinuqixa,surradijannitiba,canipajagarumilami.bufiqadarura'uqapaccafuniharujagarunaccagupikunaqijamicussi.nisahulu'ajibigusuliqu,rubaqagusulira'uxidudissillu.[i]darutasijami.jirika,nufiraru.[/i]''alamusara'ukalupa'akagicussixa.[i]musagabasilluru,nukimigarura'u?''usugibisumikasijanakalura'u?[/i]pibakuppura'urubaqaci''adu'ikalumusa.jilikikamirucikki,gi'alicu'ikalugupinurusa'ibassillujipalinu.tuhinuhulunigatakukibbasu'a,qucanisijannibattarubataniqqi.<spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>kassuruqixamusaqapi!''iluqaturraxixisa'i.rannacanixikuninaliqakunubitu'afugi'assalabura'usippa,gi'apajiganallimiqasulataninaxatiqakarralisami'ulatapurakassu.liju'isataduximussarugusutakki,qukugusunullikikaga'inuranagilati.lixi'allarusulahafinullitaqata'ipuramilamijagarudacaniquhhaqata'ilabuqalati.quhuninaliputa'ita'i'assacakarucaxinara.takunikamiriqasulabilipadissukiluquruqixaca,padakikaxiku'adini'addarularuluminisabiliqakunullijanninikanasakimicillu.pi'aducanidu'ikaluhafitisakakumallijakuqaturubasika.kiladipakka'ilusu'a,gi'akuturraxi'inada'ixxa'i.kutisakaqahisubajana'inara,kukitisusu'amatta,quma'ikikuli'aditurraxi'ita'i'assatacanijannikiluqu.saracanikukipuqaralisisapada,'ita'i'assara'usijanni.pi'adukikabijajucurriqafalukijanni'ita'ipakka,jafa'akaqaquhhaqanullijanni.quhhaqaxidu'usixa,para'unifa'idaqalarusuxudinikituci.qali''imallijakuqaturraxituhicani,harulabukalu'ita'iqajanni'issarunara.pi'aduqirisunarapakkaquhudumidaru'i,linirasikalupamilamirudisikissa'agudannanubitu'afurida'arulabupagi.cu'ijinidaru.xabanisara'uxikukalu'ita'ikiputaxillura'upa.''ita'itikunarrajannira'u,manipi'adunujanniruqakipugi'ika,sisatuhirukaluqagusuga'iniqqituciji.jusi'ilaginilimihujannilabuqu,kusu'anusurra,mihupasu'anidu'usajiluffu'usanagi.'"''usukaluliba'u'ihiqakuqixadissu'isiliqu,samaxidu'umiharucu'imalupakkafura'u?qika''arusa?"saqalaqa'allapifa''aji'acani'ixarunisaqasu'a.canikuxikuqiniddakuxugara'utukuffasarapada,labuqakalu'ita'ijanni.pilimihutu'afurilisinarukaluliku'iludisicikkijipapada,fukarupamadusigi'a,kuki''atuciruqasikkadisipa'usa.cussigidusunidisipada,kadutakkulugipaqu,xahaqasu'a'i.kalulijusijannuludusunidisicanipadissulixahaqa'umiru.'"kurila."ku'ita'i'ussapakkamihuqu,jusikulipakkaturaxxi.kutu'ihusabilijannijarudisimadikurilafucalabu.<spanclass="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>kurilani'u'ilikasikikacaqaraluminisapi,maqaraquratuhhisagupifihaniqqi.nimusacarijanninika.naginidacanariniqu,funipasatadu'adihulutuci.salilura'usi,manipi'aduninanararuqaccanifidarutuja.si'apaqafara'uxikuturassi'iduqixajaffaracanidararukugapi.pi'adujinidajjunarahadissuriqu,ra'uniqatidi'ita'ilagicirri.kunaqiniximacussidiccixaqu,'alamusa'adikuxa''apurapakkarafakunaqiqu,kucissaga'ala.''ita'inibijajubatarikulusufiruninakassurutisakajanni.pi'aduharukurila'ita'itagupicadipimani,turassikassutujatakuhisubasatalicahurisaqanatihalabu'usaju'i.'"pi'adu,futakuha'usulakupira.hira."pi'adu'irippa.'"''usuqilupalifilli'isaqalaji!samadi'ipakkacu'iqilu?"'"''ususatacura'apadissufa''aba.''usujikafillicikkinadapu'a,'usuruparucicikki."'"ka'usugusu?samarusafilliru?"'"li'usukupikixipakkacihafinagiqirafa.filliparu'ihajaba'umipagiru?ru'ihajaxiducipatiru?"'"cikkirucipu'aru?''usumirupasamara'u?"'"xikuputtulillunatajihukaku'usuhafaxita'icussanisa,"kurila'itamu.'"''usuninalipamanalilinataqakuppakutujamitujaruqu,padissufa''abajatiqixacikkiti'iciqu,mariru'aba."pi'aducanikalumatanniruji'ajannitiqaxiliqa.nifiku'ita'ijannigatakanumani,'ikahu.nikunaqira'u,maqacanicussigidusunidisiqu,cahussurudisi.canikurafipacanidaruhubaqalusufira'ubufirukuhifu'ussapakkamihu.likumitujasu'amihutajannipiddilabukalu'usadajabillunigiruqacapuhaqahifupadissu.canixikudu'i'i'ujagupira'uqumunimixinijifadiqaja'usa.qumura'uju'ixikunidifiqixaga'iju'inubitu'afurinasunufi.pi'aduqixa'iqacaqu,kurila'ida'arufuni,madidihalatuhiruta.cabadisima'ikikalugurrisulukkujanni'adi.[1]interlinear[t]<h2>ryaneakins's[i]coelacanthquartet[/i]</h2>
+last
+left
+legs
+legs,
+li
+li''i
+light.
+linu
+linu.
+loss
+love-
+lu'i-
+lukku
+lumi-
+lusufi-
+ma-
+made_of
+mallij-
+mana
+mana.
+many
+mental_plane
+mental_plane-
+mi
+mi'ula-
+mic-
+milami
+milami-
+mituja
+mixi
+moment
+morning
+move-
+musa
+musa-
+musa.
+mussa-
+na
+nada
+nada-
+nagi
+named
+nara,
+nara-
+narra
+natiha
+near
+near.
+new
+new-
+new.
+ni
+ni,
+nidd-
+nigi-
+nika
+nika.
+niqqi
+niqqi.
+nisa
+nisa-
+not
+nothing
+nu-
+nuh-
+nulli
+nulli-
+number-
+one
+only
+only-
+or
+pa
+pa'aka-
+pa-
+pacca-
+pakka
+pakka,
+parent-
+past
+peace
+pen-
+people
+permission-
+person-
+pi
+piki
+place
+place-
+plain
+plain-
+plains-
+point_of_view
+present-
+pu'a
+pu'a,
+qa
+qa-
+qaca
+qafa
+qapi!
+qixa
+quickly-
+ra
+ra'u
+ra.
+rasi
+reading-
+realisation
+realisation.
+reality-
+reed-
+rest
+ri
+rippa.
+risu-
+road
+road.
+room
+ru
+ru'iha-
+ru-
+ruci
+ruci-
+ruku
+rusa
+sa
+sa'i.
+sacred.
+sama
+sand
+saqala
+satadu
+satadu-
+scream-
+seat
+see-
+see.
+self
+self,
+several-
+shock.
+shoulder-
+si
+si,
+sika.
+sit-
+situation-
+six-
+sleep-
+small-
+some
+somewhere
+sort_of-
+spreading-
+stop-
+su'a
+su'a,
+subtle_bodies
+succeed
+sun
+sun.
+surroundings
+surroundings-
+swing
+t,rsh
+ta
+ta-
+table
+takki,
+takkulu
+taku
+tamu.
+tanni-
+tarpaulin
+tent
+that
+think-
+this
+three-
+tiba
+tiba,
+tidi
+tilt
+time-
+time_passes-
+tiqaxi
+tisaka
+tisaka-
+touch.
+town-
+travel
+tu
+tu'afu
+tu'afu-
+tuci-
+tuci.
+tuhi-
+tuja
+tuja-
+turraxi
+two
+two.
+ulu
+undo
+up-
+vibration-
+village
+wagon
+walk.
+wall
+want-
+water-
+what
+while
+white-
+wife-
+without
+word
+xa
+xa''a
+xa,
+xa-
+xa.
+xati-
+xidu
+xiku
+xima
+xina-
+xita
+xud-
