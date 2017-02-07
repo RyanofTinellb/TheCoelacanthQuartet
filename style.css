@@ -84,11 +84,11 @@ td {
 	float: none;
 }
 
-
 table table {
 	line-height: 2;
 	float: left;
 	margin: 0;
+	border: none;
 }
 
 table table td {
