@@ -19,10 +19,11 @@ h2 {
 
 div.nav-header {
 	background-color: purple;
-	width: 13em;
+	width: 15em;
 	float: left;
 	font-family: sans-serif;
 	text-align: left;
+	position: fixed;
 }
 
 div.nav-header a {
