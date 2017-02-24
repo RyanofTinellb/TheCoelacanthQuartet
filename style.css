@@ -200,6 +200,7 @@ div.literal em {
 @media screen and (max-width: 900px) {
 	div.nav-header {
 		float: none;
+		position: static;
 	}
 	
 	div.content {
