@@ -12,10 +12,10 @@
 </div>
 <div class="content">
 {content}
-</div>
 <div class="toc">
 {toc}
 <p><br></p>
+</div>
 </div>
 <div class="nav-footer">
 {nav-footer}
