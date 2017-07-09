@@ -14,16 +14,21 @@ h2 {
 
 @font-face {
     font-family: tinellb;
-    src: url('http://www.tinellb.com/Lulani.ttf'); 
+    src: url('http://www.tinellb.com/Lulani.ttf');
 }
 
 div.nav-header {
-	background-color: purple;
+	background-color: seagreen;
 	width: 15em;
 	float: left;
 	font-family: sans-serif;
 	text-align: left;
 	position: fixed;
+}
+
+div.flex {
+	display: flex;
+	flex-wrap: wrap;
 }
 
 div.nav-header a {
@@ -139,7 +144,7 @@ div.toc a {
 }
 
 span.high-lulani {
-	font-family: lulani;	
+	font-family: lulani;
 }
 
 high-lulani:before {
@@ -150,11 +155,35 @@ high-lulani:after {
 	content: "\202c";
 }
 
+span.vulgar-lulani {
+	font-family: lulani;
+}
+
+vulgar-lulani:before {
+	content: "\202e";
+}
+
+vulgar-lulani:after {
+	content: "\202c";
+}
+
 high-lulani {
 	font-family: tinellb, lulani;
 }
 
+vulgar-lulani {
+	font-family: tinellb, lulani
+}
+
 p high-lulani {
+	display: block;
+	direction: rtl;
+	text-indent: 1rem;
+	text-align: justify;
+	font-size: x-large;
+}
+
+p vulgar-lulani {
 	display: block;
 	direction: rtl;
 	text-indent: 1rem;
@@ -180,6 +209,15 @@ div.toc p a high-lulani {
 	direction: ltr;
 }
 
+p span.centre vulgar-lulani {
+	display: inline;
+}
+
+div.toc p a vulgar-lulani {
+	margin-left: 35%;
+	direction: ltr;
+}
+
 div.hidden {
 	font-style: italic;
 	font-weight: normal;
@@ -201,20 +239,20 @@ div.literal em {
 		float: none;
 		position: static;
 	}
-	
+
 	div.content {
 		margin-left: 4%;
 		margin-right: 5%;
 	}
-	
+
 	div.toc p {
 		text-align: center;
 	}
-	
+
 	div.toc a {
 		margin-left: 0;
 	}
-	
+
 	table table td {
 		padding-left: 0;
 		padding-right: 0;
