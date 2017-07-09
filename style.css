@@ -24,6 +24,11 @@ div.nav-header {
 	font-family: sans-serif;
 	text-align: left;
 	position: fixed;
+	color: cornsilk;
+	font-weight: bold;
+	text-decoration: none;
+	display: block;
+	line-height: 2;
 }
 
 div.flex {
@@ -37,12 +42,12 @@ div.nav-header a {
 	text-decoration: none;
 	display: block;
 	line-height: 2;
-	margin-left: -1em;
 }
 
 div.nav-header ul {
 	color: cornsilk;
 	list-style: disc;
+	margin-left: -1em;
 }
 
 div.nav-header ul ul {
@@ -232,6 +237,30 @@ div.literal {
 
 div.literal em {
 	font-style: normal;
+}
+
+.content form {
+	padding-left: 6em;
+	text-indent: 0;
+	line-height: 1;
+}
+
+.results {
+	text-indent: -2em;
+	line-height: 1.5;
+	padding-left: 2em;
+}
+
+.results a {
+	color: black;
+}
+
+.results ol {
+	list-style-position: inside;
+}
+
+.results li {
+	padding-top: 2em;
 }
 
 @media screen and (max-width: 900px) {
