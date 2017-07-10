@@ -119,7 +119,7 @@ body {
 }
 
 .content form {
-	padding-left: 6em;
+	padding-left: 10%;
 	text-indent: 0;
 	line-height: 1;
 }
@@ -199,7 +199,6 @@ body {
 .results {
 	text-indent: -2em;
 	line-height: 1.5;
-	padding-left: 2em;
 }
 
 .results a {
