@@ -1,247 +1,198 @@
-body {
-	background-color: cornsilk;
-	text-indent: 20px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: serif;
-	text-align: center;
-}
-
-h2 {
-	text-decoration: underline;
-}
-
 @font-face {
     font-family: tinellb;
     src: url('http://www.tinellb.com/Lulani.ttf');
 }
 
-div.nav-header {
-	background-color: seagreen;
-	width: 15em;
-	float: left;
-	font-family: sans-serif;
-	text-align: left;
-	position: fixed;
-	color: cornsilk;
-	font-weight: bold;
-	text-decoration: none;
-	display: block;
-	line-height: 2;
+ipa { /* Proper nouns in the target language */
+	font-family: lucida sans unicode, segoe ui, monospace;
 }
 
-div.flex {
-	display: flex;
-	flex-wrap: wrap;
-}
-
-div.nav-header a {
-	color: cornsilk;
-	font-weight: bold;
-	text-decoration: none;
-	display: block;
-	line-height: 2;
-}
-
-div.nav-header ul {
-	color: cornsilk;
-	list-style: disc;
-	margin-left: -1em;
-}
-
-div.nav-header ul ul {
-	list-style: none;
-}
-
-div.nav-header li.up-arrow {
-	padding-bottom: 1em;
-}
-
-div.nav-header li.link {
-	list-style: square;
-}
-
-div.nav-footer {
-	text-align: right;
-	padding-top: 0;
-	padding-bottom: 0;
-	padding-left: 10%;
-	padding-right: 10%;
-	margin: 0;
-	font-family: sans-serif;
-}
-
-div.nav-footer a {
-	color: black;
-	font-weight: bold;
-	text-decoration: none;
-}
-
-div.content {
-	margin-left: 17em;
-	margin-right: 5em;
-	line-height: 2;
-}
-
-table {
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	margin-top: 1em;
-}
-
-td {
-	float: none;
-}
-
-table table {
-	line-height: 2;
-	float: left;
-	margin: 0;
-	border: none;
-}
-
-table table td {
-	text-align: left;
-	font-weight: normal;
-	padding-left: 0em;
-	padding-right: 0em;
-}
-
-table table td:first-child {
-	padding-left: 2em;
-}
-
-th.row {
-	text-align: right;
-}
-
-ipa {
-	font-family: lucida sans unicode;
-}
-
-overline {
-	text-decoration: overline;
-}
-
-small-caps {
+small-caps { /* Remove italics from small-caps */
 	font-variant: small-caps;
 	font-weight: none;
 	font-style: normal;
 }
 
-p {
-	font-family: sans-serif;
-	text-align: justify;
-}
-
-div.centre {
-	text-align: center;
-}
-
-div.toc a {
-	font-weight: bold;
-	color: black;
-	font-size: 125%;
-	text-decoration: none;
-	line-height: 1;
-}
-
-span.high-lulani {
-	font-family: lulani;
-}
-
-high-lulani:before {
-	content: "\202e";
-}
-
-high-lulani:after {
-	content: "\202c";
-}
-
-span.vulgar-lulani {
-	font-family: lulani;
-}
-
-vulgar-lulani:before {
-	content: "\202e";
-}
-
-vulgar-lulani:after {
-	content: "\202c";
-}
-
-high-lulani {
+high-lulani, vulgar-lulani {
 	font-family: tinellb, lulani;
 }
 
-vulgar-lulani {
-	font-family: tinellb, lulani
+high-lulani::before, vulgar-lulani::before {
+	content: "\202e";
 }
 
-p high-lulani {
+high-lulani::after, vulgar-lulani::after {
+	content: "\202c";
+}
+
+body {
+	background-color: cornsilk;
+	font-family: sans-serif;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.content {
+	width: 20em;
+	flex-grow: 1;
+	padding: 1em 10%;
+	margin-left: 13em;
+	text-align: justify;
+}
+
+.content p {
+	line-height: 1.5;
+	font-family: sans-serif;
+	text-indent: 1em;
+}
+
+.content p high-lulani {
 	display: block;
 	direction: rtl;
-	text-indent: 1rem;
-	text-align: justify;
-	font-size: x-large;
+	font-size: large;
 }
 
-p vulgar-lulani {
+.content p span.stars { /* Text breaks */
 	display: block;
-	direction: rtl;
-	text-indent: 1rem;
-	text-align: justify;
-	font-size: x-large;
-}
-
-p.center {
 	text-align: center;
 }
 
-p span.centre {
+.content p high-lulani span.stars {
 	display: block;
 	text-align: center;
 }
 
-p span.centre high-lulani {
-	display: inline;
-}
-
-div.toc p a high-lulani {
-	margin-left: 35%;
-	direction: ltr;
-}
-
-p span.centre vulgar-lulani {
-	display: inline;
-}
-
-div.toc p a vulgar-lulani {
-	margin-left: 35%;
-	direction: ltr;
-}
-
-div.hidden {
-	font-style: italic;
-	font-weight: normal;
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
 	font-family: serif;
+	text-align: center;
 }
 
-div.literal {
+.content h2 {
+	text-decoration: underline;
+}
+
+.content table {
+	line-height: 1.5;
+	margin: auto;
+}
+
+.content td {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.content table tr:nth-child(3) td {
+	padding-left: 1em;
+}
+
+.content table table {
+	margin: 0;
+}
+
+.content table table td {
+	text-align: left;
+	padding-left: 0;
+}
+
+.content div.literal {
 	font-style: italic;
 	font-weight: normal;
 	font-family: sans-serif;
 }
 
-div.literal em {
+.content div.literal em {
 	font-style: normal;
+}
+
+.content ul.main {
+	list-style: none;
+}
+
+.content ul.main li a {
+	color: black;
+	font-size: large;
+	font-weight: bold;
 }
 
 .content form {
 	padding-left: 6em;
 	text-indent: 0;
+	line-height: 1;
+}
+
+.nav-header {
+	background-color: seagreen;
+	width: 12em;
+	position: fixed;
+	height: 96%;
+	margin: 1% 1em;
+	padding: 1% 2em;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	color: cornsilk;
+}
+
+.nav-header:hover {
+	overflow: auto;
+}
+
+.nav-header a {
+	color: cornsilk;
+	text-decoration: none;
+}
+
+.nav-header ul {
+	list-style: none;
+	padding: 0;
+}
+
+.nav-header ul.level-1 {
+	padding-left: 1em;
+}
+
+.nav-header ul.level-2 {
+	padding-left: 1em;
+}
+
+.nav-header ul.level-3 {
+	padding-left: 1em;
+}
+
+.nav-header li {
+	padding-bottom: 0.5em;
+}
+
+.nav-header li.normal {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.nav-header li.up-arrow {
+	margin-bottom: 1em;
+}
+
+.nav-footer {
+	text-align: right;
+	padding: 0 10%;
+	margin: 0;
+}
+
+.nav-footer a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.toc a {
+	font-weight: bold;
+	color: black;
+	font-size: 125%;
+	text-decoration: none;
 	line-height: 1;
 }
 
@@ -263,27 +214,23 @@ div.literal em {
 	padding-top: 2em;
 }
 
-@media screen and (max-width: 900px) {
-	div.nav-header {
-		float: none;
+@media screen and (max-width: 800px) {
+
+	.content {
+    order: 1;
+		margin: 0;
+		width: 80%;
+  }
+
+	.content p {
+		width: 100%;
+	}
+
+  .nav-header {
 		position: static;
-	}
-
-	div.content {
-		margin-left: 4%;
-		margin-right: 5%;
-	}
-
-	div.toc p {
-		text-align: center;
-	}
-
-	div.toc a {
-		margin-left: 0;
-	}
-
-	table table td {
-		padding-left: 0;
-		padding-right: 0;
-	}
+		width: 100%;
+		padding: 0 20%;
+    order: 2;
+		overflow: auto;
+  }
 }
