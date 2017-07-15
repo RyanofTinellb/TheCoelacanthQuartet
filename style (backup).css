@@ -9,6 +9,7 @@ ipa { /* Proper nouns in the target language */
 
 small-caps { /* Remove italics from small-caps */
 	font-variant: small-caps;
+	font-weight: normal;
 	font-style: normal;
 }
 
@@ -25,6 +26,7 @@ high-lulani::after, vulgar-lulani::after {
 }
 
 body {
+	background-color: cornsilk;
 	font-family: sans-serif;
 }
 
@@ -38,6 +40,7 @@ body {
 	width: 20em;
 	flex-grow: 1;
 	padding: 1em 10%;
+	margin-left: 13em;
 	text-align: justify;
 }
 
@@ -122,15 +125,19 @@ body {
 }
 
 .nav-pane {
-	margin: 3em 2%;
+	background-color: seagreen;
+  position: fixed;
+	height: 75%;
+	margin: 1% 1% 10%;
 	padding: 1% 2em 10%;
 	overflow: auto;
 	white-space: nowrap;
 	text-align: left;
+	color: cornsilk;
 }
 
 .nav-pane a {
-	color: black;
+	color: cornsilk;
 	text-decoration: none;
 }
 

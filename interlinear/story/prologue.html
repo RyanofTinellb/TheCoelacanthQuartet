@@ -7,14 +7,29 @@
       Prologue &lt; Story &lt; Interlinear &lt; The Coelacanth Quartet
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-<link rel="icon" type="image/png" href="../../favicon.png">
-
+    <link rel="icon" type="image/png" href="../../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../../index.html">The Coelacanth Quartet</a></li>
-<ul class="level-1"><li><a href="../../english/index.html">English</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../../index.html">The Coelacanth Quartet</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../../english/index.html">English</a></li>
 <li><a href="../../tinellbian/index.html">Tinellbian</a></li>
 <li><a href="../../transliteration/index.html">Transliteration</a></li>
 <li><a href="../../interlinear/index.html">Interlinear</a></li>
@@ -30,15 +45,18 @@
 <li><a href="../../transliteration/xucipuracula/disinnamuka.html">Transliteration</a></li>
 <li><a href="../../gloss/feather-becomingegg/up-story-nmn.html">Gloss</a></li>
 </ul><ul>
-<li class="up-arrow"><a href="../story/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="../story/index.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="../../gloss/index.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="prologue">Prologue</h1>
 <table><tr><td>Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind. She gingerly stood up. Her legs ached from holding the meditative pose for so long.</td></tr><tr><td><div class="literal">Q&#x14d;la is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting. (She) stands up carefully. (Her) legs are hurting because of sitting enlightened while time passed.</div></td></tr><tr><td><div class="flex"><table><tr><td>Kurila</td></tr><tr><td>CT:<ipa>/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</ipa></td></tr></table><table><tr><td>cani</td></tr><tr><td><small-caps>prs;dyn</small-caps></td></tr></table><table><tr><td>pa-</td>
 <td>milami</td></tr><tr><td>think-</td>
@@ -1829,5 +1847,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

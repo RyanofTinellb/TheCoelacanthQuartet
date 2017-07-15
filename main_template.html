@@ -2,27 +2,44 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
     <title>
       The Coelacanth Quartet
     </title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" type="image/png" href="favicon.png">
+    <script type="text/javascript">
+      if (window.location.href.indexOf("?") != -1) {
+        window.location.href = "search.html" + window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+      }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
+        <ul>
+          <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+          <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
+          <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+        </ul>
         <ul><li class="normal">The Coelacanth Quartet</li>
+          <form id="search">
+            <li class="search">
+              <input type="text" name="term"></input> <button type="submit">Search</button>
+            </li>
+          </form>
         {toc}
-      </ul>
-      <ul>
-        <li class="up-arrow"><a href="http://www.tinellb.com">Go up one level &uarr;</a></li>
-        <li class="link"><a href="search.html">Search</a></li>
-        <li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-        <li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
-        <li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-      </ul>
+        </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+            <a href="http://www.tinellb.com">&uarr; Main Page</a>
+          </div>
+          <div>
+            <a href="english/index.html">Next page &rarr;</a>
+          </div>
+        </div>
         <h1>The Coelacanth Quartet</h1>
         <p>Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I've decided to put this on the web. So I'm two levels away from <em>actually</em> writing the thing. One day&hellip;.</p>
         <p>Although there is only one story, it appears here in five versions. On each page, there is the option to jump between these.</p>
@@ -40,12 +57,16 @@
         </ul>
         <div class="nav-footer">
           <div>
-            <a href="http://www.tinellb.com">&uarr; Return to Tinellb</a>
+            <a href="http://www.tinellb.com">&uarr; Main Page</a>
           </div>
           <div>
             <a href="english/index.html">Next page &rarr;</a>
           </div>
-      </div>
+        </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

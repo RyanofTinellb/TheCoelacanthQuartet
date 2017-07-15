@@ -7,14 +7,29 @@
       Tinellbian &lt; The Coelacanth Quartet
     </title>
     <link rel="stylesheet" type="text/css" href="../style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
-
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../index.html">The Coelacanth Quartet</a></li>
-<ul class="level-1"><li><a href="../english/index.html">English</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../index.html">The Coelacanth Quartet</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../english/index.html">English</a></li>
 <li class="normal">Tinellbian</li>
 <ul class="level-2"><li><a href="zcoryl/index.html"><high-lulani>.ZCor / yl.</high-lulani></a></li>
 <ul class="level-3"><li><a href="zcoryl/dsnuk.html"><high-lulani>.DS;nUk.</high-lulani></a></li>
@@ -30,15 +45,18 @@
 <li><a href="../interlinear/index.html">Interlinear</a></li>
 <li><a href="../gloss/index.html">Gloss</a></li>
 </ul><ul>
-<li class="up-arrow"><a href="../index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="../english/thecrackledegg/waterfall.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="zcoryl/index.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="tinellbian">Tinellbian</h1>
 <p><h2><high-lulani>.dZNKFG / qsi / S;nIwq / raNq / iK;Ns.</high-lulani></h2></p><p>This and subsequent pages are in Tinellbian script, beginning with the <a href="../h/highlulani.html">High Lulani</a> language. If you have trouble reading this, you may choose one another of the options to the left.</p>
         <div class="toc">
@@ -56,5 +74,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>
