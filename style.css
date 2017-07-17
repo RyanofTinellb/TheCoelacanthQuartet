@@ -186,8 +186,6 @@ body {
   text-decoration: underline;
 }
 
-
-
 .nav-footer {
 	display: flex;
   justify-content: space-between;
@@ -224,6 +222,13 @@ body {
 
 .results li {
 	padding-top: 2em;
+}
+
+.copyright {
+  font-family: serif;
+  font-size: smaller;
+  text-align: right;
+  margin-top: 1em;
 }
 
 @media screen and (max-width: 800px) {
