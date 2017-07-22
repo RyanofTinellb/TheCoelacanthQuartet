@@ -6,15 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-<<<<<<< HEAD
 # Misc
 Thumbs.db
 desktop.ini
 .idea/
-=======
-Thumbs.db
-desktop.ini
->>>>>>> ed6773add7e200099eb23ccbae1a992fbf7a58d8
 
 # Distribution / packaging
 .Python
