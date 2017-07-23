@@ -74,15 +74,7 @@ body {
 .content p:hover span.version-links {
   display: block;
   white-space: nowrap;
-}
-
-.content .version-links {
-  display: none;
-}
-
-.content:hover .version-links {
-  display: block;
-  white-space: nowrap;
+  padding-top: 1em;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
