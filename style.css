@@ -76,7 +76,11 @@ body {
   white-space: nowrap;
 }
 
-.content .version-links:hover {
+.content .version-links {
+  display: none;
+}
+
+.content:hover .version-links {
   display: block;
   white-space: nowrap;
 }
