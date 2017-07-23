@@ -63,8 +63,17 @@ body {
 	text-align: center;
 }
 
-.content span.version-links {
+.content .version-links {
   text-align: center;
+}
+
+.content .version-links a {
+  color: black;
+  text-decoration-style: dotted;
+}
+
+.content .version-links a:hover {
+  text-decoration-style: solid;
 }
 
 .content p span.version-anchor {
