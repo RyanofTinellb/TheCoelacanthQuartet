@@ -63,6 +63,24 @@ body {
 	text-align: center;
 }
 
+.content p span.version-anchor {
+  display: inline;
+}
+
+.content p span.version-links {
+  display: none;
+}
+
+.content p:hover span.version-links {
+  display: block;
+  white-space: nowrap;
+}
+
+.content .version-links:hover {
+  display: block;
+  white-space: nowrap;
+}
+
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
 	font-family: serif;
 	text-align: center;
