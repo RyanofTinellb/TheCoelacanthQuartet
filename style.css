@@ -305,4 +305,14 @@ body {
     order: 2;
 		overflow: auto;
   }
+
+  .content p:hover span.version-links {
+    right: 0;
+    left: 0;
+  }
+
+  .content td:hover span.version-links {
+    right: 0;
+    left: 0;
+  }
 }
