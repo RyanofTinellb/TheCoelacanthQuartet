@@ -57,6 +57,7 @@ body {
 .content p span.stars { /* Text breaks */
 	display: block;
 	text-align: center;
+  padding-bottom: 1em;
 }
 
 .content p high-lulani span.stars {
@@ -88,13 +89,17 @@ body {
 .content p:hover span.version-links {
   display: inline;
   white-space: nowrap;
-<<<<<<< HEAD
-  padding-top: 0em;
-=======
   padding-top: 1em;
->>>>>>> 2564ea40730965be1f51e71996f358f090651615
   position: absolute;
   right: 10%;
+}
+
+.content p:hover .stars + .version-links{
+  display: none;
+}
+
+.content p:hover high-lulani + .version-links {
+  padding-top: 0em;
 }
 
 .content td span.version-links {
