@@ -51,6 +51,7 @@ body {
 	display: block;
 	direction: rtl;
 	font-size: large;
+  padding-top: 1em;
 }
 
 .content p span.stars { /* Text breaks */
@@ -85,9 +86,11 @@ body {
 }
 
 .content p:hover span.version-links {
-  display: block;
+  display: inline;
   white-space: nowrap;
-  padding-top: 1em;
+  padding-top: 0em;
+  position: absolute;
+  right: 10%;
 }
 
 .content td span.version-links {
@@ -97,6 +100,9 @@ body {
 .content td:hover span.version-links {
   display: block;
   white-space: nowrap;
+  padding-top: 0em;
+  position: absolute;
+  right: 10%;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
@@ -129,6 +135,10 @@ body {
 .content table table td {
 	text-align: left;
 	padding-left: 0;
+}
+
+.content table div.literal {
+  padding-top: 1em;
 }
 
 .content div.literal {
