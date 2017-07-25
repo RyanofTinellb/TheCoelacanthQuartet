@@ -291,12 +291,12 @@ body {
 	.content {
     order: 1;
 		margin: 0;
-		width: 80%;
+    padding: 5%;
   }
 
-	.content p {
-		width: 100%;
-	}
+  .nav-footer {
+    padding: 0;
+  }
 
   .nav-pane {
 		position: static;
