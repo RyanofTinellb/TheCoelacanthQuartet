@@ -95,8 +95,8 @@ A somber mood fell over the table.
 &date=20170716
 [1]Tinellbian
 <h2><high-lulani>.dZNKFG / qsi / S;nIwq / raNq / iK;Ns.</high-lulani></h2>
-This and subsequent pages are in Tinellbian script, beginning with the <a href="../h/highlulani.html">High Lulani</a> language. If you have trouble reading this, you may choose one another of the options to the left.
-&date=20170716
+This and subsequent pages are in Tinellbian script, beginning with the <a href="http://grammar.tinellb.com/highlulani/index.html">High Lulani</a> language. If you have trouble reading this, you may choose one another of the options to the left.
+&date=20170726
 [2]<high-lulani>.ZCor / yl.</high-lulani>
 &date=20170716
 [3]<high-lulani>.DS;nUk.</high-lulani>
