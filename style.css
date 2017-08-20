@@ -76,6 +76,7 @@ body {
 
 .content .version-links a:hover {
   text-decoration-style: solid;
+  visibility: visible;
 }
 
 .content p span.version-anchor {
@@ -84,10 +85,12 @@ body {
 
 .content p span.version-links {
   display: none;
+  visibility: hidden;
 }
 
 .content p:hover span.version-links {
   display: inline;
+  visibility: visible;
   white-space: nowrap;
   padding-top: 1em;
   position: absolute;
@@ -96,18 +99,22 @@ body {
 
 .content p:hover .stars + .version-links{
   display: none;
+  visibility: hidden;
 }
 
 .content p:hover high-lulani + .version-links {
   padding-top: 0em;
+  visibility: visible;
 }
 
 .content td span.version-links {
   display: none;
+  visibility: hidden;
 }
 
 .content td:hover span.version-links {
   display: block;
+  visibility: visible;
   white-space: nowrap;
   padding-top: 0em;
   position: absolute;
@@ -233,6 +240,7 @@ body {
 
 .nav-pane form#search {
   display: none;
+  visibility: hidden;
 }
 
 .nav-pane li.title {
@@ -307,11 +315,13 @@ body {
   }
 
   .content p:hover span.version-links {
+    visibility: visible;
     right: 0;
     left: 0;
   }
 
   .content td:hover span.version-links {
+    visibility: visible;
     right: 0;
     left: 0;
   }
