@@ -57,12 +57,14 @@ body {
 .content p span.stars { /* Text breaks */
 	display: block;
 	text-align: center;
+  letter-spacing: 15px;
   padding-bottom: 1em;
 }
 
 .content p high-lulani span.stars {
 	display: block;
 	text-align: center;
+  letter-spacing: 15px;
 }
 
 .content .version-links {

@@ -1,0 +1,17 @@
+{
+  "site": {
+    "name": "The Coelacanth Quartet",
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet",
+    "leaf_level": 3
+  },
+  "files": {
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/searching.json",
+    "source": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/data.txt",
+    "template": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/template.html"
+  },
+  "links": [
+    {
+      "type": "InternalStory"
+    }
+  ]
+}
