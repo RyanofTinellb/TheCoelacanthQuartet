@@ -1,0 +1,6 @@
+<!DOCTYPE text/html>
+[d stars]\n[/d] | *** | <br>
+&rsquo; | ' | <br>
+&rdquo; | " | <br>
+&ldquo; | '" | <br>
+&#x2011; | - | <br>

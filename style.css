@@ -1,330 +1,44 @@
-@font-face {
-    font-family: tinellb;
-    src: url('http://www.tinellb.com/highlulani.ttf');
-}
-
-ipa { /* Proper nouns in the target language */
-	font-family: lucida sans unicode, segoe ui, monospace;
-}
-
-small-caps { /* Remove italics from small-caps */
-	font-variant: small-caps;
-	font-style: normal;
-}
-
-high-lulani, vulgar-lulani {
-	font-family: tinellb, lulani;
-}
-
-high-lulani::before, vulgar-lulani::before {
-	content: "\202e";
-}
-
-high-lulani::after, vulgar-lulani::after {
-	content: "\202c";
-}
-
 body {
-	font-family: sans-serif;
+    font-family: georgia;
 }
 
-.flex {
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: row;
-}
-
-.content {
-	width: 20em;
-	flex-grow: 1;
-	padding: 1em 10%;
-	text-align: justify;
-}
-
-.content p {
-	line-height: 1.5;
-	font-family: sans-serif;
-	text-indent: 1em;
-}
-
-.content p high-lulani {
-	display: block;
-	direction: rtl;
-	font-size: large;
-  padding-top: 1em;
-}
-
-.content p span.stars { /* Text breaks */
-	display: block;
-	text-align: center;
-  letter-spacing: 15px;
-  padding-bottom: 1em;
-}
-
-.content p high-lulani span.stars {
-	display: block;
-	text-align: center;
-  letter-spacing: 15px;
-}
-
-.content .version-links {
-  text-align: center;
-}
-
-.content .version-links a {
-  color: black;
-  text-decoration-style: dotted;
-}
-
-.content .version-links a:hover {
-  text-decoration-style: solid;
-  visibility: visible;
-}
-
-.content p span.version-anchor {
-  display: inline;
-}
-
-.content p span.version-links {
-  display: none;
-  visibility: hidden;
-}
-
-.content p:hover span.version-links {
-  display: inline;
-  visibility: visible;
-  white-space: nowrap;
-  padding-top: 1em;
-  position: absolute;
-  right: 10%;
-}
-
-.content p:hover .stars + .version-links{
-  display: none;
-  visibility: hidden;
-}
-
-.content p:hover high-lulani + .version-links {
-  padding-top: 0em;
-  visibility: visible;
-}
-
-.content td span.version-links {
-  display: none;
-  visibility: hidden;
-}
-
-.content td:hover span.version-links {
-  display: block;
-  visibility: visible;
-  white-space: nowrap;
-  padding-top: 0em;
-  position: absolute;
-  right: 10%;
-}
-
-.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-	font-family: serif;
-	text-align: center;
-}
-
-.content h2 {
-	text-decoration: underline;
-}
-
-.content table {
-	line-height: 1.5;
-	margin: auto;
-}
-
-.content td {
-	font-family: sans-serif;
-	text-align: center;
-}
-
-.content table tr:nth-child(3) td {
-	padding-left: 1em;
-}
-
-.content table table {
-	margin: 0;
-}
-
-.content table table td {
-	text-align: left;
-	padding-left: 0;
-}
-
-.content table div.literal {
-  padding-top: 1em;
-}
-
-.content div.literal {
-	font-style: italic;
-	font-weight: normal;
-	font-family: sans-serif;
-}
-
-.content div.literal em {
-	font-style: normal;
-}
-
-.content ul.languages {
-	list-style: none;
-}
-
-.content ul.languages li a {
-	color: black;
-	font-size: large;
-	font-weight: bold;
-}
-
-.content form {
-	padding-left: 10%;
-	text-indent: 0;
-	line-height: 1;
-}
-
-.nav-pane {
-	margin: 3em 2%;
-	padding: 1% 2em 10%;
-	overflow: auto;
-	white-space: nowrap;
-	text-align: left;
+p {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    line-height: 1.2;
 }
 
 .nav-pane a {
-	color: black;
-	text-decoration: none;
+    color: black;
+    text-decoration: none;
 }
 
 .nav-pane ul {
-	list-style: none;
-	padding: 0;
+    list-style: none;
+    padding-left: 10%;
+    line-height: 1.5;
 }
 
-.nav-pane ul.level-1 {
-	padding-left: 1em;
+.nav-pane .normal {
+    font-weight: bold;
 }
 
-.nav-pane ul.level-2 {
-	padding-left: 1em;
+.nav-pane .search {
+    margin: 1em;
 }
 
-.nav-pane ul.level-3 {
-	padding-left: 1em;
+.content .stars {
+    text-align: center;
+    margin-bottom: 1em;
+    letter-spacing: 2vw;
 }
 
-.nav-pane li {
-	padding-bottom: 0.5em;
-}
-
-.nav-pane li.normal {
-	font-weight: bold;
-	text-decoration: underline;
-}
-
-.nav-pane li.link {
-  font-family: serif;
-  text-align: center;
-}
-
-.nav-pane li.up-arrow {
-  margin-top: 1em;
-	margin-bottom: 1em;
-}
-
-.nav-pane li.search {
-  text-align: center;
-  margin: 1em 0;
-  margin-left: -1em;
-}
-
-.nav-pane form#search {
-  display: none;
-  visibility: hidden;
-}
-
-.nav-pane li.title {
-  font-size: larger;
-  text-decoration-style: wavy;
-  text-decoration: underline;
-}
-
-.nav-footer {
-	display: flex;
-  justify-content: space-between;
-	padding: 0 10%;
-	margin: 0;
+.content .stars::after {
+    content: "* * *"
 }
 
 .nav-footer a {
-	color: black;
-	font-weight: bold;
-	text-decoration: none;
-}
-
-.toc a {
-	font-weight: bold;
-	color: black;
-	font-size: 125%;
-	text-decoration: none;
-	line-height: 1;
-}
-
-.results {
-	text-indent: -2em;
-	line-height: 1.5;
-}
-
-.results a {
-	color: black;
-}
-
-.results ol {
-	list-style-position: inside;
-}
-
-.results li {
-	padding-top: 2em;
-}
-
-.copyright {
-  font-family: serif;
-  font-size: smaller;
-  text-align: right;
-  margin-top: 1em;
-}
-
-@media screen and (max-width: 800px) {
-
-	.content {
-    order: 1;
-		margin: 0;
-    padding: 5%;
-  }
-
-  .nav-footer {
-    padding: 0;
-  }
-
-  .nav-pane {
-		position: static;
-		width: 100%;
-		padding: 0 20%;
-    order: 2;
-		overflow: auto;
-  }
-
-  .content p:hover span.version-links {
-    visibility: visible;
-    right: 0;
-    left: 0;
-  }
-
-  .content td:hover span.version-links {
-    visibility: visible;
-    right: 0;
-    left: 0;
-  }
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }

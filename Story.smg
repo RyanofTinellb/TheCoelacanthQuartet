@@ -1,16 +1,24 @@
 {
   "files": {
-    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/searching.json", 
-    "source": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/data.txt", 
-    "template": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet/template.html"
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/searching.json", 
+    "source": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/data.txt", 
+    "template": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/template.html"
+  }, 
+  "current": {
+    "position": "2.246", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/coelacanth/coelacanth.mkd", 
+    "fontsize": 18, 
+    "page": [
+      "English", 
+      "The Crackled Egg", 
+      "Prelude", 
+      ""
+    ], 
+    "language": "hl"
   }, 
   "site": {
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/thecoelacanthquartet", 
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/coelacanth", 
     "name": "The Coelacanth Quartet"
   }, 
-  "links": [
-    {
-      "type": "InternalStory"
-    }
-  ]
+  "links": []
 }
