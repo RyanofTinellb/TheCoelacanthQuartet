@@ -42,3 +42,11 @@ p {
     font-weight: bold;
     text-decoration: none;
 }
+
+@media screen and (max-width: 800px) {
+
+  .content {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
