@@ -1,15 +1,13 @@
 [1]The Coelacanth Quartet
-Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I&rsquo;ve decided to put this on the web. So I&rsquo;m two levels away from <em>actually</em> writing the thing. One day&hellip;.&date=20180508--------------------------------------------------1
-[1]English
-[2]Ryan Eakins&rsquo;s <em>Coelacanth Quartet</em>
-The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home. In the first book, she finds herself in Zhalad, and soon discovers a plot to take over that realm. Here is that first tale, provisionally titled&hellip;
-&date=20170716
---------------------------------------------------2
+Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I&rsquo;ve decided to put this on the web. So I&rsquo;m two levels away from <em>actually</em> writing the thing. One day&hellip;.
+The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home. In the first book, she finds herself in Zhalad, and soon discovers a plot to take over that realm. Here is that first tale, provisionally titled
+[f]<a href=&rdquo;thecrackledegg/index.html&rdquo;>The Crackled Egg</a>
+&date=20180512--------------------------------------------------1
 [1]The Crackled Egg
 The <em>Crackled Egg</em> takes place in Zhalad. Two races of people live there. While two Zhaladi or two Fezhel can easily telepathically receive and project emotion amongst themselves, a Zhaladi encountering a Fezhel has no such ability. Thus the two races tend to live separately.
 Vedran, advisor to a weak ruler, hears of a device capable of increasing one&rsquo;s emotional projection abilities to such a degree that one could lead a country&rsquo;s people by their hearts. He attempts to track down this device, with the hope of displacing his king.
 &date=20170716
---------------------------------------------------3
+--------------------------------------------------2
 [1]Prelude
 Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind. She gingerly stood up. Her legs ached from holding the meditative pose for so long.
 <em>One down, two to go,</em> she thought to herself. <em>By the Six gods of Tinellb, I&rsquo;ll be glad to finish this and have some peace.</em> She allowed herself to feel grief for a moment, grief at being continually separated from her beloved.
@@ -97,7 +95,7 @@ Lharen heard this as she neared the table. &ldquo;Ha. I get it. Next round is on
 &ldquo;My grandfather told me of those times. As much as he had learned, anyway. There were always secrets being passed around, but I have never heard of anything like Corla is talking about.&rdquo;
 Corla thought back to everything she had learned on the last world she had visited. &ldquo;I learned much of this on Brequ&eacute;, whence I most recently came. On my own world of Solaji, most of this is lost, too. All our peoples originally started on one world, but war tore us apart. A weapon was created that broke space&#x2011;time, casting our cousins both to this world, and another similar. Lharen&rsquo;s people, and mine, are descended from that second group. I can only assume that when the Zhaladi came here, they were able to take control of this land from the original Fezhel.&rdquo;
 Lharen nodded. &ldquo;That&rsquo;s my understanding, also. We have remnants of tools my ancestors used, but we&rsquo;re unable to recreate any of them. We can&rsquo;t even recognise most of the materials. In hiding the Fezhel&rsquo;s past, we seem to have lost our own, as well.&rdquo;
-A somber mood fell over the table.&date=20180508--------------------------------------------------3
+A somber mood fell over the table.&date=20180508--------------------------------------------------2
 [1]Waterfall
 When Tussol, head of the Faculty of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside. He bade her wait for a few moments longer while he set himself up inside.
 He called her in. &ldquo;Citizen Kintel, is it?&rdquo; he began. &ldquo;Our records show that you were a student here, but left before the conclusion of your studies.&rdquo;
