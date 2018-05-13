@@ -1,8 +1,14 @@
 [1]The Coelacanth Quartet
 Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I&rsquo;ve decided to put this on the web. So I&rsquo;m two levels away from <em>actually</em> writing the thing. One day&hellip;.
-The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home. In the first book, she finds herself in Zhalad, and soon discovers a plot to take over that realm. Here is that first tale, provisionally titled
-[f]<a href=&rdquo;thecrackledegg/index.html&rdquo;>The Crackled Egg</a>
-&date=20180512--------------------------------------------------1
+The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home.
+[f]<a href="trueloveconquersmost.html">True Love Conquers Most</a>
+[e]<a href="thecrackledegg/index.html">The Crackled Egg</a>
+[e]<a href="theptokanalliance.html">The Ptokan Alliance</a>
+[e]<a href="islandsinthestorm.html">Islands in the Storm</a>
+&date=20180513--------------------------------------------------1
+[1]True Love Conquers Most
+Corla offers to test her husband&rsquo;s new machine &mdash; and travels to Solaji, a realm of users of lovemagic. What does this mean, and how will she get home?
+&date=20180513--------------------------------------------------1
 [1]The Crackled Egg
 The <em>Crackled Egg</em> takes place in Zhalad. Two races of people live there. While two Zhaladi or two Fezhel can easily telepathically receive and project emotion amongst themselves, a Zhaladi encountering a Fezhel has no such ability. Thus the two races tend to live separately.
 Vedran, advisor to a weak ruler, hears of a device capable of increasing one&rsquo;s emotional projection abilities to such a degree that one could lead a country&rsquo;s people by their hearts. He attempts to track down this device, with the hope of displacing his king.
@@ -102,7 +108,13 @@ He called her in. &ldquo;Citizen Kintel, is it?&rdquo; he began. &ldquo;Our reco
 He felt a flash of negative emotion from her before she seemed to quash it.
 &ldquo;Yes, Professor. I was studying to become a scribe with that department.&rdquo;
 &ldquo;Ordinarily, your departure would leave you incapable of gaining your qualification at any future date, but circumstances seem to have changed.&rdquo;
-The flash this time was of curiosity, which he had expected. After all, he had been surprised when his directions had filtered down the university hierarchy.
+The flash this time was of curiosity, which he had expected. After all, he had been surprised himself when his directions had filtered down the university hierarchy.
 &ldquo;The village of Tsentsen has requested your presence to cover a shortfall of theirs. A scribe has unexpectedly fallen ill, and they have been unable to find a replacement.&rdquo;
 Lharen recognised the name &mdash; this was Toresh&rsquo;s home. This could not be coincidence; Toresh and her father had returned only two weeks ago.
-&ldquo;Citizen, these unique circumstances have given us no choice. As ambassadors between us and the Fezhel must have at least a doctorate, it has been decided to give you an honorary certificate of completion. Your conduct while with the toplanders will be taken into consideration when deciding whether to allow you to keep that qualification.&rdquo;&date=20171016
+&ldquo;Citizen, these unique circumstances have given us no choice. As ambassadors between us and the Fezhel must have at least a doctorate, it has been decided to give you an honorary certificate of completion. Your conduct while with the toplanders will be taken into consideration when deciding whether to allow you to keep that qualification.&rdquo;&date=20180514--------------------------------------------------2
+1]Seven of Cups
+Well.&date=20180513--------------------------------------------------1
+1]The Ptokan Alliance
+In this novel, Corla finds herself on Mala Ptokonoi. She is accidentally subjected to a great weapon, one that can destroy an entire city by expelling it piecemeal into another world. Now she must work with the other survivors in order to build everything anew.&date=20180513--------------------------------------------------1
+1]Islands in the Storm
+At long last, Corla is home. Almost. Due to the transient nature of inter&#x2011;reality movement, she is on an unfamiliar Tsarin island, somewhat <em>before</em> she left. Now she must find her way across Tsarein, while ensuring she does not affect her own past.&date=20180513
