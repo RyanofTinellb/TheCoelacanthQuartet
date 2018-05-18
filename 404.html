@@ -3,66 +3,60 @@ permalink: /404.html
 ---
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/basic_style.css">
     <link rel="stylesheet" type="text/css" href="/style.css">
-    <title>404 - Page Not Found</title>
-  </head>
-  <body>
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <title>
+        Search the Coelacanth Quartet
+    </title>
+</head>
+
+<body>
     <div class="flex">
-      <div class="nav-pane">
-        <ul>
-          <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
-          <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
-          <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
-        </ul>
-        <ul><li><a href="/index.html">The Coelacanth Quartet</a></li>
-          <form id="search">
-            <li class="search">
-              <input type="text" name="term"></input> <button type="submit">Search</button>
-            </li>
-          </form>
-        <ul class="level-1"><li><a href="/english/index.html">English</a></li>
-          <ul class="level-2"><li><a href="/english/thecrackledegg/index.html">The Crackled Egg</a></li>
-            <ul class="level-3"><li><a href="/english/thecrackledegg/prelude.html">Prelude</a></li>
-              <li><a href="/english/thecrackledegg/waterfall.html">Waterfall</a></li>
+        <div class="nav-pane">
+            <ul>
+                <li><a href="/index.html">The Coelacanth Quartet</a></li>
+                <div class="javascript">
+                    <form id="search">
+                        <li class="search">
+                            <input type="text" name="term"></input> <button type="submit">Search</button>
+                        </li>
+                    </form>
+                </div>
+                <ul class="level-1">
+                    <li><a href="/trueloveconquersmost.html">True Love Conquers Most</a></li>
+                    <li><a href="/thecrackledegg/index.html">The Crackled Egg</a></li>
+                    <ul class="level-2">
+                        <li><a href="/thecrackledegg/prelude.html">Prelude</a></li>
+                        <li><a href="/thecrackledegg/waterfall.html">Waterfall</a></li>
+                        <li><a href="/thecrackledegg/sevenofcups.html">Seven of Cups</a></li>
+                    </ul>
+                    <li><a href="/theptokanalliance.html">The Ptokan Alliance</a></li>
+                    <li><a href="/islandsinthestorm.html">Islands in the Storm</a></li>
+                </ul>
+
             </ul>
-          </ul>
-          <li><a href="/tinellbian/index.html">Tinellbian</a></li>
-          <ul class="level-2"><li><a href="/tinellbian/zcoryl/index.html"><high-lulani>.ZCor /   yl.</high-lulani></a></li>
-            <ul class="level-3"><li><a href="/tinellbian/zcoryl/dsnuk.html"><high-lulani>.DS;nUk.</high-lulani></a></li>
-            </ul>
-          </ul>
-          <li><a href="/transliteration/index.html">Transliteration</a></li>
-          <ul class="level-2"><li><a href="/transliteration/xucipuracula/index.html">Xucipura Cula</a></li>
-            <ul class="level-3"><li><a href="/transliteration/xucipuracula/disinnamuka.html">Disinnamuka</a></li>
-            </ul>
-          </ul>
-          <li><a href="/interlinear/index.html">Interlinear</a></li>
-          <ul class="level-2"><li><a href="/interlinear/story/index.html">Story</a></li>
-            <ul class="level-3"><li><a href="/interlinear/story/prologue.html">Prologue</a></li>
-            </ul>
-          </ul>
-          <li><a href="/gloss/index.html">Gloss</a></li>
-          <ul class="level-2"><li><a href="/gloss/feather-becomingegg/index.html">Feather-becoming Egg</a></li>
-            <ul class="level-3"><li><a href="/gloss/feather-becomingegg/up-story-nmn.html">Up-story-<small-caps>nmn</small-caps></a></li>
-            </ul>
-          </ul>
-        </ul>
-      </div>
-      <div class="content">
-        <h1>404 - Page Not Found</h1>
-        <p>Use this search page to get back on track, or choose another option from the navigation pane.</p>
-        <form>
-          <input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
-          <input type="submit" class="submit" value="Search">
-          <input type="radio" name="andor" id="and" value="and" checked="true">AND
-          <input type="radio" name="andor" id="or" value="or">OR
-        </form>
-        <div class="results" id="results" name="results"></div>
-        <script src="/404search.js"></script>
-      </div>
+        </div>
+        <div class="content">
+            <h1>Search the Coelacanth Quartet</h1>
+            <form>
+                <input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
+                <input type="submit" class="submit" value="Search">
+                <input type="radio" name="andor" id="and" value="and" checked="true">AND
+                <input type="radio" name="andor" id="or" value="or">OR
+            </form>
+            <div class="results" id="results" name="results"></div>
+            <script src="/search.js"></script>
+        </div>
     </div>
-  </body>
+    <script type="text/javascript">
+        document.getElementById('search').style.display = 'list-item';
+        document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
+</body>
+
 </html>

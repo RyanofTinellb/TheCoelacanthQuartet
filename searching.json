@@ -42,6 +42,11 @@
         54
       ]
     }, 
+    "run": {
+      "4": [
+        325
+      ]
+    }, 
     "skin": {
       "3": [
         65
@@ -50,6 +55,9 @@
     "go": {
       "3": [
         24
+      ], 
+      "4": [
+        323
       ]
     }, 
     "follow": {
@@ -60,14 +68,11 @@
     "seemed": {
       "3": [
         195
-      ], 
-      "4": [
-        297
       ]
     }, 
     "subjected": {
       "6": [
-        318
+        341
       ]
     }, 
     "departing": {
@@ -87,7 +92,7 @@
     }, 
     "expelling": {
       "6": [
-        318
+        341
       ]
     }, 
     "languages": {
@@ -106,14 +111,14 @@
         137
       ]
     }, 
-    "quash": {
-      "4": [
-        297
-      ]
-    }, 
     "behalf": {
       "3": [
         145
+      ]
+    }, 
+    "daze": {
+      "4": [
+        315
       ]
     }, 
     "under": {
@@ -199,6 +204,11 @@
         53
       ]
     }, 
+    "scattered": {
+      "4": [
+        316
+      ]
+    }, 
     "robes": {
       "3": [
         111
@@ -206,7 +216,7 @@
     }, 
     "unfamiliar": {
       "7": [
-        323
+        346
       ]
     }, 
     "choice": {
@@ -247,6 +257,11 @@
     "alien": {
       "3": [
         63
+      ]
+    }, 
+    "school": {
+      "4": [
+        323
       ]
     }, 
     "walked": {
@@ -303,6 +318,9 @@
     "quick": {
       "3": [
         109
+      ], 
+      "4": [
+        314
       ]
     }, 
     "round": {
@@ -349,7 +367,7 @@
         286
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "second": {
@@ -393,6 +411,9 @@
         226, 
         267, 
         285
+      ], 
+      "4": [
+        333
       ]
     }, 
     "what": {
@@ -413,17 +434,11 @@
         266
       ]
     }, 
-    "fezhel": {
+    "stood": {
       "3": [
-        134, 
-        265, 
-        280
-      ], 
-      "2": [
-        16
-      ], 
-      "4": [
-        311
+        22, 
+        27, 
+        175
       ]
     }, 
     "sun": {
@@ -509,7 +524,7 @@
         58
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "pose": {
@@ -555,6 +570,11 @@
         272
       ]
     }, 
+    "stared": {
+      "4": [
+        322
+      ]
+    }, 
     "here": {
       "3": [
         60, 
@@ -570,7 +590,8 @@
         280
       ], 
       "4": [
-        295
+        295, 
+        324
       ]
     }, 
     "understanding": {
@@ -617,6 +638,11 @@
         147
       ]
     }, 
+    "aren't": {
+      "4": [
+        319
+      ]
+    }, 
     "wait": {
       "4": [
         291
@@ -634,7 +660,7 @@
     }, 
     "great": {
       "6": [
-        318
+        341
       ]
     }, 
     "daughter": {
@@ -673,6 +699,11 @@
     "experience": {
       "3": [
         211
+      ]
+    }, 
+    "soldier": {
+      "4": [
+        324
       ]
     }, 
     "toplander": {
@@ -728,7 +759,7 @@
     }, 
     "mala": {
       "6": [
-        317
+        340
       ]
     }, 
     "makes": {
@@ -782,9 +813,25 @@
         112
       ]
     }, 
+    "belak": {
+      "4": [
+        293, 
+        318
+      ]
+    }, 
+    "seven": {
+      "5": [
+        338
+      ]
+    }, 
     "order": {
       "6": [
-        319
+        342
+      ]
+    }, 
+    "ask": {
+      "4": [
+        323
       ]
     }, 
     "tools": {
@@ -840,7 +887,9 @@
         280
       ], 
       "4": [
-        297
+        297, 
+        315, 
+        330
       ]
     }, 
     "takes": {
@@ -950,20 +999,28 @@
         19
       ], 
       "4": [
-        297, 
         299, 
         301, 
         305, 
         306, 
         311, 
-        312
+        312, 
+        323, 
+        325, 
+        326, 
+        332
       ], 
       "7": [
-        323
+        346
       ], 
       "6": [
-        318, 
-        319
+        341, 
+        342
+      ]
+    }, 
+    "fezhl$e's": {
+      "3": [
+        286
       ]
     }, 
     "give": {
@@ -987,7 +1044,8 @@
         17
       ], 
       "4": [
-        309
+        309, 
+        316
       ]
     }, 
     "flatlander": {
@@ -1075,6 +1133,11 @@
         169
       ]
     }, 
+    "knows": {
+      "4": [
+        335
+      ]
+    }, 
     "inconsiderate": {
       "3": [
         143
@@ -1092,6 +1155,9 @@
         87, 
         229, 
         262
+      ], 
+      "4": [
+        315
       ]
     }, 
     "corrected": {
@@ -1125,6 +1191,11 @@
         278
       ]
     }, 
+    "siblings": {
+      "4": [
+        330
+      ]
+    }, 
     "sleeping": {
       "3": [
         159
@@ -1132,7 +1203,8 @@
     }, 
     "already": {
       "4": [
-        290
+        290, 
+        315
       ]
     }, 
     "glad": {
@@ -1149,6 +1221,11 @@
     "customer": {
       "3": [
         211
+      ]
+    }, 
+    "works": {
+      "4": [
+        336
       ]
     }, 
     "join": {
@@ -1196,10 +1273,12 @@
       "4": [
         303, 
         308, 
-        309
+        309, 
+        330, 
+        336
       ], 
       "6": [
-        317
+        340
       ]
     }, 
     "originally": {
@@ -1212,8 +1291,11 @@
         102, 
         197
       ], 
+      "4": [
+        336
+      ], 
       "6": [
-        319
+        342
       ]
     }, 
     "somber": {
@@ -1224,6 +1306,11 @@
     "thin": {
       "3": [
         28
+      ]
+    }, 
+    "ms": {
+      "4": [
+        317
       ]
     }, 
     "learn": {
@@ -1360,11 +1447,6 @@
     "every": {
       "3": [
         191
-      ]
-    }, 
-    "1]seven": {
-      "5": [
-        314
       ]
     }, 
     "swung": {
@@ -1520,9 +1602,9 @@
         126
       ]
     }, 
-    "date": {
+    "belongings": {
       "4": [
-        301
+        316
       ]
     }, 
     "such": {
@@ -1592,10 +1674,15 @@
         299, 
         305, 
         306, 
-        311
+        311, 
+        314, 
+        315, 
+        324, 
+        325, 
+        333
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "coelacanth": {
@@ -1612,6 +1699,11 @@
     "natural": {
       "3": [
         29
+      ]
+    }, 
+    "sets": {
+      "4": [
+        316
       ]
     }, 
     "persuaded": {
@@ -1724,6 +1816,11 @@
         284
       ]
     }, 
+    "sister": {
+      "4": [
+        319
+      ]
+    }, 
     "office": {
       "4": [
         290
@@ -1769,11 +1866,6 @@
         59
       ]
     }, 
-    "kintel": {
-      "4": [
-        293
-      ]
-    }, 
     "years": {
       "3": [
         47
@@ -1782,6 +1874,9 @@
     "course": {
       "3": [
         238
+      ], 
+      "4": [
+        334
       ]
     }, 
     "own": {
@@ -1798,7 +1893,7 @@
         286
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "through": {
@@ -1816,6 +1911,9 @@
       "3": [
         36, 
         231
+      ], 
+      "4": [
+        315
       ]
     }, 
     "lusov": {
@@ -1827,7 +1925,8 @@
         224
       ], 
       "4": [
-        290
+        290, 
+        332
       ]
     }, 
     "before": {
@@ -1840,7 +1939,7 @@
         297
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "tore": {
@@ -1898,7 +1997,7 @@
     }, 
     "survivors": {
       "6": [
-        319
+        342
       ]
     }, 
     "window": {
@@ -1947,6 +2046,9 @@
         149, 
         221, 
         268
+      ], 
+      "4": [
+        324
       ]
     }, 
     "them": {
@@ -1976,7 +2078,7 @@
     }, 
     "entire": {
       "6": [
-        318
+        341
       ]
     }, 
     "prevented": {
@@ -2028,7 +2130,8 @@
         280
       ], 
       "4": [
-        306
+        306, 
+        315
       ]
     }, 
     "compound": {
@@ -2052,7 +2155,7 @@
         309
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "now": {
@@ -2067,10 +2170,10 @@
         202
       ], 
       "7": [
-        324
+        347
       ], 
       "6": [
-        319
+        342
       ]
     }, 
     "day": {
@@ -2088,7 +2191,8 @@
     }, 
     "tsentsen": {
       "4": [
-        305
+        305, 
+        336
       ]
     }, 
     "name": {
@@ -2099,7 +2203,8 @@
         153
       ], 
       "4": [
-        308
+        308, 
+        321
       ]
     }, 
     "always": {
@@ -2114,9 +2219,29 @@
         304
       ]
     }, 
+    "gave": {
+      "3": [
+        79
+      ]
+    }, 
+    "events": {
+      "4": [
+        315
+      ]
+    }, 
+    "good": {
+      "4": [
+        326
+      ]
+    }, 
     "stopped": {
       "3": [
         59
+      ]
+    }, 
+    "realise": {
+      "4": [
+        315
       ]
     }, 
     "each": {
@@ -2220,7 +2345,7 @@
     }, 
     "accidentally": {
       "6": [
-        318
+        341
       ]
     }, 
     "finish": {
@@ -2285,6 +2410,9 @@
         235, 
         247, 
         249
+      ], 
+      "4": [
+        336
       ]
     }, 
     "exclamation": {
@@ -2336,9 +2464,9 @@
         65
       ]
     }, 
-    "1]the": {
-      "6": [
-        316
+    "pharoah": {
+      "4": [
+        333
       ]
     }, 
     "got": {
@@ -2366,7 +2494,8 @@
       ], 
       "4": [
         290, 
-        308
+        308, 
+        314
       ]
     }, 
     "one's": {
@@ -2376,7 +2505,12 @@
     }, 
     "piecemeal": {
       "6": [
-        318
+        341
+      ]
+    }, 
+    "working": {
+      "4": [
+        333
       ]
     }, 
     "departure": {
@@ -2389,7 +2523,7 @@
         131
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "grunting": {
@@ -2419,6 +2553,9 @@
         112, 
         127, 
         159
+      ], 
+      "4": [
+        333
       ]
     }, 
     "disbelief": {
@@ -2647,7 +2784,7 @@
         18
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "elder": {
@@ -2672,7 +2809,7 @@
         241
       ], 
       "7": [
-        321
+        344
       ]
     }, 
     "another": {
@@ -2681,7 +2818,7 @@
         278
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "hillfolk": {
@@ -2707,7 +2844,7 @@
     }, 
     "cups": {
       "5": [
-        314
+        338
       ]
     }, 
     "scent": {
@@ -2737,6 +2874,9 @@
         192, 
         199, 
         259
+      ], 
+      "4": [
+        319
       ]
     }, 
     "story": {
@@ -2765,6 +2905,12 @@
         230
       ]
     }, 
+    "together": {
+      "4": [
+        323, 
+        333
+      ]
+    }, 
     "interact": {
       "3": [
         236
@@ -2782,6 +2928,11 @@
       ], 
       "4": [
         311
+      ]
+    }, 
+    "anyone": {
+      "4": [
+        315
       ]
     }, 
     "their": {
@@ -2805,6 +2956,9 @@
       "3": [
         177, 
         276
+      ], 
+      "4": [
+        336
       ]
     }, 
     "storm": {
@@ -2812,7 +2966,7 @@
         9
       ], 
       "7": [
-        320
+        343
       ]
     }, 
     "legs": {
@@ -2835,6 +2989,9 @@
       "3": [
         59, 
         105
+      ], 
+      "4": [
+        322
       ]
     }, 
     "selling": {
@@ -2887,10 +3044,11 @@
         290, 
         295, 
         299, 
-        312
+        312, 
+        314
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "hotel": {
@@ -2922,9 +3080,19 @@
         308
       ]
     }, 
+    "packet": {
+      "4": [
+        314
+      ]
+    }, 
     "somewhat": {
       "7": [
-        323
+        346
+      ]
+    }, 
+    "date": {
+      "4": [
+        301
       ]
     }, 
     "herself": {
@@ -2936,7 +3104,7 @@
         241
       ], 
       "6": [
-        317
+        340
       ]
     }, 
     "than": {
@@ -2957,6 +3125,11 @@
     "king": {
       "2": [
         19
+      ]
+    }, 
+    "morning's": {
+      "4": [
+        315
       ]
     }, 
     "there's": {
@@ -2982,6 +3155,9 @@
     "project": {
       "2": [
         16
+      ], 
+      "4": [
+        333
       ]
     }, 
     "toresh": {
@@ -3100,7 +3276,9 @@
       "4": [
         306, 
         309, 
-        311
+        311, 
+        314, 
+        324
       ]
     }, 
     "deciding": {
@@ -3178,7 +3356,8 @@
         301, 
         306, 
         310, 
-        311
+        311, 
+        326
       ]
     }, 
     "further": {
@@ -3241,7 +3420,7 @@
     }, 
     "ensuring": {
       "7": [
-        324
+        347
       ]
     }, 
     "able": {
@@ -3260,6 +3439,9 @@
     "also": {
       "3": [
         283
+      ], 
+      "4": [
+        330
       ]
     }, 
     "chest": {
@@ -3267,14 +3449,22 @@
         66
       ]
     }, 
-    "take": {
+    "contact": {
+      "4": [
+        330
+      ]
+    }, 
+    "fezhl$e": {
       "3": [
-        27, 
-        43, 
-        117, 
-        196, 
-        224, 
+        134, 
+        265, 
         280
+      ], 
+      "2": [
+        16
+      ], 
+      "4": [
+        311
       ]
     }, 
     "doors": {
@@ -3293,9 +3483,9 @@
         27
       ]
     }, 
-    "destroy": {
-      "6": [
-        318
+    "green": {
+      "4": [
+        322
       ]
     }, 
     "encouraged": {
@@ -3388,7 +3578,8 @@
       ], 
       "4": [
         295, 
-        301
+        301, 
+        330
       ]
     }, 
     "echoes": {
@@ -3400,13 +3591,6 @@
       "2": [
         18, 
         19
-      ]
-    }, 
-    "stood": {
-      "3": [
-        22, 
-        27, 
-        175
       ]
     }, 
     "future": {
@@ -3454,11 +3638,17 @@
     "looked": {
       "3": [
         263
+      ], 
+      "4": [
+        321
       ]
     }, 
     "you'll": {
       "3": [
         151
+      ], 
+      "4": [
+        336
       ]
     }, 
     "part": {
@@ -3492,7 +3682,7 @@
         295
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "came": {
@@ -3506,6 +3696,9 @@
         265, 
         275, 
         280
+      ], 
+      "4": [
+        324
       ]
     }, 
     "reserve": {
@@ -3516,6 +3709,11 @@
     "uninterested": {
       "3": [
         195
+      ]
+    }, 
+    "walking": {
+      "4": [
+        314
       ]
     }, 
     "barter": {
@@ -3594,7 +3792,7 @@
         306
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "ground": {
@@ -3672,7 +3870,8 @@
         280
       ], 
       "4": [
-        309
+        309, 
+        323
       ]
     }, 
     "going": {
@@ -3688,7 +3887,12 @@
     }, 
     "inter&#x2011": {
       "7": [
-        323
+        346
+      ]
+    }, 
+    "posted": {
+      "4": [
+        332
       ]
     }, 
     "ensconced": {
@@ -3775,6 +3979,11 @@
         179
       ]
     }, 
+    "collided": {
+      "4": [
+        315
+      ]
+    }, 
     "lucky": {
       "3": [
         137
@@ -3783,6 +3992,11 @@
     "sipping": {
       "3": [
         233
+      ]
+    }, 
+    "state": {
+      "4": [
+        334
       ]
     }, 
     "rest": {
@@ -3808,6 +4022,9 @@
         27, 
         59, 
         109
+      ], 
+      "4": [
+        326
       ]
     }, 
     "bar": {
@@ -3815,9 +4032,9 @@
         233
       ]
     }, 
-    "1]islands": {
-      "7": [
-        320
+    "conclusion": {
+      "4": [
+        295
       ]
     }, 
     "sleeve": {
@@ -3842,7 +4059,8 @@
     }, 
     "coincidence": {
       "4": [
-        309
+        309, 
+        325
       ]
     }, 
     "bad": {
@@ -3891,15 +4109,17 @@
         274
       ], 
       "4": [
-        297
+        297, 
+        315, 
+        321
       ], 
       "7": [
-        323, 
-        324
+        346, 
+        347
       ], 
       "6": [
-        318, 
-        319
+        341, 
+        342
       ]
     }, 
     "activity": {
@@ -4037,6 +4257,11 @@
         262
       ]
     }, 
+    "um": {
+      "4": [
+        331
+      ]
+    }, 
     "said": {
       "3": [
         66, 
@@ -4083,6 +4308,11 @@
         17
       ]
     }, 
+    "reassigned": {
+      "4": [
+        314
+      ]
+    }, 
     "behind": {
       "3": [
         110, 
@@ -4109,7 +4339,8 @@
         74
       ], 
       "4": [
-        311
+        311, 
+        330
       ]
     }, 
     "silty": {
@@ -4124,7 +4355,7 @@
         71
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "tent": {
@@ -4142,6 +4373,9 @@
         284, 
         285, 
         286
+      ], 
+      "4": [
+        323
       ]
     }, 
     "recently": {
@@ -4156,7 +4390,7 @@
     }, 
     "nature": {
       "7": [
-        323
+        346
       ]
     }, 
     "rolled": {
@@ -4172,6 +4406,9 @@
     "job": {
       "3": [
         250
+      ], 
+      "4": [
+        336
       ]
     }, 
     "concentrate": {
@@ -4208,7 +4445,7 @@
         274
       ], 
       "7": [
-        321
+        344
       ]
     }, 
     "restaurant": {
@@ -4225,6 +4462,11 @@
       "3": [
         222, 
         266
+      ]
+    }, 
+    "he's": {
+      "4": [
+        332
       ]
     }, 
     "adventures": {
@@ -4245,6 +4487,9 @@
     "became": {
       "3": [
         177
+      ], 
+      "4": [
+        324
       ]
     }, 
     "department": {
@@ -4298,7 +4543,7 @@
         16
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "appeared": {
@@ -4323,7 +4568,10 @@
       "4": [
         303, 
         304, 
-        309
+        309, 
+        315, 
+        330, 
+        333
       ]
     }, 
     "alright": {
@@ -4412,7 +4660,11 @@
         298, 
         301, 
         305, 
-        310
+        310, 
+        317, 
+        323, 
+        328, 
+        331
       ]
     }, 
     "couldn't": {
@@ -4499,7 +4751,7 @@
         199
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "been": {
@@ -4510,12 +4762,14 @@
       "4": [
         304, 
         306, 
-        311
+        311, 
+        330, 
+        332
       ]
     }, 
-    "tsarein": {
-      "7": [
-        324
+    "secret": {
+      "4": [
+        334
       ]
     }, 
     "startled": {
@@ -4558,6 +4812,9 @@
       "3": [
         29, 
         35
+      ], 
+      "4": [
+        330
       ]
     }, 
     "lived": {
@@ -4575,6 +4832,9 @@
         130, 
         260, 
         278
+      ], 
+      "4": [
+        325
       ]
     }, 
     "honorary": {
@@ -4626,17 +4886,27 @@
         80
       ]
     }, 
+    "sound": {
+      "4": [
+        321
+      ]
+    }, 
     "novel": {
       "0": [
         1
       ], 
       "6": [
-        317
+        340
       ]
     }, 
     "look": {
       "3": [
         138
+      ]
+    }, 
+    "unlike": {
+      "4": [
+        330
       ]
     }, 
     "talking": {
@@ -4705,12 +4975,7 @@
         312
       ], 
       "7": [
-        324
-      ]
-    }, 
-    "fezhel's": {
-      "3": [
-        286
+        347
       ]
     }, 
     "situation": {
@@ -4748,6 +5013,9 @@
       "3": [
         260, 
         279
+      ], 
+      "4": [
+        330
       ]
     }, 
     "played": {
@@ -4757,7 +5025,7 @@
     }, 
     "almost": {
       "7": [
-        322
+        345
       ]
     }, 
     "tsarin": {
@@ -4765,7 +5033,7 @@
         5
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "is": {
@@ -4787,11 +5055,11 @@
         293
       ], 
       "7": [
-        321, 
-        323
+        344, 
+        346
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "thus": {
@@ -4818,10 +5086,11 @@
       "4": [
         293, 
         297, 
-        311
+        311, 
+        326
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "papyrus": {
@@ -4881,14 +5150,19 @@
         14
       ], 
       "4": [
-        292
+        292, 
+        314, 
+        315, 
+        325, 
+        326, 
+        336
       ], 
       "7": [
-        320
+        343
       ], 
       "6": [
-        317, 
-        319
+        340, 
+        342
       ]
     }, 
     "casting": {
@@ -4910,6 +5184,9 @@
       "3": [
         55, 
         136
+      ], 
+      "4": [
+        336
       ]
     }, 
     "anymore": {
@@ -4934,6 +5211,11 @@
         232
       ]
     }, 
+    "tsarein": {
+      "7": [
+        347
+      ]
+    }, 
     "admit": {
       "3": [
         262
@@ -4942,6 +5224,9 @@
     "same": {
       "3": [
         251
+      ], 
+      "4": [
+        325
       ]
     }, 
     "any": {
@@ -4967,6 +5252,9 @@
     "corridor": {
       "3": [
         110
+      ], 
+      "4": [
+        314
       ]
     }, 
     "peoples": {
@@ -4977,7 +5265,7 @@
     }, 
     "transient": {
       "7": [
-        323
+        346
       ]
     }, 
     "motioned": {
@@ -5000,6 +5288,9 @@
         208, 
         264, 
         267
+      ], 
+      "4": [
+        325
       ]
     }, 
     "ascend": {
@@ -5016,6 +5307,9 @@
     "week": {
       "3": [
         41
+      ], 
+      "4": [
+        325
       ]
     }, 
     "outside": {
@@ -5030,6 +5324,9 @@
       "3": [
         223, 
         284
+      ], 
+      "4": [
+        323
       ]
     }, 
     "set&#x2011": {
@@ -5054,7 +5351,7 @@
     }, 
     "island": {
       "7": [
-        323
+        346
       ]
     }, 
     "upon": {
@@ -5095,7 +5392,7 @@
     }, 
     "build": {
       "6": [
-        319
+        342
       ]
     }, 
     "assistant's": {
@@ -5112,6 +5409,11 @@
     "keep": {
       "4": [
         312
+      ]
+    }, 
+    "yeah": {
+      "4": [
+        331
       ]
     }, 
     "filtered": {
@@ -5163,7 +5465,9 @@
         280
       ], 
       "4": [
-        299
+        299, 
+        323, 
+        324
       ]
     }, 
     "studies": {
@@ -5176,7 +5480,12 @@
         278
       ], 
       "6": [
-        318
+        341
+      ]
+    }, 
+    "floor": {
+      "4": [
+        316
       ]
     }, 
     "well": {
@@ -5184,9 +5493,6 @@
         214, 
         262, 
         286
-      ], 
-      "5": [
-        315
       ]
     }, 
     "spent": {
@@ -5196,7 +5502,7 @@
     }, 
     "finds": {
       "6": [
-        317
+        340
       ]
     }, 
     "thought": {
@@ -5209,6 +5515,9 @@
     "person": {
       "3": [
         144
+      ], 
+      "4": [
+        330
       ]
     }, 
     "displacing": {
@@ -5368,14 +5677,22 @@
         305, 
         308, 
         311, 
-        312
+        312, 
+        314, 
+        315, 
+        316, 
+        321, 
+        325, 
+        330, 
+        333
       ], 
       "7": [
-        320, 
-        323
+        343, 
+        346
       ], 
       "6": [
-        319
+        339, 
+        342
       ]
     }, 
     "usual": {
@@ -5476,6 +5793,11 @@
         298
       ]
     }, 
+    "reality": {
+      "7": [
+        346
+      ]
+    }, 
     "yet": {
       "3": [
         114, 
@@ -5552,6 +5874,11 @@
         310
       ]
     }, 
+    "destroy": {
+      "6": [
+        341
+      ]
+    }, 
     "consideration": {
       "4": [
         312
@@ -5578,9 +5905,14 @@
         304
       ]
     }, 
-    "gave": {
+    "take": {
       "3": [
-        79
+        27, 
+        43, 
+        117, 
+        196, 
+        224, 
+        280
       ]
     }, 
     "shoulder": {
@@ -5678,7 +6010,7 @@
         278
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "&rdquo": {
@@ -5733,18 +6065,23 @@
         300, 
         302, 
         307, 
-        313
+        313, 
+        320, 
+        327, 
+        330, 
+        337
       ]
     }, 
     "must": {
       "4": [
-        311
+        311, 
+        326
       ], 
       "7": [
-        324
+        347
       ], 
       "6": [
-        319
+        342
       ]
     }, 
     "apart": {
@@ -5755,6 +6092,11 @@
     "coarseness": {
       "3": [
         21
+      ]
+    }, 
+    "maybe": {
+      "4": [
+        336
       ]
     }, 
     "tarp": {
@@ -5809,7 +6151,7 @@
     }, 
     "affect": {
       "7": [
-        324
+        347
       ]
     }, 
     "circumstances": {
@@ -5836,6 +6178,9 @@
     "because": {
       "3": [
         55
+      ], 
+      "4": [
+        323
       ]
     }, 
     "people": {
@@ -5866,6 +6211,9 @@
         89, 
         191, 
         223
+      ], 
+      "4": [
+        297
       ]
     }, 
     "back": {
@@ -5876,6 +6224,13 @@
         123, 
         222, 
         274
+      ], 
+      "4": [
+        322, 
+        326, 
+        328, 
+        329, 
+        332
       ]
     }, 
     "strongest": {
@@ -5914,7 +6269,13 @@
         308
       ], 
       "7": [
-        321
+        344
+      ]
+    }, 
+    "fieran's": {
+      "4": [
+        319, 
+        329
       ]
     }, 
     "facing": {
@@ -5958,7 +6319,7 @@
         274
       ], 
       "6": [
-        319
+        342
       ]
     }, 
     "does": {
@@ -5969,7 +6330,7 @@
         232
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "assuming": {
@@ -5980,6 +6341,11 @@
     "kiddo": {
       "3": [
         161
+      ]
+    }, 
+    "minimal": {
+      "4": [
+        330
       ]
     }, 
     "be": {
@@ -6000,12 +6366,16 @@
       ], 
       "4": [
         309, 
-        312
+        312, 
+        326
       ]
     }, 
     "who": {
       "3": [
         137
+      ], 
+      "4": [
+        335
       ]
     }, 
     "wheat": {
@@ -6080,7 +6450,7 @@
         18
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "hiding": {
@@ -6119,11 +6489,15 @@
         276, 
         277
       ], 
+      "4": [
+        316, 
+        333
+      ], 
       "7": [
-        323
+        346
       ], 
       "6": [
-        317
+        340
       ]
     }, 
     "stone": {
@@ -6213,7 +6587,7 @@
         19
       ], 
       "5": [
-        314
+        338
       ], 
       "4": [
         290, 
@@ -6222,10 +6596,15 @@
         301, 
         303, 
         305, 
-        311
+        311, 
+        314, 
+        316, 
+        321, 
+        325, 
+        334
       ], 
       "7": [
-        323
+        346
       ]
     }, 
     "intercultural": {
@@ -6261,6 +6640,11 @@
         81
       ]
     }, 
+    "quashed": {
+      "4": [
+        297
+      ]
+    }, 
     "west": {
       "3": [
         34
@@ -6269,6 +6653,9 @@
     "islands": {
       "0": [
         9
+      ], 
+      "7": [
+        343
       ]
     }, 
     "tongue": {
@@ -6307,7 +6694,7 @@
     }, 
     "ptokonoi": {
       "6": [
-        317
+        340
       ]
     }, 
     "corla": {
@@ -6347,10 +6734,10 @@
         274
       ], 
       "7": [
-        321
+        344
       ], 
       "6": [
-        317
+        340
       ]
     }, 
     "raised": {
@@ -6363,7 +6750,7 @@
         8
       ], 
       "6": [
-        316
+        339
       ]
     }, 
     "smiled": {
@@ -6388,10 +6775,11 @@
         174
       ], 
       "4": [
-        312
+        312, 
+        325
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "recreate": {
@@ -6546,10 +6934,14 @@
         291, 
         292, 
         297, 
-        309
+        309, 
+        314, 
+        321, 
+        322, 
+        330
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "fated": {
@@ -6571,6 +6963,9 @@
       ], 
       "2": [
         15
+      ], 
+      "4": [
+        315
       ]
     }, 
     "hey": {
@@ -6615,7 +7010,7 @@
         129
       ], 
       "7": [
-        324
+        347
       ]
     }, 
     "was": {
@@ -6654,7 +7049,9 @@
       "4": [
         299, 
         303, 
-        308
+        308, 
+        314, 
+        315
       ]
     }, 
     "eons": {
@@ -6755,10 +7152,13 @@
       ], 
       "4": [
         299, 
-        312
+        312, 
+        314, 
+        330, 
+        336
       ], 
       "6": [
-        319
+        342
       ]
     }, 
     "eat": {
@@ -6799,7 +7199,8 @@
         294, 
         297, 
         303, 
-        304
+        304, 
+        324
       ]
     }, 
     "made": {
@@ -6842,7 +7243,9 @@
         214
       ], 
       "4": [
-        291
+        291, 
+        314, 
+        321
       ]
     }, 
     "signed": {
@@ -6853,6 +7256,9 @@
     "until": {
       "3": [
         268
+      ], 
+      "4": [
+        315
       ]
     }, 
     "excitement": {
@@ -6878,7 +7284,7 @@
     }, 
     "anew": {
       "6": [
-        319
+        342
       ]
     }, 
     "hand": {
@@ -6886,6 +7292,9 @@
         66, 
         67, 
         107
+      ], 
+      "4": [
+        314
       ]
     }, 
     "faded": {
@@ -6962,10 +7371,10 @@
         311
       ], 
       "7": [
-        323
+        346
       ], 
       "6": [
-        318
+        341
       ]
     }, 
     "as": {
@@ -6989,7 +7398,13 @@
         286
       ], 
       "4": [
-        311
+        311, 
+        314
+      ]
+    }, 
+    "diverged": {
+      "4": [
+        330
       ]
     }, 
     "promised": {
@@ -7043,7 +7458,9 @@
       ], 
       "4": [
         310, 
-        311
+        311, 
+        333, 
+        336
       ]
     }, 
     "no": {
@@ -7088,9 +7505,9 @@
         291
       ]
     }, 
-    "reality": {
-      "7": [
-        323
+    "brother's": {
+      "4": [
+        330
       ]
     }, 
     "longer": {
@@ -7109,7 +7526,7 @@
         223
       ], 
       "6": [
-        319
+        342
       ]
     }, 
     "details": {
@@ -7120,6 +7537,11 @@
     "holding": {
       "3": [
         23
+      ]
+    }, 
+    "papers": {
+      "4": [
+        314
       ]
     }, 
     "test": {
@@ -7160,7 +7582,9 @@
         295, 
         301, 
         311, 
-        312
+        312, 
+        319, 
+        325
       ]
     }, 
     "really": {
@@ -7179,12 +7603,12 @@
         8
       ], 
       "6": [
-        316
+        339
       ]
     }, 
-    "conclusion": {
+    "nice": {
       "4": [
-        295
+        325
       ]
     }, 
     "surest": {
@@ -7233,6 +7657,9 @@
         81, 
         173, 
         177
+      ], 
+      "4": [
+        326
       ]
     }, 
     "chance": {
@@ -7271,6 +7698,11 @@
     "formal": {
       "3": [
         111
+      ]
+    }, 
+    "else": {
+      "4": [
+        315
       ]
     }, 
     "opened": {
@@ -7395,10 +7827,12 @@
       "4": [
         290, 
         301, 
-        311
+        311, 
+        321, 
+        322
       ], 
       "7": [
-        321
+        344
       ]
     }, 
     "she's": {
@@ -7455,7 +7889,7 @@
     "The Crackled Egg", 
     "The Crackled Egg takes place in Zhalad", 
     "Two races of people live there", 
-    "While two Zhaladi or two Fezhel can easily telepathically receive and project emotion amongst themselves a Zhaladi encountering a Fezhel has no such ability", 
+    "While two Zhaladi or two Fezhl&ecirc; can easily telepathically receive and project emotion amongst themselves a Zhaladi encountering a Fezhl&ecirc; has no such ability", 
     "Thus the two races tend to live separately", 
     "Vedran advisor to a weak ruler hears of a device capable of increasing one&rsquo;s emotional projection abilities to such a degree that one could lead a country&rsquo;s people by their hearts", 
     "He attempts to track down this device with the hope of displacing his king", 
@@ -7573,7 +8007,7 @@
     "Standing at a tall window she could smell the city and feel the noonday sun upon her face", 
     "She was just about to try the doors again when one was opened from the outside", 
     "The assistant&rsquo;s voice said something in her own language and Corla told her in Piado&rsquo;s tongue that she could not understand her", 
-    "&ldquo;Oh so you only speak Fezhel do you", 
+    "&ldquo;Oh so you only speak Fezhl&ecirc; do you", 
     "&rdquo; she said switching to that", 
     "&ldquo;I just asked if you were hungry", 
     "You&rsquo;re lucky to have me; I&rsquo;m the only one around here who bothered to learn from our northern neighbours", 
@@ -7704,7 +8138,7 @@
     "&ldquo;I&rsquo;m ashamed to admit that we didn&rsquo;t treat our subject peoples well", 
     "&rdquo; Lharen suddenly looked stricken", 
     "&rdquo;My greatest apologies that&rsquo;s just how it&rsquo;s written in our histories", 
-    "When the Fezhel came here they lived under our rule", 
+    "When the Fezhl&ecirc; came here they lived under our rule", 
     "Part of what we did was to control their present by taking away their past", 
     "It&rsquo;s only in the last few generations that they were even allowed to speak their own language in public", 
     "In fact until then we were quite sure that no one spoke it at all anymore", 
@@ -7719,24 +8153,24 @@
     "All our peoples originally started on one world but war tore us apart", 
     "A weapon was created that broke space&#x2011;time casting our cousins both to this world and another similar", 
     "Lharen&rsquo;s people and mine are descended from that second group", 
-    "I can only assume that when the Zhaladi came here they were able to take control of this land from the original Fezhel", 
+    "I can only assume that when the Zhaladi came here they were able to take control of this land from the original Fezhl&ecirc;", 
     "&rdquo;", 
     "Lharen nodded", 
     "&ldquo;That&rsquo;s my understanding also", 
     "We have remnants of tools my ancestors used but we&rsquo;re unable to recreate any of them", 
     "We can&rsquo;t even recognise most of the materials", 
-    "In hiding the Fezhel&rsquo;s past we seem to have lost our own as well", 
+    "In hiding the Fezhl&ecirc;&rsquo;s past we seem to have lost our own as well", 
     "&rdquo;", 
     "A somber mood fell over the table", 
     "Waterfall", 
     "When Tussol head of the Faculty of Intercultural Relations at Lusov University reached his office that morning he found Lharen already waiting outside", 
     "He bade her wait for a few moments longer while he set himself up inside", 
     "He called her in", 
-    "&ldquo;Citizen Kintel is it", 
+    "&ldquo;Citizen Belak is it", 
     "&rdquo; he began", 
     "&ldquo;Our records show that you were a student here but left before the conclusion of your studies", 
     "&rdquo;", 
-    "He felt a flash of negative emotion from her before she seemed to quash it", 
+    "He felt a flash of some negative emotion from her before she quashed it", 
     "&ldquo;Yes Professor", 
     "I was studying to become a scribe with that department", 
     "&rdquo;", 
@@ -7750,16 +8184,39 @@
     "Lharen recognised the name &mdash; this was Toresh&rsquo;s home", 
     "This could not be coincidence; Toresh and her father had returned only two weeks ago", 
     "&ldquo;Citizen these unique circumstances have given us no choice", 
-    "As ambassadors between us and the Fezhel must have at least a doctorate it has been decided to give you an honorary certificate of completion", 
+    "As ambassadors between us and the Fezhl&ecirc; must have at least a doctorate it has been decided to give you an honorary certificate of completion", 
     "Your conduct while with the toplanders will be taken into consideration when deciding whether to allow you to keep that qualification", 
     "&rdquo;", 
-    "1]Seven of Cups", 
-    "Well", 
-    "1]The Ptokan Alliance", 
+    "As quick as that Lharen was reassigned and walking up the corridor with a packet of papers in her hand", 
+    "Still in a daze from the morning&rsquo;s events she didn&rsquo;t realise there was anyone else there until they had already collided", 
+    "Two sets of belongings scattered on the floor", 
+    "&ldquo;Ms", 
+    "Belak", 
+    "You&rsquo;re Fieran&rsquo;s sister aren&rsquo;t you", 
+    "&rdquo;", 
+    "She looked up at the sound of her name", 
+    "Green eyes stared back at her", 
+    "&ldquo;I only ask because we used to go to school together", 
+    "Then he became a soldier and I came here", 
+    "It&rsquo;s a nice coincidence to run into both of you in the same week", 
+    "It must be good to have him back in town", 
+    "&rdquo;", 
+    "&ldquo;Back", 
+    "Fieran&rsquo;s back", 
+    "&rdquo; Lharen&rsquo;s life had also diverged from her brother&rsquo;s but unlike with this person contact between the siblings had been minimal", 
+    "&ldquo;Um yeah", 
+    "He&rsquo;s been posted back to Lusov", 
+    "The pharoah even had us working together on a small project", 
+    "State secret of course", 
+    "Who knows", 
+    "If this job in Tsentsen works out maybe you&rsquo;ll work with us too", 
+    "&rdquo;", 
+    "Seven of Cups", 
+    "The Ptokan Alliance", 
     "In this novel Corla finds herself on Mala Ptokonoi", 
     "She is accidentally subjected to a great weapon one that can destroy an entire city by expelling it piecemeal into another world", 
     "Now she must work with the other survivors in order to build everything anew", 
-    "1]Islands in the Storm", 
+    "Islands in the Storm", 
     "At long last Corla is home", 
     "Almost", 
     "Due to the transient nature of inter&#x2011;reality movement she is on an unfamiliar Tsarin island somewhat before she left", 
