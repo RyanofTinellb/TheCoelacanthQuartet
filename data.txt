@@ -115,9 +115,10 @@ Lharen recognised the name &mdash; this was Toresh&rsquo;s home. This could not 
 As quick as that, Lharen was reassigned, and walking up the corridor with a packet of papers in her hand. Still in a daze from the morning&rsquo;s events, she didn&rsquo;t realise there was anyone else there until they had already collided. Two sets of belongings scattered on the floor.
 &ldquo;Ms. Belak? You&rsquo;re Fieran&rsquo;s sister, aren&rsquo;t you?&rdquo;
 She looked up at the sound of her name. Green eyes stared back at her.
-&ldquo;I only ask because we used to go to school together. Then he became a soldier and I came here. It&rsquo;s a nice coincidence to run into both of you in the same week. It must be good to have him back in town.&rdquo;
+&ldquo;I only ask because we used to go to school together. Then he joined the peacekeepers and I came here. It&rsquo;s a nice coincidence to run into both of you in the same week. It must be good to have him back in town.&rdquo;
 &ldquo;Back? Fieran&rsquo;s back?&rdquo; Lharen&rsquo;s life had also diverged from her brother&rsquo;s, but unlike with this person, contact between the siblings had been minimal.
-&ldquo;Um, yeah. He&rsquo;s been posted back to Lusov. The pharoah even had us working together on a small project. State secret, of course. Who knows? If this job in Tsentsen works out, maybe you&rsquo;ll work with us, too.&rdquo;&date=20180518--------------------------------------------------2
+&ldquo;Um, yeah. He&rsquo;s been posted back to Lusov. Look, can I get you a coffee as an apology for knocking into you?&rdquo;
+&date=20180520--------------------------------------------------2
 [1]Seven of Cups
 &date=20180514--------------------------------------------------1
 [1]The Ptokan Alliance
