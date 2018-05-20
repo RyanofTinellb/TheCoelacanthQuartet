@@ -103,7 +103,7 @@ Corla thought back to everything she had learned on the last world she had visit
 Lharen nodded. &ldquo;That&rsquo;s my understanding, also. We have remnants of tools my ancestors used, but we&rsquo;re unable to recreate any of them. We can&rsquo;t even recognise most of the materials. In hiding the Fezhl&ecirc;&rsquo;s past, we seem to have lost our own, as well.&rdquo;
 A somber mood fell over the table.&date=20180508--------------------------------------------------2
 [1]Waterfall
-When Tussol, head of the Faculty of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside. He bade her wait for a few moments longer while he set himself up inside.
+When Tussol, head of the Department of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside. He bade her wait for a few moments longer while he set himself up inside.
 He called her in. &ldquo;Citizen Belak, is it?&rdquo; he began. &ldquo;Our records show that you were a student here, but left before the conclusion of your studies.&rdquo;
 He felt a flash of some negative emotion from her before she quashed it.
 &ldquo;Yes, Professor. I was studying to become a scribe with that department.&rdquo;
@@ -118,7 +118,12 @@ She looked up at the sound of her name. Green eyes stared back at her.
 &ldquo;I only ask because we used to go to school together. Then he joined the peacekeepers and I came here. It&rsquo;s a nice coincidence to run into both of you in the same week. It must be good to have him back in town.&rdquo;
 &ldquo;Back? Fieran&rsquo;s back?&rdquo; Lharen&rsquo;s life had also diverged from her brother&rsquo;s, but unlike with this person, contact between the siblings had been minimal.
 &ldquo;Um, yeah. He&rsquo;s been posted back to Lusov. Look, can I get you a coffee as an apology for knocking into you?&rdquo;
-&date=20180520--------------------------------------------------2
+&ldquo;I&rsquo;m the one who should apologise. I was quite distracted.&rdquo;
+&ldquo;Ok, then. You can buy me a drink. I&rsquo;m Vedran, by the way.&rdquo;
+He lead her down the corridor to the eatery.
+&ldquo;So, &rdquo; he said, once they had collected their beverages. &ldquo;What brings you here today? You&rsquo;re getting past the usual age of the students, and you don&rsquo;t look like an academic.&rdquo;
+He knew the answer already; obviously this was a conversational gambit. Lharen even started wondering if their running into each other was actually a coincidence.
+&ldquo;It&rsquo;s quite odd being back, that&rsquo;s true.&rdquo; Lharen deliberately avoided the &#x8cea;&#x554f;.&date=20180520--------------------------------------------------2
 [1]Seven of Cups
 &date=20180514--------------------------------------------------1
 [1]The Ptokan Alliance
