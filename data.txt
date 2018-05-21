@@ -123,7 +123,7 @@ She looked up at the sound of her name. Green eyes stared back at her.
 He lead her down the corridor to the eatery.
 &ldquo;So, &rdquo; he said, once they had collected their beverages. &ldquo;What brings you here today? You&rsquo;re getting past the usual age of the students, and you don&rsquo;t look like an academic.&rdquo;
 He knew the answer already; obviously this was a conversational gambit. Lharen even started wondering if their running into each other was actually a coincidence.
-&ldquo;It&rsquo;s quite odd being back, that&rsquo;s true.&rdquo; Lharen deliberately avoided the &#x8cea;&#x554f;.&date=20180520--------------------------------------------------2
+&ldquo;It&rsquo;s quite odd being back, that&rsquo;s true.&rdquo; Lharen deliberately avoided the <span style="white-space: nowrap;">&#x8cea;&#x554f;</span>.&date=20180521--------------------------------------------------2
 [1]Seven of Cups
 &date=20180514--------------------------------------------------1
 [1]The Ptokan Alliance
