@@ -1,12 +1,12 @@
 [1]The Coelacanth Quartet
 Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I&rsquo;ve decided to put this on the web. So I&rsquo;m two levels away from <em>actually</em> writing the thing. One day&hellip;.
 The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home.
-[f]<a href="trueloveconquersmost.html">True Love Conquers Most</a>
+[f]<a href="voidfear.html">Voidfear</a>
 [e]<a href="thecrackledegg/index.html">The Crackled Egg</a>
 [e]<a href="theptokanalliance.html">The Ptokan Alliance</a>
 [e]<a href="islandsinthestorm.html">Islands in the Storm</a>
 &date=20180513--------------------------------------------------1
-[1]True Love Conquers Most
+[1]Voidfear
 Corla offers to test her husband&rsquo;s new machine &mdash; and travels to Solaji, a realm of users of lovemagic. What does this mean, and how will she get home?
 &date=20180513--------------------------------------------------1
 [1]The Crackled Egg
@@ -119,11 +119,12 @@ She looked up at the sound of her name. Green eyes stared back at her.
 &ldquo;Back? Fieran&rsquo;s back?&rdquo; Lharen&rsquo;s life had also diverged from her brother&rsquo;s, but unlike with this person, contact between the siblings had been minimal.
 &ldquo;Um, yeah. He&rsquo;s been posted back to Lusov. Look, can I get you a coffee as an apology for knocking into you?&rdquo;
 &ldquo;I&rsquo;m the one who should apologise. I was quite distracted.&rdquo;
-&ldquo;Ok, then. You can buy me a drink. I&rsquo;m Vedran, by the way.&rdquo;
+&ldquo;Ok, then. You can buy me a drink.&rdquo; He grinned, and then said, &ldquo;I&rsquo;m Vedran, by the way.&rdquo;
 He lead her down the corridor to the eatery.
 &ldquo;So, &rdquo; he said, once they had collected their beverages. &ldquo;What brings you here today? You&rsquo;re getting past the usual age of the students, and you don&rsquo;t look like an academic.&rdquo;
 He knew the answer already; obviously this was a conversational gambit. Lharen even started wondering if their running into each other was actually a coincidence.
-&ldquo;It&rsquo;s quite odd being back, that&rsquo;s true.&rdquo; Lharen deliberately avoided the <span style="white-space: nowrap;">&#x8cea;&#x554f;</span>.&date=20180521--------------------------------------------------2
+&ldquo;It&rsquo;s quite odd being back, that&rsquo;s true.&rdquo; Lharen deliberately avoided the <span style="white-space: nowrap;">&#x8cea;&#x554f;</span>. &ldquo;I was so angry at Tussol for so long, and he doesn&rsquo;t even remember me.&rdquo;
+&ldquo;I could sense an echo of your anger. I&rsquo;m glad it wasn&rsquo;t directed at me. Why &date=20180524--------------------------------------------------2
 [1]Seven of Cups
 &date=20180514--------------------------------------------------1
 [1]The Ptokan Alliance
