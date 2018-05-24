@@ -1,5 +1,4 @@
 <!DOCTYPE text/html>
-<span style="white-space: nowrap;">&#x8cea;&#x554f;</span> | question | <br>
 [d stars]\n[/d] | *** | <br>
 <a href=" | {{ | <br>
 "> | :: | <br>
