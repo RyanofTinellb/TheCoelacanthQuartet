@@ -1,14 +1,17 @@
 <!DOCTYPE text/html>
+<span title="winter">&#x51ac;</span> | &winter; | <br>
+<span title="spring">&#x6625;</span> | &spring; | <br>
+<span title="summer">&#x590f;</span> | &summer; | <br>
+<span title="autumn">&#x79cb;</span> | &autumn; | <br>
 [d stars]\n[/d] | *** | <br>
 <a href=" | {{ | <br>
 "> | :: | <br>
 </a> | }} | <br>
+&lsquo; | ` | <br>
 &rsquo; | ' | <br>
 &rdquo; | " | <br>
 &ldquo; | '" | <br>
 Fezhl&ecirc; | Fezhle | <br>
-<!-- | #< | <br>
---> | ># | <br>
 &#x2011; | - | <br>
 &mdash; | -- | <br>
 &#x | &x | <br>

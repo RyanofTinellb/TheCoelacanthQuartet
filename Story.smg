@@ -5,15 +5,18 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/template.html"
   }, 
   "current": {
-    "position": "26.108", 
+    "position": "3.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/coelacanth/coelacanth.mkd", 
     "fontsize": 18, 
     "page": [
-      "The Crackled Egg", 
-      "Waterfall", 
+      "Voidfear", 
       ""
     ], 
-    "language": "hl"
+    "language": "en"
+  }, 
+  "random words": {
+    "geminate": 3, 
+    "number": 20
   }, 
   "site": {
     "destination": "c:/users/ryan/documents/tinellbianlanguages/coelacanth", 

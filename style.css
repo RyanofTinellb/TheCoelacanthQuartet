@@ -27,6 +27,21 @@ p {
     margin: 1em;
 }
 
+.content .contents_table p.example,
+.content .contents_table p.example_no_lines {
+    padding-left: 2em;
+}
+
+.content .contents_table p.example a,
+.content .contents_table p.example_no_lines a {
+    padding-left: 2em;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
 .content .stars {
     text-align: center;
     margin-bottom: 1em;
