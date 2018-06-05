@@ -124,6 +124,11 @@ table high-lulani:hover {
   border-bottom: 2px solid green;
 }
 
+.content .universe {
+    display: inline;
+    font-family: serif;
+}
+
 .content div.folding p:first-child::after {
   content: '\2190\2002 (expand)';
   font-style: italic;

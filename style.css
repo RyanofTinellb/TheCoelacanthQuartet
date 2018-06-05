@@ -27,20 +27,19 @@ p {
     margin: 1em;
 }
 
-.content .contents_table p.example,
-.content .contents_table p.example_no_lines {
+.content p.example,
+.content p.example_no_lines,
+.toc p {
     padding-left: 2em;
 }
 
-.content .contents_table p.example a,
-.content .contents_table p.example_no_lines a {
-    padding-left: 2em;
+.content p.example a,
+.content p.example_no_lines a,
+.toc p a {
     color: black;
     font-weight: bold;
     text-decoration: none;
 }
-
-
 
 .content .stars {
     text-align: center;

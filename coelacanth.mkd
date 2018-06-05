@@ -12,6 +12,4 @@
 &rdquo; | " | <br>
 &ldquo; | '" | <br>
 Fezhl&ecirc; | Fezhle | <br>
-&#x2011; | - | <br>
 &mdash; | -- | <br>
-&#x | &x | <br>
