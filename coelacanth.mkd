@@ -12,4 +12,5 @@
 &rdquo; | " | <br>
 &ldquo; | '" | <br>
 Fezhl&ecirc; | Fezhle | <br>
+Yuril&ecirc; | Yurile | <br>
 &mdash; | -- | <br>
