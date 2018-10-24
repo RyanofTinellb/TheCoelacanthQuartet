@@ -1,6 +1,6 @@
 {
   "files": {
-    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/searching.json", 
+    "searchindex": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/searching.json", 
     "source": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/template.html"
   }, 
