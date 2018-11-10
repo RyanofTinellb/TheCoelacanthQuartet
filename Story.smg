@@ -15,7 +15,7 @@
     "name": "The Coelacanth Quartet",
     "files": {
       "searchindex": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/searching.json",
-      "source": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/data.txt",
+      "source": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/data.json",
       "template": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/template.html"
     }, 
   },
