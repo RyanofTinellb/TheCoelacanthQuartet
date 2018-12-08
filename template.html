@@ -26,13 +26,6 @@
     </div>
     <script type="text/javascript">
         document.getElementById('search').style.display = 'list-item';
-        document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
-        var href = window.location.href;
-        var index = href.indexOf('#')
-        if (index != -1 && href.substring(0, index).indexOf(href.substring(index + 1)) == -1) {
-            var span = document.getElementById(href.substring(index + 1));
-            span.innerHTML = "&rarr; ";
-        }
     </script>
 </body>
 
