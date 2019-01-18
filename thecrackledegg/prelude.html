@@ -9,7 +9,14 @@
     </title>
     <link rel="stylesheet" type="text/css" href="../basic_style.css">
 <link rel="stylesheet" type="text/css" href="../style.css">
- <script type="text/javascript">if (window.location.href.indexOf("?") != -1) {window.location.href = "../search.html" +window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";}</script>
+     <script type="text/javascript">
+let href = window.location.href;
+if (href.indexOf("?") != -1) {
+    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+    window.location.href = `../search.html?${term}&andOr=and`;
+}
+</script>
+
 </head>
 
 <body>
