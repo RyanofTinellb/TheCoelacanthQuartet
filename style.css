@@ -8,6 +8,10 @@ p {
     line-height: 1.2;
 }
 
+highlight {
+    background-color: #FF0;
+}
+
 .nav-pane a {
     color: black;
     text-decoration: none;
