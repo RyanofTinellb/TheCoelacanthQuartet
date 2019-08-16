@@ -1,39 +1,23 @@
 {
   "current": {
-    "position": "36.109", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/coelacanth/coelacanth.mkd", 
-    "fontsize": 18, 
+    "position": "36.109",
+    "markdown": "C:/Users/Ryan/TinellbianLanguages/coelacanth/markdown.mkd",
+    "fontsize": 18,
     "language": "en: English"
-  }, 
+  },
   "site": {
     "files": {
-      "source": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/data.json", 
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/searching.json", 
-      "template_file": "c:/users/ryan/documents/tinellbianlanguages/coelacanth/template.html"
-    }, 
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/coelacanth", 
-    "name": "The Coelacanth Quartet"
-  }, 
-  "links": {}, 
+      "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data.src",
+      "searchindex": "c:/users/ryan/tinellbianlanguages/coelacanth/searching.json",
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/template.html"
+    },
+    "destination": "C:/Users/Ryan/TinellbianLanguages/coelacanth",
+    "name": ""
+  },
+  "links": {},
   "history": [
     [
-      "The Crackled Egg", 
-      "Waterfall"
-    ], 
-    [
-      "The Crackled Egg", 
-      "Prelude"
-    ], 
-    [
-      "The Crackled Egg", 
-      "Waterfall"
-    ], 
-    [
-      "The Crackled Egg", 
-      "Seven of Cups"
-    ], 
-    [
-      "The Crackled Egg", 
+      "The Crackled Egg",
       "Waterfall"
     ]
   ]
