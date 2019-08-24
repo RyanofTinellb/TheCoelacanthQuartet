@@ -9,7 +9,16 @@
     "files": {
       "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data.src",
       "searchindex": "c:/users/ryan/tinellbianlanguages/coelacanth/searching.json",
-      "template_file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/template.html"
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/template.html",
+      "wholepage": {
+        "template": ""
+      },
+      "search": {
+        "template": "",
+        "template404": "",
+        "index": ""
+      },
+      "wordlist": ""
     },
     "destination": "C:/Users/Ryan/TinellbianLanguages/coelacanth",
     "name": ""

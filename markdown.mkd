@@ -1,24 +1,22 @@
 <!DOCTYPE text/html>
 </div> | ]] | <br>
-<span title="winter">&#x51ac;</span> | &winter; | <br>
-<span title="spring">&#x6625;</span> | &spring; | <br>
-<span title="summer">&#x590f;</span> | &summer; | <br>
-<span title="autumn">&#x79cb;</span> | &autumn; | <br>
+<span title="winter">冬</span> | &winter; | <br>
+<span title="spring">春</span> | &spring; | <br>
+<span title="summer">夏</span> | &summer; | <br>
+<span title="autumn">秋</span> | &autumn; | <br>
+&winter; | 冬 | <br>
+&spring; | 春 | <br>
+&summer; | 夏 | <br>
+&autumn; | 秋 | <br>
 [d stars]\n[/d] | *** | <br>
 d message]\n | [[m:  | <br>
 <a href=" | {{ | <br>
 "> | :: | <br>
 </a> | }} | <br>
-&lsquo; | ` | <br>
-&rsquo; | ' | <br>
-&rdquo; | " | <br>
-&ldquo; | '" | <br>
-Fezhl&ecirc; | Fezhle | <br>
-Yuril&ecirc; | Yurile | <br>
-&mdash; | -- | <br>
-
-
-
-
-
-
+‘ | ` | s<br>
+’ | ' | s<br>
+” | " | s<br>
+“ | '" | s<br>
+Fezhlê | Fezhle | s<br>
+Yurilê | Yurile | s<br>
+— | -- |  s<br>
