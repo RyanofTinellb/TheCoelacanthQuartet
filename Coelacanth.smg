@@ -11,12 +11,15 @@
       "searchindex": "c:/users/ryan/tinellbianlanguages/coelacanth/searching.json",
       "template_file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/template.html",
       "wholepage": {
-        "template": ""
+        "template": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholetemplate.html",
+        "file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
       },
       "search": {
         "template": "",
         "template404": "",
-        "index": ""
+        "index": "",
+        "page": "",
+        "page404": ""
       },
       "wordlist": ""
     },
@@ -36,6 +39,11 @@
     [
       "The Crackled Egg",
       "Waterfall"
+    ],
+    [],
+    [
+      "The Crackled Egg",
+      "Prelude"
     ]
   ]
 }
