@@ -1,22 +1,107 @@
-<!DOCTYPE text/html>
-</div> | ]] | <br>
-<span title="winter">冬</span> | &winter; | <br>
-<span title="spring">春</span> | &spring; | <br>
-<span title="summer">夏</span> | &summer; | <br>
-<span title="autumn">秋</span> | &autumn; | <br>
-&winter; | 冬 | <br>
-&spring; | 春 | <br>
-&summer; | 夏 | <br>
-&autumn; | 秋 | <br>
-[d stars]\n[/d] | *** | <br>
-d message]\n | [[m:  | <br>
-<a href=" | {{ | <br>
-"> | :: | <br>
-</a> | }} | <br>
-‘ | ` | s<br>
-’ | ' | s<br>
-” | " | s<br>
-“ | '" | s<br>
-Fezhlê | Fezhle | s<br>
-Yurilê | Yurile | s<br>
-— | -- |  s<br>
+[
+  {
+    "markup": "</div>",
+    "markdown": "]]",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span title=\"winter\">冬</span>",
+    "markdown": "&winter;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span title=\"spring\">春</span>",
+    "markdown": "&spring;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span title=\"summer\">夏</span>",
+    "markdown": "&summer;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span title=\"autumn\">秋</span>",
+    "markdown": "&autumn;",
+    "display_markdown": false
+  },
+  {
+    "markup": "&winter;",
+    "markdown": "冬",
+    "display_markdown": false
+  },
+  {
+    "markup": "&spring;",
+    "markdown": "春",
+    "display_markdown": false
+  },
+  {
+    "markup": "&summer;",
+    "markdown": "夏",
+    "display_markdown": false
+  },
+  {
+    "markup": "&autumn;",
+    "markdown": "秋",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d stars]\n[/d]",
+    "markdown": "***",
+    "display_markdown": false
+  },
+  {
+    "markup": "d message]\n",
+    "markdown": "[[m: ",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"",
+    "markdown": "{{",
+    "display_markdown": false
+  },
+  {
+    "markup": "\">",
+    "markdown": "::",
+    "display_markdown": false
+  },
+  {
+    "markup": "</a>",
+    "markdown": "}}",
+    "display_markdown": false
+  },
+  {
+    "markup": "‘",
+    "markdown": "`",
+    "display_markdown": true
+  },
+  {
+    "markup": "’",
+    "markdown": "'",
+    "display_markdown": true
+  },
+  {
+    "markup": "”",
+    "markdown": "\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "“",
+    "markdown": "'\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "Fezhlê",
+    "markdown": "Fezhle",
+    "display_markdown": true
+  },
+  {
+    "markup": "Yurilê",
+    "markdown": "Yurile",
+    "display_markdown": true
+  },
+  {
+    "markup": "—",
+    "markdown": "--",
+    "display_markdown": false
+  }
+]

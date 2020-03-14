@@ -21,12 +21,22 @@
         "page": "",
         "page404": ""
       },
-      "wordlist": ""
+      "wordlist": "",
+      "sections": {}
     },
     "destination": "C:/Users/Ryan/TinellbianLanguages/coelacanth",
     "name": ""
   },
   "links": {},
+  "styles": {
+    "default": {
+      "group": "default"
+    },
+    "definition": {
+      "tags": "em",
+      "italics": true
+    }
+  },
   "history": [
     [
       "The Crackled Egg",
