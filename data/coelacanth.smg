@@ -1,0 +1,46 @@
+{
+  "site": {
+    "directory": "C:/Users/Ryan/TinellbianLanguages/coelacanth",
+    "name": "The Coelacanth Quartet"
+  },
+  "language": "en: English",
+  "markdown": "",
+  "links": {},
+  "styles": {
+    "default": {
+      "size": 14
+    },
+    "message": {
+      "colour": "#ff0000",
+      "justification": "centre"
+    }
+  },
+  "entries": [
+    [
+      "The Crackled Egg",
+      "Prelude"
+    ],
+    [
+      "The Crackled Egg",
+      "Firesight"
+    ]
+  ],
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data.src",
+    "searchindex": "c:/users/ryan/tinellbianlanguages/coelacanth/searching.json",
+    "main_template": "C:/Users/Ryan/TinellbianLanguages/coelacanth/page.tpl",
+    "wholepage": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.tpl",
+      "file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
+    },
+    "search": {
+      "template": "",
+      "template404": "",
+      "index": "",
+      "page": "",
+      "page404": ""
+    },
+    "wordlist": "",
+    "sections": {}
+  }
+}
