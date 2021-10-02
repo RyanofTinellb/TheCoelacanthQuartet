@@ -1,10 +1,5 @@
 {
-  "site": {
-    "directory": "C:/Users/Ryan/TinellbianLanguages/coelacanth",
-    "name": "The Coelacanth Quartet"
-  },
   "language": "en: English",
-  "markdown": "",
   "links": {},
   "styles": {
     "default": {
@@ -25,22 +20,16 @@
       "Firesight"
     ]
   ],
-  "files": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data.src",
-    "searchindex": "c:/users/ryan/tinellbianlanguages/coelacanth/searching.json",
-    "main_template": "C:/Users/Ryan/TinellbianLanguages/coelacanth/page.tpl",
-    "wholepage": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.tpl",
-      "file": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
-    },
-    "search": {
-      "template": "",
-      "template404": "",
-      "index": "",
-      "page": "",
-      "page404": ""
-    },
-    "wordlist": "",
+  "assets": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/data.src"
+  },
+  "templates": {
+    "main": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/page.tpl",
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/wholepage.tpl",
     "sections": {}
-  }
+  },
+  "locations": {
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
+  },
+  "markdown": ""
 }
