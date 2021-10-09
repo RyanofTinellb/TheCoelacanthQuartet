@@ -1,35 +1,33 @@
 {
-  "language": "en: English",
-  "links": {},
-  "styles": {
-    "default": {
-      "size": 14
+    "language": "en: English",
+    "links": {},
+    "styles": {
+        "default": {
+            "size": 14,
+            "rank": 1
+        },
+        "message": {
+            "colour": "#ff0000",
+            "justification": "centre",
+            "rank": 2
+        }
     },
-    "message": {
-      "colour": "#ff0000",
-      "justification": "centre"
-    }
-  },
-  "entries": [
-    [
-      "The Crackled Egg",
-      "Prelude"
+    "entries": [
+        [
+            "The Crackled Egg",
+            "Firesight"
+        ]
     ],
-    [
-      "The Crackled Egg",
-      "Firesight"
-    ]
-  ],
-  "assets": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/data.src"
-  },
-  "templates": {
-    "main": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/page.tpl",
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/wholepage.tpl",
-    "sections": {}
-  },
-  "locations": {
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
-  },
-  "markdown": ""
+    "assets": {
+        "source": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/data.src"
+    },
+    "templates": {
+        "main": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/page.tpl",
+        "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/wholepage.tpl",
+        "sections": {}
+    },
+    "locations": {
+        "wholepage": "C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html"
+    },
+    "markdown": ""
 }
