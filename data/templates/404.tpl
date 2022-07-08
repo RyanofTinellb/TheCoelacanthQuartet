@@ -1,69 +1,68 @@
-{
-  "text": [
-    "---",
-    "permalink: /404.html",
-    "---",
-    "<!DOCTYPE html>",
-    "<html>",
-    "",
-    "<head>",
-    "    <meta charset=\"UTF-8\">",
-    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-    "    <link rel=\"stylesheet\" type=\"text/css\" href=\"/basic_style.css\">",
-    "    <link rel=\"stylesheet\" type=\"text/css\" href=\"/style.css\">",
-    "    <link rel=\"icon\" type=\"image/png\" href=\"/favicon.png\">",
-    "    <title>",
-    "        Search the Coelacanth Quartet",
-    "    </title>",
-    "</head>",
-    "",
-    "<body>",
-    "    <flex>",
-    "        <nav-pane>",
-    "            <label>",
-    "                <input type=\"checkbox\" class=\"menu\">",
-    "                <ul>",
-    "                    <li><a href=\"/index.html\">The Coelacanth Quartet</a></li>",
-    "                    <javascript>",
-    "                        <form id=\"search\">",
-    "                            <li class=\"search\">",
-    "                                <input type=\"text\" name=\"term\"></input> <button type=\"submit\">Search</button>",
-    "                            </li>",
-    "                        </form>",
-    "                    </javascript>",
-    "                    <ul class=\"level-1\">",
-    "                        <li><a href=\"/thecrackledegg/index.html\">The Crackled Egg</a></li>",
-    "                        <ul class=\"level-2\">",
-    "                            <li><a href=\"/thecrackledegg/prelude.html\">Prelude</a></li>",
-    "                            <li><a href=\"/thecrackledegg/waterfall.html\">Waterfall</a></li>",
-    "                            <li><a href=\"/thecrackledegg/sevenofcups.html\">Seven of Cups</a></li>",
-    "                        </ul>",
-    "                        <li><a href=\"/islandsinthestorm.html\">Islands in the Storm</a></li>",
-    "                        <li><a href=\"/voidfear.html\">Voidfear</a></li>",
-    "                        <li><a href=\"/theptokanalliance.html\">The Ptokan Alliance</a></li>",
-    "                    </ul>",
-    "",
-    "                </ul><label>",
-    "        </nav-pane>",
-    "        <content>",
-    "            <h1>Search the Coelacanth Quartet</h1>",
-    "            <form>",
-    "                <input type=\"text\" class=\"term\" id=\"term\" name=\"term\" placeholder=\"Search...\"><br>",
-    "                <input type=\"submit\" class=\"submit\" value=\"Search\">",
-    "                <input type=\"radio\" name=\"andor\" id=\"and\" value=\"and\" checked=\"true\">AND",
-    "                <input type=\"radio\" name=\"andor\" id=\"or\" value=\"or\">OR",
-    "            </form>",
-    "            <results\" id=\"results\" name=\"results></results\" id=\"results\" name=\"results>",
-    "            <script src=\"/404search.js\"></script>",
-    "        </content>",
-    "    </flex>",
-    "    <script type=\"text/javascript\">",
-    "        document.getElementById('search').style.display = 'list-item';",
-    "        document.getElementsByClassName('level-1')[0].style.paddingLeft = \"0em\";",
-    "    </script>",
-    "</body>",
-    "",
-    "</html>"
-  ],
-  "styles": {}
-}
+styles: {}
+text:
+- '---'
+- 'permalink: /404.html'
+- '---'
+- <!DOCTYPE html>
+- <html>
+- ''
+- <head>
+- '    <meta charset="UTF-8">'
+- '    <meta name="viewport" content="width=device-width, initial-scale=1.0">'
+- '    <link rel="stylesheet" type="text/css" href="/basic_style.css">'
+- '    <link rel="stylesheet" type="text/css" href="/style.css">'
+- '    <link rel="icon" type="image/png" href="/favicon.png">'
+- '    <title>'
+- '        Search the Coelacanth Quartet'
+- '    </title>'
+- </head>
+- ''
+- <body>
+- '    <flex>'
+- '        <nav-pane>'
+- '            <label>'
+- '                <input type="checkbox" class="menu">'
+- '                <ul>'
+- '                    <li><a href="/index.html">The Coelacanth Quartet</a></li>'
+- '                    <javascript>'
+- '                        <form id="search">'
+- '                            <li class="search">'
+- '                                <input type="text" name="term"></input> <button
+  type="submit">Search</button>'
+- '                            </li>'
+- '                        </form>'
+- '                    </javascript>'
+- '                    <ul class="level-1">'
+- '                        <li><a href="/thecrackledegg/index.html">The Crackled Egg</a></li>'
+- '                        <ul class="level-2">'
+- '                            <li><a href="/thecrackledegg/prelude.html">Prelude</a></li>'
+- '                            <li><a href="/thecrackledegg/waterfall.html">Waterfall</a></li>'
+- '                            <li><a href="/thecrackledegg/sevenofcups.html">Seven
+  of Cups</a></li>'
+- '                        </ul>'
+- '                        <li><a href="/islandsinthestorm.html">Islands in the Storm</a></li>'
+- '                        <li><a href="/voidfear.html">Voidfear</a></li>'
+- '                        <li><a href="/theptokanalliance.html">The Ptokan Alliance</a></li>'
+- '                    </ul>'
+- ''
+- '                </ul><label>'
+- '        </nav-pane>'
+- '        <content>'
+- '            <h1>Search the Coelacanth Quartet</h1>'
+- '            <form>'
+- '                <input type="text" class="term" id="term" name="term" placeholder="Search..."><br>'
+- '                <input type="submit" class="submit" value="Search">'
+- '                <input type="radio" name="andor" id="and" value="and" checked="true">AND'
+- '                <input type="radio" name="andor" id="or" value="or">OR'
+- '            </form>'
+- '            <results" id="results" name="results></results" id="results" name="results>'
+- '            <script src="/404search.js"></script>'
+- '        </content>'
+- '    </flex>'
+- '    <script type="text/javascript">'
+- '        document.getElementById(''search'').style.display = ''list-item'';'
+- '        document.getElementsByClassName(''level-1'')[0].style.paddingLeft = "0em";'
+- '    </script>'
+- </body>
+- ''
+- </html>
