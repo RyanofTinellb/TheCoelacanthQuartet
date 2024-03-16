@@ -6,6 +6,7 @@ entries:
 language: 'en: English'
 links: {}
 locations:
+  directory: c:/users/ryan/tinellbianlanguages/coelacanth
   wholepage: C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html
 markdown: ''
 styles: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/assets/styles.tag
