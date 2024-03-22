@@ -1,7 +1,8 @@
 assets:
   source: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/data.src
 entries:
-- - The Crackled Egg
+- - The Coelacanth Quartet
+  - The Crackled Egg
   - Firesight
 language: 'en: English'
 links: {}
