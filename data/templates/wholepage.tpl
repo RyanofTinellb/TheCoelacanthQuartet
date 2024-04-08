@@ -1,23 +1,29 @@
 styles:
-- block: p
-  end: '>'
-  name: doctype
-  start: '<!DOCTYPE '
-- end: '">'
-  name: icon
-  start: <link rel="icon" type="image/png" href="/data/images/
-- end: '>'
-  name: meta
-  start: '<meta '
-- end: </div>
-  name: navpane
-  start: <div class="nav-pane">
-- end: '"></script>'
-  name: script
-  start: <script src="/data/scripts/
-- end: '">'
-  name: stylesheet
-  start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
+  - tags:
+      block: p
+      end: '>'
+      name: doctype
+      start: '<!DOCTYPE '
+  - tags:
+      end: '">'
+      name: icon
+      start: <link rel="icon" type="image/png" href="/data/images/
+  - tags:
+      end: '>'
+      name: meta
+      start: '<meta '
+  - tags:
+      end: </div>
+      name: navpane
+      start: <div class="nav-pane">
+  - tags:
+      end: '"></script>'
+      name: script
+      start: <script src="/data/scripts/
+  - tags:
+      end: '">'
+      name: stylesheet
+      start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
 text:
 - <doctype>html<doctype>
 - <html>

@@ -1,17 +1,21 @@
 assets:
-  source: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/data.src
+  source: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\data.src
 entries:
 - - The Coelacanth Quartet
+  - Story
   - The Crackled Egg
-  - Firesight
+  - Prelude
+- - The Coelacanth Quartet
+  - Story
+  - The Ptokan Alliance
 language: 'en: English'
 links: {}
 locations:
-  directory: c:/users/ryan/tinellbianlanguages/coelacanth
-  wholepage: C:/Users/Ryan/TinellbianLanguages/coelacanth/wholepage.html
+  directory: c:\users\ryan\tinellbianlanguages\coelacanth
+  wholepage: C:\Users\Ryan\TinellbianLanguages\coelacanth\wholepage.html
 markdown: ''
-styles: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/assets/styles.tag
+styles: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\assets\styles.tag
 templates:
-  main: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/page.tpl
+  main: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\templates\page.tpl
   sections: {}
-  wholepage: C:/Users/Ryan/TinellbianLanguages/coelacanth/data/templates/wholepage.tpl
+  wholepage: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\templates\wholepage.tpl

@@ -27,11 +27,6 @@ styles:
       start: <div class="no-breaks">
       end: </div>
   - tags:
-      name: maincontents
-      block: p
-      start: '<div class="content">'
-      end: '</div>'
-  - tags:
       name: script
       end: '"></script>'
       start: <script src="/data/scripts/
@@ -39,7 +34,11 @@ styles:
       name: stylesheet
       end: '">'
       start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
-
+  - tags:
+      name: maincontents
+      block: p
+      start: "<div class=contents>"
+      end: "</div>"
 text:
   - <doctype>html</doctype>
   - <html>
@@ -83,7 +82,10 @@ text:
   - "        </navpane>"
   - "        <content>"
   - '           <h1 id="thecoelacanthquartet">The Coelacanth Quartet</h1>'
-  - <maincontents><template>contents</template></maincontents><copyright>"
+  - <maincontents>
+  - <template>contents</template>
+  - </maincontents>
+  - "           <copyright>"
   - "                <no_breaks>"
   - '                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan
     Eakins</a>,'
