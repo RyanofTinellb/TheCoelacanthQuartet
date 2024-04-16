@@ -1,28 +1,28 @@
 styles:
-  - tags:
+  doctype:
+    tags:
       block: p
       end: '>'
-      name: doctype
       start: '<!DOCTYPE '
-  - tags:
+  icon:
+    tags:
       end: '">'
-      name: icon
       start: <link rel="icon" type="image/png" href="/data/images/
-  - tags:
+  meta:
+    tags:
       end: '>'
-      name: meta
       start: '<meta '
-  - tags:
+  navpane:
+    tags:
       end: </div>
-      name: navpane
       start: <div class="nav-pane">
-  - tags:
+  script:
+    tags:
       end: '"></script>'
-      name: script
       start: <script src="/data/scripts/
-  - tags:
+  stylesheet:
+    tags:
       end: '">'
-      name: stylesheet
       start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
 text:
 - <doctype>html<doctype>
@@ -31,7 +31,7 @@ text:
 - '    <meta>name="viewport" content="width=device-width, initial-scale=1.0"</meta>'
 - '    <meta>charset="utf-8"</meta>'
 - '    <title>'
-- "        Ryan Eakins\u2019s Coelacanth Quartet"
+- '        Ryan Eakins’s Coelacanth Quartet'
 - '    </title>'
 - '    <stylesheet>basic_style.css</stylesheet>'
 - '    <stylesheet>style.css</stylesheet>'
@@ -75,8 +75,8 @@ text:
   Eakins</a>,'
 - '                </no-breaks>'
 - '                <no-breaks>'
-- "                using the <a href=\"https://github.com/RyanofTinellb/Smeagol\"\
-  >Sm\xE9agol</a> web editor."
+- '                using the <a href="https://github.com/RyanofTinellb/Smeagol">Sméagol</a>
+  web editor.'
 - '                </no-breaks>'
 - '                <no-breaks>'
 - '                    Last updated: Sunday, December 29th, 2019.'

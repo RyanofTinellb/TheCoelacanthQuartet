@@ -5,9 +5,6 @@ entries:
   - Story
   - The Crackled Egg
   - Prelude
-- - The Coelacanth Quartet
-  - Story
-  - The Ptokan Alliance
 language: 'en: English'
 links: {}
 locations:
@@ -19,3 +16,4 @@ templates:
   main: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\templates\page.tpl
   sections: {}
   wholepage: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\templates\wholepage.tpl
+port: 59198

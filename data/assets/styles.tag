@@ -1,24 +1,24 @@
-- tags:
-    name: default
+default:
+  tags:
+    type: default
   props:
     size: 16
     font: Calibri
-- tags:
-    name: message
-    start: '<div class="message">'
-    end: '</div>'
+message:
+  tags:
+    type: div
   props:
     size: 80
     font: Century Schoolbook
     italics: true
     colour: '#ff0000'
     justification: centre
-- tags:
-    name: em
+em:
   props:
     italics: true
-- tags:
-    name: stars
+stars:
+  tags:
+    type: div
   props:
     justification: centre
     font: Arial
