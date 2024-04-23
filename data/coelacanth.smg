@@ -17,3 +17,4 @@ templates:
   sections: {}
   wholepage: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\templates\wholepage.tpl
 port: 59198
+languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml

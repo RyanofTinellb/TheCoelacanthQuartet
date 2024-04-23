@@ -82,7 +82,7 @@ text:
 - '        </navpane>'
 - '        <content>'
 - '           <h1 id="thecoelacanthquartet">The Coelacanth Quartet</h1>'
-- <maincontents><template>contents</template></maincontents><copyright>"
+- <maincontents><data>contents</data></maincontents><copyright>"
 - '                <no_breaks>'
 - '                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan
   Eakins</a>,'

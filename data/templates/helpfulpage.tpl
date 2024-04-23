@@ -83,7 +83,7 @@ text:
   - "        <content>"
   - '           <h1 id="thecoelacanthquartet">The Coelacanth Quartet</h1>'
   - <maincontents>
-  - <template>contents</template>
+  - <data>contents</data>
   - </maincontents>
   - "           <copyright>"
   - "                <no_breaks>"
