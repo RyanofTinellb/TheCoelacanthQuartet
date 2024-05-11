@@ -1,29 +1,23 @@
 styles:
   doctype:
-    tags:
-      block: p
-      end: '>'
-      start: '<!DOCTYPE '
+    block: p
+    end: '>'
+    start: '<!DOCTYPE '
   icon:
-    tags:
-      end: '">'
-      start: <link rel="icon" type="image/png" href="/data/images/
+    end: '">'
+    start: <link rel="icon" type="image/png" href="/data/images/
   meta:
-    tags:
-      end: '>'
-      start: '<meta '
+    end: '>'
+    start: '<meta '
   navpane:
-    tags:
-      end: </div>
-      start: <div class="nav-pane">
+    end: </div>
+    start: <div class="nav-pane">
   script:
-    tags:
-      end: '"></script>'
-      start: <script src="/data/scripts/
+    end: '"></script>'
+    start: <script src="/data/scripts/
   stylesheet:
-    tags:
-      end: '">'
-      start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
+    end: '">'
+    start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
 text:
 - <doctype>html<doctype>
 - <html>
@@ -65,7 +59,7 @@ text:
 - </ul>
 - '   </links-root></ul></label>'
 - '        </nav-pane>'
-- '        <content>'
+- '        <main>'
 - '           <h1 id="thecoelacanthquartet">The Coelacanth Quartet</h1>'
 - <main-contents>
 - </main-contents>

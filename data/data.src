@@ -21,16 +21,14 @@ entries:
       - The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin
         telepath far from home.
       - <contents_table>
-      - <block><span title="summer">夏</span> <a href="thecrackledegg/index.html">The
-        Crackled Egg</a>
-      - <span title="autumn">秋</span> <a href="islandsinthestorm.html">Islands in
-        the Storm</a>
-      - <span title="winter">冬</span> <a href="voidfear.html">Voidfear</a>
-      - <span title="spring">春</span> <a href="theptokanalliance.html">The Ptokan
-        Alliance</a></block></contents_table>
+      - <block><season>summer|夏</season> <link>The Crackled Egg</link>
+      - <season>autumn|秋</season> <link>Islands in the Storm</link>
+      - <season>winter|冬</season> <link>Voidfear</link>
+      - <season>spring|春</season> <link>The Ptokan
+        Alliance</link></block></contents_table>
       - This quartet comprises a cycle of four stories. Here they are labelled with
         different seasons, and like the seasons can be enjoyed starting at any point.
-      - It’s also possible to read them <a href="wholepage.html">all on one page</a>,
+      - It’s also possible to read them <a>wholepage.html|all on one page</a>,
         starting with <em>The Crackled Egg</em>.
       children:
         Story:

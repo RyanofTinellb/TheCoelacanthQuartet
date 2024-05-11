@@ -1,44 +1,34 @@
 styles:
   doctype:
-    tags:
-      end: '>'
-      start: '<!DOCTYPE '
+    end: '>'
+    start: '<!DOCTYPE '
   icon:
-    tags:
-      end: '">'
-      start: <link rel="icon" type="image/png" href="/data/images/
+    end: '">'
+    start: <link rel="icon" type="image/png" href="/data/images/
   template:
-    tags:
-      template: true
+    template: true
   input:
-    tags:
-      start: '<input '
-      end: '>'
+    start: '<input '
+    end: '>'
   meta:
-    tags:
-      end: '>'
-      start: '<meta '
+    end: '>'
+    start: '<meta '
   navpane:
-    tags:
-      end: </div>
-      start: <div class="nav-pane">
+    end: </div>
+    start: <div class="nav-pane">
   no_breaks:
-    tags:
-      start: <div class="no-breaks">
-      end: </div>
+    start: <div class="no-breaks">
+    end: </div>
   maincontents:
-    tags:
-      block: p
-      start: <div class="content">
-      end: </div>
+    block: p
+    start: <div class="content">
+    end: </div>
   script:
-    tags:
-      end: '"></script>'
-      start: <script src="/data/scripts/
+    end: '"></script>'
+    start: <script src="/data/scripts/
   stylesheet:
-    tags:
-      end: '">'
-      start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
+    end: '">'
+    start: <link rel="stylesheet" type="text/css" href="/data/stylesheets/
 text:
 - <doctype>html</doctype>
 - <html>
@@ -80,7 +70,7 @@ text:
 - </ul>
 - '   </links-root></ul></label>'
 - '        </navpane>'
-- '        <content>'
+- '        <main>'
 - '           <h1 id="thecoelacanthquartet">The Coelacanth Quartet</h1>'
 - <maincontents><data>contents</data></maincontents><copyright>"
 - '                <no_breaks>'
