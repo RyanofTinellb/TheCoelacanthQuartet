@@ -11,7 +11,7 @@ directory:
 entries:
   children:
     The Coelacanth Quartet:
-      date: '2019-09-01'
+      date: '2024-05-13'
       position: '1.0'
       text:
       - Eons ago, I decided to write a novel. I then decided, as a language nerd,
@@ -24,12 +24,9 @@ entries:
       - <block><season>summer|夏</season> <link>The Crackled Egg</link>
       - <season>autumn|秋</season> <link>Islands in the Storm</link>
       - <season>winter|冬</season> <link>Voidfear</link>
-      - <season>spring|春</season> <link>The Ptokan
-        Alliance</link></block></contents_table>
+      - <season>spring|春</season> <link>The Ptokan Alliance</link></block></contents_table>
       - This quartet comprises a cycle of four stories. Here they are labelled with
         different seasons, and like the seasons can be enjoyed starting at any point.
-      - It’s also possible to read them <a>wholepage.html|all on one page</a>,
-        starting with <em>The Crackled Egg</em>.
       children:
         Story:
           children:
@@ -433,3 +430,4 @@ entries:
                 subjected to a great weapon, one that can destroy an entire city by
                 expelling it piecemeal into another world. Now she must work with
                 the other survivors in order to build everything anew.
+          text: []
