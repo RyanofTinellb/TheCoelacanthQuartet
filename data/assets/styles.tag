@@ -2,7 +2,17 @@ default:
   props:
     size: 16
     font: Calibri
+    ime: autocorrect
   type: default
+i:
+  props:
+    italics: true
+  key: i
+em:
+  props:
+    italics: true
+    size: 110
+  key: Alt-i
 message:
   props:
     size: 80
@@ -11,9 +21,10 @@ message:
     colour: '#ff0000'
     justification: centre
   type: div
-em:
-  props:
-    italics: true
+season:
+  type: span
+  open: <span class="season" title="
+  pipe: '">'
 stars:
   props:
     justification: centre

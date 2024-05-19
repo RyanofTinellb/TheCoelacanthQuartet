@@ -4,21 +4,20 @@ directory:
   - - The Crackled Egg
     - - Prelude
     - - Firesight
-    - - Seven of Cups
   - - Islands in the Storm
   - - Voidfear
   - - The Ptokan Alliance
 entries:
   children:
     The Coelacanth Quartet:
-      date: '2024-05-13'
+      date: '2024-05-19'
       position: '1.0'
       text:
       - Eons ago, I decided to write a novel. I then decided, as a language nerd,
         I should create a number of constructed languages, and now I’ve decided to
         put this on the web. So I’m two levels away from <em>actually</em> writing
         the thing. One day….
-      - The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin
+      - The <cite>Coelacanth Quartet</cite> details the adventures of Corla, a Tsarin
         telepath far from home.
       - <contents_table>
       - <block><season>summer|夏</season> <link>The Crackled Egg</link>
@@ -33,7 +32,7 @@ entries:
             The Crackled Egg:
               date: '2017-07-16'
               text:
-              - The <em>Crackled Egg</em> takes place in Zhalad. Two races of people
+              - The <i>Crackled Egg</i> takes place in Zhalad. Two races of people
                 live there. While two Zhaladi or two Fezhlê can easily telepathically
                 receive and project emotion amongst themselves, a Zhaladi encountering
                 a Fezhlê has no such ability. Thus the two races tend to live separately.
@@ -43,7 +42,7 @@ entries:
                 this device, with the hope of displacing his king.
               children:
                 Prelude:
-                  date: '2019-09-02'
+                  date: '2024-05-19'
                   position: '85.0'
                   text:
                   - '<message>Warning: this chapter has not been edited. Proceed with
@@ -52,22 +51,22 @@ entries:
                     of the sand on which she sat penetrating her mind. She gingerly
                     stood up. Her legs ached from holding the meditative pose for
                     so long.
-                  - <em>One down, two to go,</em> she thought to herself. <em>By the
+                  - <i>One down, two to go,</i> she thought to herself. <i>By the
                     Six gods of Tinellb, I’ll be glad to finish this and have some
-                    peace.</em> She allowed herself to feel grief for a moment, grief
+                    peace.</i> She allowed herself to feel grief for a moment, grief
                     at being continually separated from her beloved.
                   - Realising that activity was the surest way to finding him again,
                     she stood up to take stock of her situation. Underneath the thin
                     layer of sand, she could feel paving stones. Only natural sounds
                     could be heard, and the sense of human life was far distant.
-                  - <em>A road perhaps. At least, I hope so.</em> The sun could be
-                    felt over her left shoulder. <em>Is it sunrise or sunset? Am I
-                    facing east or west?</em>
+                  - <i>A road perhaps. At least, I hope so.</i> The sun could be felt
+                    over her left shoulder. <i>Is it sunrise or sunset? Am I facing
+                    east or west?</i>
                   - The strongest sense of life was opposite the sun. She couldn’t
                     tell how far, but she realised that nothing was going to be solved
                     by sitting still.
-                  - She unfolded her cane and carefully began following the roadway
-                    away from the sun.
+                  - 'She unfolded her cane and carefully began following the roadway
+                    away from the sun. '
                   - <stars>* * *</stars>
                   - Market week! Toresh’s heart sang within her. That glorious time
                     to take goods down to the flatlands, trading olives and goat cheese
@@ -250,9 +249,8 @@ entries:
                     that tomorrow would see them finished. He was glad; he didn’t
                     mind the flatlanders on occasion, but it was very easy to become
                     tired of them. He always needed to concentrate more, trying to
-                    communicate in words. <em>Still,</em> he reflected, <em>Corla
-                    seems to be doing what she promised. That does make it slightly
-                    easier.</em>
+                    communicate in words. <i>Still,</i> he reflected, <i>Corla seems
+                    to be doing what she promised. That does make it slightly easier.</i>
                   - Later that evening, when Piado had gone to bed, the two women
                     remained awake, sipping their drinks in the bar. Toresh noticed
                     Lharen standing in the doorway, and motioned her over.
@@ -299,7 +297,7 @@ entries:
                     the Fezhlê’s past, we seem to have lost our own, as well.”
                   - A somber mood fell over the table.
                 Firesight:
-                  date: '2019-08-24'
+                  date: '2024-05-19'
                   position: '36.109'
                   text:
                   - '<message>Warning: This chapter is not yet finished. Proceed with
@@ -406,16 +404,12 @@ entries:
                     up available space.
                   - She decided to give up for the moment, and say goodbye to her
                     old coworkers.
-                Seven of Cups:
-                  date: '2018-06-05'
-                  text:
-                  - <a><b><c>This</c> is</b> text</a>
             Islands in the Storm:
               date: '2018-05-14'
               text:
               - At long last, Corla is home. Almost. Due to the transient nature of
                 inter‑reality movement, she is on an unfamiliar Tsarin island, somewhat
-                <em>before</em> she left. Now she must find her way across Tsarein,
+                <i>before</i> she left. Now she must find her way across Tsarein,
                 while ensuring she does not affect her own past.
             Voidfear:
               date: '2018-05-13'
@@ -431,3 +425,4 @@ entries:
                 expelling it piecemeal into another world. Now she must work with
                 the other survivors in order to build everything anew.
           text: []
+          date: null
