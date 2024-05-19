@@ -31,27 +31,27 @@ highlight {
     margin: 1em;
 }
 
-.content p.example,
-.content p.example_no_lines,
+main p.example,
+main p.example_no_lines,
 .toc p {
     padding-left: 2em;
 }
 
-.content p.example a,
-.content p.example_no_lines a,
+main p.example a,
+main p.example_no_lines a,
 .toc p a {
     color: black;
     font-weight: bold;
     text-decoration: none;
 }
 
-.content .stars {
+main .stars {
     text-align: center;
     margin-bottom: 1em;
     letter-spacing: 2vw;
 }
 
-.content .stars::after {
+main .stars::after {
     content: "* * *"
 }
 
@@ -63,7 +63,7 @@ highlight {
 
 @media screen and (max-width: 800px) {
 
-  .content {
+  main {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
