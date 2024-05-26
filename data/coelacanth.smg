@@ -3,9 +3,6 @@ assets:
   source: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\data.src
 entries:
 - - The Coelacanth Quartet
-  - Story
-  - The Crackled Egg
-  - Firesight
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\coelacanth\data\assets\autocorrect.ime
@@ -17,24 +14,23 @@ links:
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 locations:
   directory: c:\users\ryan\tinellbianlanguages\coelacanth
-  search: C:\Users\Ryan\TinellbianLanguages\coelacanth\special\search.html
   page404: C:\Users\Ryan\TinellbianLanguages\coelacanth\404.html
+  search: C:\Users\Ryan\TinellbianLanguages\coelacanth\special\search.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\coelacanth\special\wholepage.html
 markdown: ''
+port: 40890
 styles: c:\users\ryan\tinellbianlanguages\coelacanth\data\assets\styles.tag
 templates:
   main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
-  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\404.tpl
+  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   sections:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
-    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
-    search nav pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search_navpane.tpl
-    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+    mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation arrows.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
-    mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation
-      arrows.tpl
+    search nav pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search_navpane.tpl
+    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
+    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
-port: 20024

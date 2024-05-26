@@ -4,15 +4,18 @@ default:
     font: Calibri
     ime: autocorrect
   type: default
-i:
+cite:
   props:
     italics: true
-  key: i
 em:
   props:
     italics: true
     size: 110
   key: Alt-i
+i:
+  props:
+    italics: true
+  key: i
 message:
   props:
     size: 80
