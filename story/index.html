@@ -6,10 +6,10 @@
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../data/assets/favicon.png">
 <script src="../data/scripts/search.js"></script></head>
-<body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
-<ul><li><a href="../index.html">The Coelacanth Quartet</a></li>
-<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
-<li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="thecrackledegg/index.html">The Crackled Egg</a></li><ul><li><a href="thecrackledegg/prelude.html">Prelude</a></li><li><a href="thecrackledegg/firesight.html">Firesight</a></li></ul><li><a href="islandsinthestorm.html">Islands in the Storm</a></li><li><a href="voidfear.html">Voidfear</a></li><li><a href="theptokanalliance.html">The Ptokan Alliance</a></li></ul></div></ul></details></nav>
+<body><div class="flex"><nav class="main"><details id="menu"><summary> Menu </summary>
+<p><a href="../index.html">The Coelacanth Quartet</a></p>
+<div class="javascript"><form id="search"><p><input type="text" name="term"></p>
+<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="thecrackledegg/index.html">The Crackled Egg</a></li><ul><li><a href="thecrackledegg/prelude.html">Prelude</a></li><li><a href="thecrackledegg/firesight.html">Firesight</a></li></ul><li><a href="islandsinthestorm.html">Islands in the Storm</a></li><li><a href="voidfear.html">Voidfear</a></li><li><a href="theptokanalliance.html">The Ptokan Alliance</a></li></ul></div></details></nav>
 
 <div class="main-page"><nav class="mini"><p><a href="../index.html">← Previous Page</a></p>
 <p><a href="thecrackledegg/index.html">Next Page →</a></p></nav>
@@ -19,9 +19,12 @@
 <p><a href="thecrackledegg/index.html">Next Page →</a></p></nav>
 </div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Tuesday, May 28th, 2024</span></div>
+<span class="no-breaks">Last updated: Tuesday, July 16th, 2024</span></div>
 </footer>
 <p><script src="../data/scripts/parse_href.js"></script></p>
 <script>
+ let mql = window.matchMedia("(min-width: 800px)"); 
+ let details = document.getElementById("menu"); 
+ if(mql.matches) { details.open = true;} 
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

@@ -18,10 +18,6 @@ nav.main ul {
     line-height: 1.5;
 }
 
-nav.main ul ul ul {
-    margin-left: 5%;
-}
-
 nav.main .normal {
     font-weight: bold;
 }
@@ -58,8 +54,9 @@ main .stars p {
 
 @media screen and (max-width: 800px) {
 
-  main {
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
+    main {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
