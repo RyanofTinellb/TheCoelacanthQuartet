@@ -36,3 +36,4 @@ stars:
     top: 10
     bottom: 10
   type: div
+  key: Alt-s

@@ -20,7 +20,7 @@ entries:
             The Crackled Egg:
               children:
                 Firesight:
-                  date: '2024-05-26'
+                  date: '2024-09-22'
                   position: '36.109'
                   text:
                   - '<message>Warning: This chapter is not yet finished. Proceed with caution.</message>'
@@ -55,11 +55,14 @@ entries:
                   - Lharen had a private laugh at the phrase ‘hearing thoughts’, but everyone involved had made the decision to keep the telepathy a secret. “Unfortunately, she went with some Toplander farmers, and they’re now back in Tsentsen. Quite the opposite direction to your dig.”
                   - “That is unfortunate. Maybe some other time.” He checked his chronograph. “Speaking of time, I’m on my way to an appointment to beg for more funding, and then I’m back up at Yurilê by the end of the week. Thank-you for the drink, and apologies again for letting you knock into me.”
                   - He got up and departed, leaving a sense of satisfaction behind. Whatever he wanted, he seemed to have gotten. Lharen pondered the day’s events over her cooling drink.
+                  - <stars>* * *</stars>
                   - “She’s young, still.” Vedren was talking to Professor Tussol. “I get the sense that she’s more flexible in fact than her speech would indicate. Just tread carefully.”
+                  - <stars>* * *</stars>
                   - Lharen looked around her room, trying to decide what she desperately needed, and what she could leave behind. Most of her possessions could be discounted immediately. Clutter always seemed to fill up available space.
                   - She decided to give up for the moment, and say goodbye to her old coworkers.
+                  - The streets were empty at this time of day, but would soon be busy again as the hot sun started to set. Lharen turned the familiar corners, ascended the stairs and entered the building. Tepeth wasn’t there, which was unsurprising. Bariesi, Besi to her friends, was in her customary place, was playing a solitary game of Tarhuku.
                 Prelude:
-                  date: '2024-05-28'
+                  date: '2024-09-22'
                   position: '85.0'
                   text:
                   - '<message>Warning: this chapter has not been edited. Proceed with caution.</message>'
