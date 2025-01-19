@@ -20,18 +20,14 @@ nav.main .search {
     margin: 1em;
 }
 
-main p.example,
-main p.example_no_lines,
-.toc p {
-    padding-left: 2em;
+main .toc {
+	counter-reset: number;
 }
 
-main p.example a,
-main p.example_no_lines a,
-.toc p a {
-    color: black;
-    font-weight: bold;
-    text-decoration: none;
+main .toc p::before {
+	counter-increment: number;
+	content: counter(number) '.';
+    font-size: normal;
 }
 
 main .stars p {
@@ -47,9 +43,8 @@ main .stars p {
 }
 
 @media screen and (max-width: 800px) {
-
     main {
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-inline-start: 5%;
+        margin-inline-end: 5%;
     }
 }
