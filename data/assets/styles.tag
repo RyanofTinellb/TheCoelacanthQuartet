@@ -1,39 +1,42 @@
-default:
-  props:
-    size: 16
-    font: Calibri
-    ime: autocorrect
-  type: default
 cite:
   props:
     italics: true
+default:
+  props:
+    font: Calibri
+    ime: autocorrect
+    size: 16
+  type: default
 em:
+  keys:
+    'on': Alt-i
   props:
     italics: true
     size: 110
-  key: Alt-i
 i:
+  keys:
+    'on': i
   props:
     italics: true
-  key: i
 message:
   props:
-    size: 80
+    colour: '#ff0000'
     font: Century Schoolbook
     italics: true
-    colour: '#ff0000'
     justification: centre
+    size: 80
   type: div
 season:
-  type: span
   open: <span class="season" title="
   pipe: '">'
+  type: span
 stars:
+  keys:
+    'on': Alt-s
   props:
-    justification: centre
+    bottom: 10
     font: Arial
+    justification: centre
     size: 80
     top: 10
-    bottom: 10
   type: div
-  key: Alt-s
