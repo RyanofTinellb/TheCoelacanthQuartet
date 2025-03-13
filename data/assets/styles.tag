@@ -8,14 +8,12 @@ default:
     size: 16
   type: default
 em:
-  keys:
-    'on': Alt-i
+  key: Alt-i
   props:
     italics: true
     size: 110
 i:
-  keys:
-    'on': i
+  key: i
   props:
     italics: true
 message:
@@ -31,8 +29,7 @@ season:
   pipe: '">'
   type: span
 stars:
-  keys:
-    'on': Alt-s
+  key: Alt-s
   props:
     bottom: 10
     font: Arial
