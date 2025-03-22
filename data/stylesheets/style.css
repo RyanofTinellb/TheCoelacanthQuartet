@@ -42,6 +42,19 @@ main .stars p {
     text-decoration: none;
 }
 
+@media (prefers-color-scheme: dark) {
+
+    a,
+    a:link,
+    a:visited {
+        color: white;
+    }
+
+    nav.main a {
+        color: white;
+    }
+}
+
 @media screen and (max-width: 800px) {
     main {
         margin-inline-start: 5%;
