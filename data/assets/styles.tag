@@ -1,3 +1,14 @@
+h1:
+  type: heading
+  keys:
+    'on': 1
+    'off': Return
+  props:
+    bold: true
+    underline: true
+    colour: '#393'
+    justification: centre
+    size: 120
 cite:
   props:
     italics: true
