@@ -2,21 +2,21 @@ body {
     font-family: georgia;
 }
 
-nav.main a {
+nav.sidebar a {
     color: light-dark(black, white);;
     text-decoration: none;
 }
 
-nav.main ul {
+nav.sidebar ul {
     list-style: none;
     line-height: 1.5;
 }
 
-nav.main .normal {
+nav.sidebar .normal {
     font-weight: bold;
 }
 
-nav.main .search {
+nav.sidebar .search {
     margin: 1em;
 }
 
