@@ -2,24 +2,6 @@ body {
     font-family: georgia;
 }
 
-nav.sidebar a {
-    color: light-dark(black, white);;
-    text-decoration: none;
-}
-
-nav.sidebar ul {
-    list-style: none;
-    line-height: 1.5;
-}
-
-nav.sidebar .normal {
-    font-weight: bold;
-}
-
-nav.sidebar .search {
-    margin: 1em;
-}
-
 main .toc {
 	counter-reset: number;
 }
@@ -34,12 +16,6 @@ main .stars p {
     text-align: center;
     margin: 1em 0;
     letter-spacing: 2vw;
-}
-
-.nav-footer a {
-    color: light-dark(black, white);
-    font-weight: bold;
-    text-decoration: none;
 }
 
 @media screen and (max-width: 800px) {
