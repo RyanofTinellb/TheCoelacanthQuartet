@@ -1,0 +1,37 @@
+assets:
+  searchindex: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\data\assets\searching.json
+  source: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\data\data.src
+entries:
+- - The Coelacanth Quartet
+  - Story
+  - The Crackled Egg
+  - Firesight
+files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
+imes:
+  autocorrect: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\data\assets\autocorrect.ime
+  ipa: c:\users\ryan\tinellbianlanguages\www\data\assets\ipa.ime
+  tinellbian: c:\users\ryan\tinellbianlanguages\www\data\assets\tinellbian.ime
+languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
+links:
+  lang: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
+locations:
+  directory: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet
+  page404: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\404.html
+  search: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\special\search.html
+  wholepage: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\special\wholepage.html
+port: 40890
+styles: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\data\assets\styles.tag
+templates:
+  entry: c:\users\ryan\tinellbianlanguages\www\data\templates\entry.tpl
+  main: c:\users\ryan\tinellbianlanguages\www\data\templates\page.tpl
+  sections:
+    basesearch: c:\users\ryan\tinellbianlanguages\www\data\templates\base_search.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\copyright.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl
+    mini-nav: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navigation_arrows.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navpane.tpl
+  special:
+    page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
+url: http://coelacanthquartet.tinellb.com
