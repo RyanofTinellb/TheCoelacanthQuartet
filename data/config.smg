@@ -5,7 +5,7 @@ entries:
 - - The Coelacanth Quartet
   - Story
   - The Crackled Egg
-  - Firesight
+  - Waterfall
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\thecoelacanthquartet\data\assets\autocorrect.ime
@@ -34,4 +34,4 @@ templates:
     page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
     search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
     wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
-url: http://coelacanthquartet.tinellb.com
+url: coelacanthquartet.tinellb.com
