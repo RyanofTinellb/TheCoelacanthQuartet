@@ -22,8 +22,8 @@ entries:
             The Crackled Egg:
               children:
                 Waterfall:
-                  date: '2025-03-25'
-                  position: '36.128'
+                  date: '2025-12-31'
+                  position: '40.135'
                   text:
                   - <h1>Waterfall</h1>
                   - '<message>Warning: This chapter is not yet finished. Proceed with caution.</message>'
@@ -63,7 +63,8 @@ entries:
                   - <stars>* * *</stars>
                   - Lharen looked around her room, trying to decide what she desperately needed, and what she could leave behind. Most of her possessions could be discounted immediately. Clutter always seemed to fill up available space.
                   - She decided to give up for the moment, and say goodbye to her old coworkers.
-                  - The streets were empty at this time of day, but would soon be busy again as the hot sun started to set. Lharen turned the familiar corners, ascended the stairs and entered the building. Tepeth wasn’t there, which was unsurprising. Bariesi, Besi to her friends, was in her customary place, was playing a solitary game of Tarhuku.
+                  - The streets were empty at this time of day, but would soon be busy again as the hot sun started to set. Lharen turned the familiar corners, ascended the stairs and entered the building. Tepeth wasn’t there, which was unsurprising. Barisi, Besi to her friends, was in her customary place, playing a solitary game of tarhuku.
+                  - Years ago, this building had been much busier, but as the two cultures had drifted apart, there had been less need for this department.
                   title: Waterfall < The Crackled Egg < The Coelacanth Quartet
                 Prelude:
                   date: '2024-09-22'
